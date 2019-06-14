@@ -23,3 +23,59 @@ C:\Users\lenovo\source\repos\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa
 C:\Users\lenovo\source\repos\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csproj.CopyComplete
 C:\Users\lenovo\source\repos\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.exe
 C:\Users\lenovo\source\repos\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.pdb
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Map_v1.0_project_team7_sa.exe.config
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Map_v1.0_project_team7_sa.exe
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Map_v1.0_project_team7_sa.pdb
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.SqlServer.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\GMap.NET.Core.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\GMap.NET.WindowsForms.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Newtonsoft.Json.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.xml
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.SqlServer.xml
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Newtonsoft.Json.xml
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.xml
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.dll.config
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csprojAssemblyReference.cache
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Properties.Resources.resources
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csproj.GenerateResource.cache
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csproj.CoreCompileInputs.cache
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csproj.CopyComplete
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.exe
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.pdb
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Point.resources
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Main.resources
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Add.resources
+C:\СА-12\Алгоритмізація та програмування\Курсова\team7_sa_project-master\team7_sa_project-master\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Edit.resources
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Map_v1.0_project_team7_sa.exe.config
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Map_v1.0_project_team7_sa.exe
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Map_v1.0_project_team7_sa.pdb
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.SqlServer.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\GMap.NET.Core.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\GMap.NET.WindowsForms.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Newtonsoft.Json.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.xml
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\EntityFramework.SqlServer.xml
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\Newtonsoft.Json.xml
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.xml
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\bin\Debug\System.Data.SQLite.dll.config
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csprojAssemblyReference.cache
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Add.resources
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Edit.resources
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Main.resources
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Point.resources
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1._0_project_team7_sa.Properties.Resources.resources
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csproj.GenerateResource.cache
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csproj.CoreCompileInputs.cache
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.csproj.CopyComplete
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.exe
+C:\СА-12\Projects\team7_sa_project\Map_v1.0_project_team7_sa\Map_v1.0_project_team7_sa\obj\Debug\Map_v1.0_project_team7_sa.pdb
