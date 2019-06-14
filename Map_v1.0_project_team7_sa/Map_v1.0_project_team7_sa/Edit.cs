@@ -22,7 +22,7 @@ namespace Map_v1._0_project_team7_sa
 
         private void btnAddHand_Click(object sender, EventArgs e)
         {
-            Point frm1 = new Point();
+            Form1 frm1 = new Form1();
             frm1.Show();
             this.Hide();
         }
