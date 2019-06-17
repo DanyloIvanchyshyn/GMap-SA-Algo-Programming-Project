@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZyH-jX8d4DYRjOXRa0jS5V0",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_7DMfjXjHzcRuKTS8rNUpfU",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 28.4882817,
+               "lng" : 100.633552
+            },
+            "southwest" : {
+               "lat" : 28.4379383,
+               "lng" : 100.5788458
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "14.4 km",
+                  "value" : 14356
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 957
+               },
+               "end_address" : "216 Sheng Dao, Muli Zangzuzizhixian, Liangshan Yizuzizhizhou, Sichuan Sheng, China",
+               "end_location" : {
+                  "lat" : 28.4379383,
+                  "lng" : 100.5820432
+               },
+               "start_address" : "216 Sheng Dao, Muli Zangzuzizhixian, Liangshan Yizuzizhizhou, Sichuan Sheng, China",
+               "start_location" : {
+                  "lat" : 28.4882817,
+                  "lng" : 100.6169037
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "14.4 km",
+                        "value" : 14356
+                     },
+                     "duration" : {
+                        "text" : "16 mins",
+                        "value" : 957
+                     },
+                     "end_location" : {
+                        "lat" : 28.4379383,
+                        "lng" : 100.5820432
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e216省道\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wb{lDsvbeRxBJnCL`ADjASf@It@m@tAiAtAiA`@]`@}@tG}MbEuIz@gBTg@jFmQ|EmPj@oBfBeGxCcK\\w@b@eA@E`AO|AWpALzBRLLdDzCv@t@RPl@BpBFVRrAjARPTxAjA`ID`@JnA|@zLJlALh@fBpHXlAd@bAf@bAlAfCRb@b@BfADtETJ@x@MrEm@z@KHFZXlBfBtAlAdAzA|AxB`DnEpBrBd@d@pAl@v@\\l@DjBLpDTXBlEQRCdAMvFm@p@G~Cq@dAUdAUHAVAXBFFFFDRAxACxBCbDDpAb@xMNpDJxBL`DZnHJ|@h@dEFb@_@xBi@zCAHYFeAPcLrBk@JwAr@_D|A_Bv@}KtF_Bv@GBeApA[`@YZW\\w@~@o@fFCNBVJnAF~@fArDhDjF^fBLHpJnGn@l@t@v@JJYh@GD_Bv@g@V[BsEb@_AHGB_Ab@_Bv@c@RiBfB_ExDQNwHrMe@v@aAv@y@n@KHu@NuAZMDADABBBDDH@j@IfBU@?nHgAJ?zFEdB?D?dATtAXFPNl@sDrFa@j@g@~AMb@a@lAk@`C@vD@~@n@RhDbAlF~A|@XnBVzHfAfANnC^^HlEdANDxJbEXNnEvAbBj@dBj@xOfFfDhAdCx@bAZ`A\\VHv@MXBlMfA\\B|@kBRa@Ra@f@cA@Cb@oBRy@E{@WgIHe@^sBRmABOpBiA`FwCVElC[hBSLAx@Jl@HRNdI|Fz@n@T\\fE`HXd@"
+                     },
+                     "start_location" : {
+                        "lat" : 28.4882817,
+                        "lng" : 100.6169037
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wb{lDsvbeRhGX`ADjASf@It@m@jDsC`@]`@}@xMsXpAoChM{b@rCuJxCcK\\w@d@kA~Cg@lE`@rDhDjAfA~CJjB~ARPTxApAbJhAjOJlALh@`C~JnDrHlI`@lG{@z@KHFhC`CtAlAdAzA~FhIvCxChCjAxCRjEX`FU|H{@p@G~Cq@jCk@`@CXBFFFFDRErECbDDpAr@jSXzGZnHJ|@p@hFiAtGAHYFiNdCk@JwAr@_GtC}NlHmAtAu@|@oA|As@vFNfBF~@fArDhDjF^fB~JxGdBdBJJYh@gB|@g@V[BsGl@gAf@cCjAiH`HQNwHrMe@v@aAv@eAx@kCj@OJ@FNFrC_@pHgAfGEjB?zCn@V~@uE~Gu@bCa@lAk@`CBvFxEvAjHxBjL~AvEn@lFnAhKhEhFfBj[hKbH|Bv@MXBjNjAlCsFd@sBRy@E{@WgIHe@r@aEBOpBiA`FwCVEvFo@LAx@Jl@HRN`KlHvFdJ"
+         },
+         "summary" : "216省道",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

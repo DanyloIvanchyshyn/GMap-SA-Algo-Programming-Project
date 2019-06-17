@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9P79JH6G+GP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "666534",
+               "short_name" : "666534",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kazachinsko-Lensky District",
+               "short_name" : "Kazachinsko-Lensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irkutsk Oblast",
+               "short_name" : "Irkutsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irkutsk Oblast, Russia, 666534",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.329316,
+                  "lng" : 108.3191801
+               },
+               "southwest" : {
+                  "lat" : 55.316018,
+                  "lng" : 107.258893
+               }
+            },
+            "location" : {
+               "lat" : 55.87614019999999,
+               "lng" : 107.9525145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.329316,
+                  "lng" : 108.3191801
+               },
+               "southwest" : {
+                  "lat" : 55.316018,
+                  "lng" : 107.258893
+               }
+            }
+         },
+         "place_id" : "ChIJ94kxH0W9VlwRxz977onY6n4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazachinsko-Lensky District",
+               "short_name" : "Kazachinsko-Lensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irkutsk Oblast",
+               "short_name" : "Irkutsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazachinsko-Lensky District, Irkutsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.584326,
+                  "lng" : 109.933582
+               },
+               "southwest" : {
+                  "lat" : 54.631687,
+                  "lng" : 106.5951901
+               }
+            },
+            "location" : {
+               "lat" : 55.9738483,
+               "lng" : 107.8844829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.584326,
+                  "lng" : 109.933582
+               },
+               "southwest" : {
+                  "lat" : 54.631687,
+                  "lng" : 106.5951901
+               }
+            }
+         },
+         "place_id" : "ChIJU9AOnaraVlwRzO2kn47tCtk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irkutsk Oblast",
+               "short_name" : "Irkutsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irkutsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.31695599999999,
+                  "lng" : 119.1306879
+               },
+               "southwest" : {
+                  "lat" : 51.1373171,
+                  "lng" : 95.65773999999999
+               }
+            },
+            "location" : {
+               "lat" : 56.13214199999999,
+               "lng" : 103.948625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.31695599999999,
+                  "lng" : 119.1306879
+               },
+               "southwest" : {
+                  "lat" : 51.1373171,
+                  "lng" : 95.65773999999999
+               }
+            }
+         },
+         "place_id" : "ChIJn7wx-uZ5WFwRcJZFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

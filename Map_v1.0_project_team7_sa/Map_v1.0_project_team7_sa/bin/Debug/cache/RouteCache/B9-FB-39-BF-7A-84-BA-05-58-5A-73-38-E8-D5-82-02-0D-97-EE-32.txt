@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJeWCnc-DUHDkRzkFtGpKZrIA",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJx1muS2LTHDkRbK0nIysO6u0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 33.0036121,
+               "lng" : 76.43560389999999
+            },
+            "southwest" : {
+               "lat" : 32.9886211,
+               "lng" : 76.43085789999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 km",
+                  "value" : 1895
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 137
+               },
+               "end_address" : "SH 26, Himachal Pradesh 176323, India",
+               "end_location" : {
+                  "lat" : 32.9886211,
+                  "lng" : 76.43085789999999
+               },
+               "start_address" : "SH 26, R.F.Rangi, Himachal Pradesh 176323, India",
+               "start_location" : {
+                  "lat" : 33.0036121,
+                  "lng" : 76.4337211
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1895
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 137
+                     },
+                     "end_location" : {
+                        "lat" : 32.9886211,
+                        "lng" : 76.43085789999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eTandi-Kishtwar Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by HPPWD Rest House (on the right in 1.1&nbsp;km)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "q_mhEwmoqMHAb@KRGZMVOXS^[\\Op@SPAd@Er@IbAKPCNAV@x@@b@@L?JAp@EVCDCNEb@Sx@Y\\Qj@OVIJC@?@?B?H?P?RDVJNB@@B?@?BAJEFALCNIb@[b@c@HI@?DCLA\\IRAHAT?d@D`@Dn@J|@ZVPXHJ@ZFL@LAL?HCJCRIXGb@E^OTEPAX?@?@?@@@?PJ@@BB@DBDBJPb@@D@D@V@b@@B?@@??@B@NJNJNHB@b@RB@D@D?D?v@GV?J@LBFDNHLFNLVVLJLN^d@LLDFVLF@F?L?@?dA@\\@F?D@JDd@VFDB@FFJPp@t@j@d@XTr@^HDFBLBl@DRBH@@?D@VRTRVTd@h@Xf@Vn@HLdAlA"
+                     },
+                     "start_location" : {
+                        "lat" : 33.0036121,
+                        "lng" : 76.4337211
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "q_mhEwmoqMl@Mn@Up@c@^[nAc@v@GxC[bCD|@G\\GjCeApA]`@?j@PPDTGTEr@e@l@m@FChAOz@DpAPtAl@d@Jh@HZATGRIXGb@E^Of@G\\?VNLZRh@B\\Dh@b@Zz@`@J@|@Gb@@TH\\Pf@d@hAnA\\TN@rBBL@p@\\JFRXp@t@j@d@XTr@^PHz@Hd@Fl@f@|@~@p@vAnAzA"
+         },
+         "summary" : "Tandi-Kishtwar Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

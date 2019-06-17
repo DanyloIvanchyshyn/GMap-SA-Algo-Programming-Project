@@ -1,0 +1,334 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "CH76+32 Ribeyret, France",
+      "global_code" : "8FP7CH76+32"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "D994",
+               "short_name" : "D994",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ribeyret",
+               "short_name" : "Ribeyret",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hautes-Alpes",
+               "short_name" : "Hautes-Alpes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05150",
+               "short_name" : "05150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "D994, 05150 Ribeyret, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4127816,
+                  "lng" : 5.5607885
+               },
+               "southwest" : {
+                  "lat" : 44.4126583,
+                  "lng" : 5.5592836
+               }
+            },
+            "location" : {
+               "lat" : 44.4127125,
+               "lng" : 5.5600371
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4140689302915,
+                  "lng" : 5.561385030291502
+               },
+               "southwest" : {
+                  "lat" : 44.4113709697085,
+                  "lng" : 5.558687069708498
+               }
+            }
+         },
+         "place_id" : "ChIJnY8Q9gDwyhIRCIfS6RNMA7s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ribeyret",
+               "short_name" : "Ribeyret",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hautes-Alpes",
+               "short_name" : "Hautes-Alpes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05150",
+               "short_name" : "05150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "05150 Ribeyret, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.437318,
+                  "lng" : 5.585551
+               },
+               "southwest" : {
+                  "lat" : 44.38731,
+                  "lng" : 5.524837
+               }
+            },
+            "location" : {
+               "lat" : 44.41336,
+               "lng" : 5.554912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.437318,
+                  "lng" : 5.585551
+               },
+               "southwest" : {
+                  "lat" : 44.38731,
+                  "lng" : 5.524837
+               }
+            }
+         },
+         "place_id" : "ChIJI_1nOALwyhIRcL-7IS3D4I4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "05150",
+               "short_name" : "05150",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sainte-Marie",
+               "short_name" : "Sainte-Marie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hautes-Alpes",
+               "short_name" : "Hautes-Alpes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "05150 Sainte-Marie, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5004643,
+                  "lng" : 5.6554604
+               },
+               "southwest" : {
+                  "lat" : 44.33000759999999,
+                  "lng" : 5.4185656
+               }
+            },
+            "location" : {
+               "lat" : 44.3972185,
+               "lng" : 5.5407299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5004643,
+                  "lng" : 5.6554604
+               },
+               "southwest" : {
+                  "lat" : 44.33000759999999,
+                  "lng" : 5.4185656
+               }
+            }
+         },
+         "place_id" : "ChIJIT5blCDwyhIRALe2UKkZCBw",
+         "postcode_localities" : [
+            "Bruis",
+            "Montjay",
+            "Montmorin",
+            "Moydans",
+            "Ribeyret",
+            "Rosans",
+            "Saint-André-de-Rosans",
+            "Sainte-Marie",
+            "Sorbiers"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hautes-Alpes",
+               "short_name" : "Hautes-Alpes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hautes-Alpes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.077154999999999
+               },
+               "southwest" : {
+                  "lat" : 44.186442,
+                  "lng" : 5.4183639
+               }
+            },
+            "location" : {
+               "lat" : 44.6008723,
+               "lng" : 6.322607199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.077154999999999
+               },
+               "southwest" : {
+                  "lat" : 44.186442,
+                  "lng" : 5.4183639
+               }
+            }
+         },
+         "place_id" : "ChIJD9NgVc9ayxIRwCWP_aUZCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Provence-Alpes-Côte d'Azur, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 4.230207
+               }
+            },
+            "location" : {
+               "lat" : 43.9351691,
+               "lng" : 6.0679194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 4.230207
+               }
+            }
+         },
+         "place_id" : "ChIJrVP5ihlothIRp9EWPSaQFrc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

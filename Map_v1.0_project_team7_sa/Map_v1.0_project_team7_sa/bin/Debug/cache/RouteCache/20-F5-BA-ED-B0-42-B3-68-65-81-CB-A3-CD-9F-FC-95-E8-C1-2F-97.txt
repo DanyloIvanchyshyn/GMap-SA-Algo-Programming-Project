@@ -1,0 +1,109 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHbkHe22hEl0R8tCWgkKxu0w",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ39qwT51QDV0RaOt7L1E-6vs",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.92444769999999,
+               "lng" : 99.4607735
+            },
+            "southwest" : {
+               "lat" : 49.7607449,
+               "lng" : 99.3091596
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "29.8 km",
+                  "value" : 29777
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1730
+               },
+               "end_address" : "Unnamed Road, Mongolia",
+               "end_location" : {
+                  "lat" : 49.7607449,
+                  "lng" : 99.45125329999999
+               },
+               "start_address" : "Arbulag - Bayanzurkh Rd, Mongolia",
+               "start_location" : {
+                  "lat" : 49.92444769999999,
+                  "lng" : 99.3091596
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "9.3 km",
+                        "value" : 9293
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 478
+                     },
+                     "end_location" : {
+                        "lat" : 49.911941,
+                        "lng" : 99.4357904
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eArbulag - Bayanzurkh Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yzuoHgic}QDiCB{AlBsKZoV`@a\\XuDjDub@|Fos@NcMVeVGe@mAsJmCgTDcAdBkj@b@cNe@q`@?E`Fyk@z@mNxJqbBz@kNvPquA~Jgy@fH{k@xAsLa@aWk@i^a@aX?O"
+                     },
+                     "start_location" : {
+                        "lat" : 49.92444769999999,
+                        "lng" : 99.3091596
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20.5 km",
+                        "value" : 20484
+                     },
+                     "duration" : {
+                        "text" : "21 mins",
+                        "value" : 1252
+                     },
+                     "end_location" : {
+                        "lat" : 49.7607449,
+                        "lng" : 99.45125329999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "slsoHu`|}QnCs@hAUjGqApFlDl@^xB`GbBzDzHhElH`EjS|QJJpL`I~AfAjRzRt@fBhFhMnDzIlCfKnDfNBJd@~CdCnPn@lEfFnT`BtHnAzFt@nDjEfLPd@jDtEdIrK|BvCjB~BhFtGFHjHnCdE~AxLr@nM?zD?lEc@bQeBzLuBnAU|RiDfBs@rP{GxF}BdGwHdJiL~GmKlBwCfO}LfOeI|Be@xX}Fh\\iE~MeBtIiAvGmApWwErGkAdWuEpEOxC?@?vA?dMgBdNsClAWnGyEfJcHvAiAvJ_JnJ{ITSR[@HhGkVtAsFJe@hGcZbBeInCuMBGfEiKtBiFdHqMhBiD`AeBfBgD`DcGbCsGlAiKHkKjAoHx@cFXyG\\kHfFiJbKsHj@QlA]zWoHnBk@lNUbR[@?zUNtP|DhPbHjEfGhBhC`@j@zD~FnC`GrFxCzLa@|@g@`FsClK`@vHlEdFzB~DdBxAn@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.911941,
+                        "lng" : 99.4357904
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yzuoHgic}QHeFlBsKZoV`@a\\XuDhLewAf@id@uAyKmCgTDcAhCoy@e@w`@`Fyk@z@mNtL}qBv\\yoC`Koy@mAkv@a@qXxEiAjGqApFlDl@^xB`GbBzDzHhElH`EjS|Q|LlI~AfAjRzR~GpPnDzIlCfKrDrNjDnUn@lEfFnTpDpPt@nDjEfLPd@jDtEbMjPtItKFHjHnCdE~AxLr@jS?pWiCjOkC|RiDfBs@lXyKjRaVlKePfO}LfOeIv\\cHhk@oHtIiAvGmAd`@cHdWuEpEOzC?vA?dMgBrPkDvR}NvAiAvJ_JdKoJR[@H~I_^tGi[rF{WjEqKtBiFdHqMjDoGhGkLbCsGlAiKHkKjAoHx@cFXyG\\kHfFiJbKsHj@QhZmInBk@lNUdR[zUNtP|DhPbHjEfGjCtDzD~FnC`GrFxCzLa@~G{DlK`@vHlEdL`FxAn@"
+         },
+         "summary" : "Arbulag - Bayanzurkh Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "8MXXX39C+W6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arbulag - Bayanzurkh Road",
+               "short_name" : "Arbulag - Bayanzurkh Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bayanzurkh",
+               "short_name" : "Bayanzurkh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khövsgöl",
+               "short_name" : "Khövsgöl",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arbulag - Bayanzurkh Rd, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.02163780000001,
+                  "lng" : 99.11444659999999
+               },
+               "southwest" : {
+                  "lat" : 49.95237969999999,
+                  "lng" : 99.0314484
+               }
+            },
+            "location" : {
+               "lat" : 49.9839639,
+               "lng" : 99.0662038
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.02163780000001,
+                  "lng" : 99.11444659999999
+               },
+               "southwest" : {
+                  "lat" : 49.95237969999999,
+                  "lng" : 99.0314484
+               }
+            }
+         },
+         "place_id" : "ChIJI2DNp_uVEl0RmFA59dBn3gc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayanzurkh",
+               "short_name" : "Bayanzurkh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khövsgöl",
+               "short_name" : "Khövsgöl",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayanzurkh, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5369991,
+                  "lng" : 99.29306030000001
+               },
+               "southwest" : {
+                  "lat" : 49.8840171,
+                  "lng" : 98.08731069999999
+               }
+            },
+            "location" : {
+               "lat" : 50.1805574,
+               "lng" : 98.79556439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5369991,
+                  "lng" : 99.29306030000001
+               },
+               "southwest" : {
+                  "lat" : 49.8840171,
+                  "lng" : 98.08731069999999
+               }
+            }
+         },
+         "place_id" : "ChIJEyrh1i2vE10RVyw5kY4ROgo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khövsgöl",
+               "short_name" : "Khövsgöl",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khövsgöl, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1542471,
+                  "lng" : 102.78852
+               },
+               "southwest" : {
+                  "lat" : 48.233659,
+                  "lng" : 96.879998
+               }
+            },
+            "location" : {
+               "lat" : 50.2204484,
+               "lng" : 100.3213768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1542471,
+                  "lng" : 102.78852
+               },
+               "southwest" : {
+                  "lat" : 48.233659,
+                  "lng" : 96.879998
+               }
+            }
+         },
+         "place_id" : "ChIJV2L0_h-bCl0RXpd0E8tXm_0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

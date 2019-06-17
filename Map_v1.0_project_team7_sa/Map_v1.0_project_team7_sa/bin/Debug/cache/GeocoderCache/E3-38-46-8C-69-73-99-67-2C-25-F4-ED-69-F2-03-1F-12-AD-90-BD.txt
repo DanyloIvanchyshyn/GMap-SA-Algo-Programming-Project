@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "89FP+37 Agua Fría, Son., Mexico",
+      "global_code" : "852F89FP+37"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Janos",
+               "short_name" : "Los Janos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Son.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Los Janos, Son., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3350085,
+                  "lng" : -110.5751246
+               },
+               "southwest" : {
+                  "lat" : 30.3114942,
+                  "lng" : -110.6420518
+               }
+            },
+            "location" : {
+               "lat" : 30.3260295,
+               "lng" : -110.6107012
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3350085,
+                  "lng" : -110.5751246
+               },
+               "southwest" : {
+                  "lat" : 30.3114942,
+                  "lng" : -110.6420518
+               }
+            }
+         },
+         "place_id" : "ChIJe8Zpor240YYRALcf6JFBn-c",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cucurpe Municipality",
+               "short_name" : "Cucurpe Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Son.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cucurpe Municipality, Sonora, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6789469,
+                  "lng" : -110.4040696
+               },
+               "southwest" : {
+                  "lat" : 30.1798457,
+                  "lng" : -110.8399276
+               }
+            },
+            "location" : {
+               "lat" : 30.328987,
+               "lng" : -110.7035106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6789469,
+                  "lng" : -110.4040696
+               },
+               "southwest" : {
+                  "lat" : 30.1798457,
+                  "lng" : -110.8399276
+               }
+            }
+         },
+         "place_id" : "ChIJMzBBpna80YYR7k3R16AmFH4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Son.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonora, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4939131,
+                  "lng" : -108.4242708
+               },
+               "southwest" : {
+                  "lat" : 26.2969879,
+                  "lng" : -115.0530223
+               }
+            },
+            "location" : {
+               "lat" : 29.2972247,
+               "lng" : -110.3308814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4939131,
+                  "lng" : -108.4242708
+               },
+               "southwest" : {
+                  "lat" : 26.2969879,
+                  "lng" : -115.0530223
+               }
+            }
+         },
+         "place_id" : "ChIJD9JN52kpmIYRdOO7_Br_Vs0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

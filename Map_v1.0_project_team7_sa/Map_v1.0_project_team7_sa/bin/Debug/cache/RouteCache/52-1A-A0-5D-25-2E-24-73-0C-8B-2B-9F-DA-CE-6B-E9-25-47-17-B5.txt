@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJI2DNp_uVEl0RmFA59dBn3gc",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHbkHe22hEl0R8tCWgkKxu0w",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.97393899999999,
+               "lng" : 99.3091596
+            },
+            "southwest" : {
+               "lat" : 49.9222723,
+               "lng" : 99.0782931
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "18.7 km",
+                  "value" : 18742
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1038
+               },
+               "end_address" : "Arbulag - Bayanzurkh Rd, Mongolia",
+               "end_location" : {
+                  "lat" : 49.92444769999999,
+                  "lng" : 99.3091596
+               },
+               "start_address" : "Arbulag - Bayanzurkh Rd, Mongolia",
+               "start_location" : {
+                  "lat" : 49.97393899999999,
+                  "lng" : 99.0782931
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "18.7 km",
+                        "value" : 18742
+                     },
+                     "duration" : {
+                        "text" : "17 mins",
+                        "value" : 1038
+                     },
+                     "end_location" : {
+                        "lat" : 49.92444769999999,
+                        "lng" : 99.3091596
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eArbulag - Bayanzurkh Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cp_pHifv{Q~GyJtS_ZlQaWdHaTfLk]tHaUvEcJvn@omArYq{@|Lw^fBmF~HkFjUmOLIlD_W`Iok@@EUee@KmU@GnG_e@@KlDsIfM_[zAsGlEgR`Cmm@x@eT|Tmw@fH}VbG}SlI{YBqB|AmtAVaUKiA_F{l@{Cg_@q@eIsAuZmA{XCu@pAwh@PuGKwUQ{a@Quc@Ok^M{\\kCaa@iDch@aA_OaAce@z@yBhL_ZfAuL`@aY"
+                     },
+                     "start_location" : {
+                        "lat" : 49.97393899999999,
+                        "lng" : 99.0782931
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cp_pHifv{Qt\\ye@lQaWdHaT|Ums@nu@sxApg@i{AfBmF~HkFxUwOnNocA]a|@pGke@tRse@hH{ZzDsbAvp@e_C`B_xAVaUKiA{JcmAq@eIsAuZqAqZbBmq@_Au|BM{\\kCaa@kFcx@aAce@z@yBhL_ZfAuL`@aY"
+         },
+         "summary" : "Arbulag - Bayanzurkh Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

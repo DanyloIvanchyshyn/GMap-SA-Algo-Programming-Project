@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "8MRH279Q+57"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mining Road",
+               "short_name" : "AH4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bulgan",
+               "short_name" : "Bulgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mining Rd, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0356374,
+                  "lng" : 91.32617239999999
+               },
+               "southwest" : {
+                  "lat" : 46.0077013,
+                  "lng" : 91.2428331
+               }
+            },
+            "location" : {
+               "lat" : 46.0274217,
+               "lng" : 91.2896231
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0356374,
+                  "lng" : 91.32617239999999
+               },
+               "southwest" : {
+                  "lat" : 46.0077013,
+                  "lng" : 91.2428331
+               }
+            }
+         },
+         "place_id" : "ChIJtfOFLVOmVl0RaL9UzSp5ZkM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulgan",
+               "short_name" : "Bulgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulgan, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.63058969999999,
+                  "lng" : 91.7736053
+               },
+               "southwest" : {
+                  "lat" : 45.1011991,
+                  "lng" : 90.66329949999999
+               }
+            },
+            "location" : {
+               "lat" : 45.7469466,
+               "lng" : 91.0867701
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.63058969999999,
+                  "lng" : 91.7736053
+               },
+               "southwest" : {
+                  "lat" : 45.1011991,
+                  "lng" : 90.66329949999999
+               }
+            }
+         },
+         "place_id" : "ChIJaaMf43IIVF0RIPZJPdG5ITA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khovd, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9803121,
+                  "lng" : 94.43904289999999
+               },
+               "southwest" : {
+                  "lat" : 45,
+                  "lng" : 90.663551
+               }
+            },
+            "location" : {
+               "lat" : 47.1129654,
+               "lng" : 92.31107519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9803121,
+                  "lng" : 94.43904289999999
+               },
+               "southwest" : {
+                  "lat" : 45,
+                  "lng" : 90.663551
+               }
+            }
+         },
+         "place_id" : "ChIJE3Ol9gpKTF0RM2iSekuTTfg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

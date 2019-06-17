@@ -1,0 +1,249 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "XCQJ+84 Mindhal, Himachal Pradesh, India",
+      "global_code" : "8J4RXCQJ+84"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tandi-Kishtwar Road",
+               "short_name" : "SH 26",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chamba",
+               "short_name" : "Chamba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Himachal Pradesh",
+               "short_name" : "HP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "176323",
+               "short_name" : "176323",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SH 26, Himachal Pradesh 176323, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9892673,
+                  "lng" : 76.43381579999999
+               },
+               "southwest" : {
+                  "lat" : 32.9539205,
+                  "lng" : 76.4235815
+               }
+            },
+            "location" : {
+               "lat" : 32.9691598,
+               "lng" : 76.4266368
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9892673,
+                  "lng" : 76.43381579999999
+               },
+               "southwest" : {
+                  "lat" : 32.9539205,
+                  "lng" : 76.4235815
+               }
+            }
+         },
+         "place_id" : "ChIJx1muS2LTHDkRbK0nIysO6u0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "176323",
+               "short_name" : "176323",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Himachal Pradesh",
+               "short_name" : "HP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Himachal Pradesh 176323, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.2099097,
+                  "lng" : 76.7907996
+               },
+               "southwest" : {
+                  "lat" : 32.8062058,
+                  "lng" : 76.2228999
+               }
+            },
+            "location" : {
+               "lat" : 32.9753361,
+               "lng" : 76.5488232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2099097,
+                  "lng" : 76.7907996
+               },
+               "southwest" : {
+                  "lat" : 32.8062058,
+                  "lng" : 76.2228999
+               }
+            }
+         },
+         "place_id" : "ChIJH-pMFakrAzkRdyKDqkoXEmw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chamba",
+               "short_name" : "Chamba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Himachal Pradesh",
+               "short_name" : "HP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chamba, Himachal Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.20714,
+                  "lng" : 76.88345989999999
+               },
+               "southwest" : {
+                  "lat" : 32.1779801,
+                  "lng" : 75.79741
+               }
+            },
+            "location" : {
+               "lat" : 32.7573487,
+               "lng" : 76.17837390000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.20714,
+                  "lng" : 76.88345989999999
+               },
+               "southwest" : {
+                  "lat" : 32.1779801,
+                  "lng" : 75.79741
+               }
+            }
+         },
+         "place_id" : "ChIJyXkrHcy9HDkRxP_Fn1nzfVU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Himachal Pradesh",
+               "short_name" : "HP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Himachal Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.257958,
+                  "lng" : 79.003309
+               },
+               "southwest" : {
+                  "lat" : 30.382469,
+                  "lng" : 75.5874709
+               }
+            },
+            "location" : {
+               "lat" : 31.1048294,
+               "lng" : 77.17339009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.257958,
+                  "lng" : 79.003309
+               },
+               "southwest" : {
+                  "lat" : 30.382469,
+                  "lng" : 75.5874709
+               }
+            }
+         },
+         "place_id" : "ChIJ9wH5Z8NTBDkRJXdLVsUE_nw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

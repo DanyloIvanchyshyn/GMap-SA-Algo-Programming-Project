@@ -1,0 +1,469 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJTbjPmI_FADsRRSDTaIANr5c",
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ej40OSwgU3lkZW5oYW1zIFJkLCBQZXJpeWFtZXQsIENoZW5uYWksIFRhbWlsIE5hZHUgNjAwMDA3LCBJbmRpYSIaEhgKFAoSCeFWM_v9ZVI6Eb4CEOX38PeUEDE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 13.0826943,
+               "lng" : 80.27068009999999
+            },
+            "southwest" : {
+               "lat" : 9.9251173,
+               "lng" : 78.11979780000001
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "462 km",
+                  "value" : 462473
+               },
+               "duration" : {
+                  "text" : "7 hours 34 mins",
+                  "value" : 27222
+               },
+               "end_address" : "49, Sydenhams Rd, Periyamet, Chennai, Tamil Nadu 600007, India",
+               "end_location" : {
+                  "lat" : 13.0826943,
+                  "lng" : 80.27068009999999
+               },
+               "start_address" : "Chinnaurseri, Madurai, Tamil Nadu 625001, India",
+               "start_location" : {
+                  "lat" : 9.9251933,
+                  "lng" : 78.11979780000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 382
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 9.924396,
+                        "lng" : 78.1231724
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eNH85\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by study abroad education consultants in madurai (on the left)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "moq{@wwx{MDUFUHIBSHa@Dk@l@gEJmALu@F[BUJg@NuA@M"
+                     },
+                     "start_location" : {
+                        "lat" : 9.9251933,
+                        "lng" : 78.11979780000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 712
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 9.930140399999999,
+                        "lng" : 78.1259895
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the statue to stay on \u003cb\u003eNH85\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Os Palapazham (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ojq{@yly{McBk@m@_@m@]m@Yc@SA?cCiA{FsCc@Wk@UYIoEeAmD_A"
+                     },
+                     "start_location" : {
+                        "lat" : 9.924396,
+                        "lng" : 78.1231724
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 9.930030499999999,
+                        "lng" : 78.12648449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at VIVO AUTHORISED SERVICE CENTER to stay on \u003cb\u003eNH85\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by YES Bank (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "knr{@m~y{MDe@N{@"
+                     },
+                     "start_location" : {
+                        "lat" : 9.930140399999999,
+                        "lng" : 78.1259895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 358
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 9.929069999999999,
+                        "lng" : 78.1292847
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Sri Velavan Traders Pvt. Ltd to stay on \u003cb\u003eNH85\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Madurai , Devi Travels (on the left in 300&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "umr{@oaz{MRINKNMT_@b@u@Zq@Vu@Tu@DW@I?IAOEWQaACQAS?i@?M@K@GBGBE@ABC@?BA@??@@?@@@@"
+                     },
+                     "start_location" : {
+                        "lat" : 9.930030499999999,
+                        "lng" : 78.12648449999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.5 km",
+                        "value" : 4534
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 693
+                     },
+                     "end_location" : {
+                        "lat" : 9.929817199999999,
+                        "lng" : 78.16865949999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Ramakrishna Plywood onto \u003cb\u003eKalluppatti - Maravapatty Rd\u003c/b\u003e/\u003cb\u003eMadurai - Kallal Rd\u003c/b\u003e/\u003cb\u003ePanagal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Madurai - Kallal Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Free Toilet (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ugr{@_sz{Mh@cA^e@h@oAlFcM\\i@hBsEbAoC\\_AJ[Nk@xA{GPuAXgBJo@Jo@L_ANkBA?AAAA?AA??A?AA??A?A?A?A?A?A@A?A@A?A@??A@?GOAIASAG?MCQAECGAAAEESEMKW[y@U]MOa@e@?Ag@i@KMKKCGEIEICOAACMESC]EYEUIe@COEQIUAYA]Ca@@q@Bk@BUBM@GDMHQZi@Ra@HMDKDO@IDc@@[B[?a@?KAMAMCSG_@Ia@MWIOIQOWKWISKc@Gi@Eq@C[Cc@AUC_@EYY{BYqBAIDOAI_@mCAIKy@CUGk@GcAEuCGcA?c@Bs@@g@?UAQCi@AMAUEc@I_@CUAO@U@a@@[Aa@?ICUMu@Qw@Mq@COQy@Ki@Kk@AISs@AEGKOw@Q}@Ig@Ga@Cg@IsAEs@C]CUEYEe@KgA?II{ADMAOKiAKoAOeBSeBWqBWcCUqBMu@QcACMQ_AIm@Ku@Gi@C]?UAU@]BwA@cA@sA@U?_@Au@Ag@AmA?QEmB?]Mo@"
+                     },
+                     "start_location" : {
+                        "lat" : 9.929069999999999,
+                        "lng" : 78.1292847
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "128 km",
+                        "value" : 128490
+                     },
+                     "duration" : {
+                        "text" : "1 hour 49 mins",
+                        "value" : 6561
+                     },
+                     "end_location" : {
+                        "lat" : 10.8089062,
+                        "lng" : 78.71193210000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at PC Perungayam Manufacturer &amp; Supplier Of Compounded Asafoetida (PC Company) onto \u003cb\u003eNH38\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Thirupathi Traders (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "klr{@cib|MMWIKKGMEOEYIa@@W?W?WAs@Em@Ei@GQEe@IGAIC_AWA?}Bq@oAi@g@We@YoAaAk@i@?Ag@i@MOqBeCcAoAkA_BqEwFoBeCoDsE_DcEkHiJ}BwCiAyAUYsCoDeC_DoKyM_EaFqF{GaGsHUYeIcKaAoA_C{C_GqHiPsSIICEOQuGcIcAsAgDiE_@e@SWyCsD{FeHwCqDaAkAKMq@y@{BmC_DcEy@gAiBqBkCsC{B}BqAkAQQu@m@oAaA_Au@m@e@a@_@a@]e@i@}@iAg@y@o@iAeB_DqBgDu@iAy@kAg@o@e@m@uAeBMOiEqFe@m@eBwB}BuCaBaCgBgCeBcCUWW_@s@cAIKo@y@_@g@c@i@y@{@u@o@kA_Ao@g@eBqA_Ay@c@e@e@i@Wa@Wc@c@y@[w@[gAQw@Kq@Gk@EYGsAQ{DWuCUcBs@{CUu@a@wAWkAIi@Iq@WuDQyAKs@[qAc@qA_@{@O[mAaCaAgBm@kAQc@e@kA}@mCq@wBsAaEo@mBgA_DaA{CSk@q@uB[y@u@{ASYs@}@g@e@w@{@_A}@cA}@}AiAGE_BgAoA{@aAq@qA{@mAu@}F{DIG_DuBoB}AoBuAeCgB}@o@aAs@{@y@[a@KMKOi@{@i@_A_@cAW{@i@uBwDqNKc@i@oBSs@k@sBo@aCm@aCu@wCc@yA_@}Au@oCkA_Dk@oAm@qAiB{CmBwCsBqCg@w@k@cAu@sAQc@M_@GQMc@S{@Oy@a@uCaAoHAEk@uDwA_H{@yD_@yBIe@OuAO{CYcFa@yF[kGKiBKeEG_FEq@C_@K{@Mi@Qw@ESEKOg@k@cBc@oAUo@}@kDuE}L{DaKeB{Em@oBk@qB]mA[mAWgAMg@i@cCa@qAUq@Uo@Wi@e@{@o@_AgCyC_AiA{@mAa@o@Yi@i@cA}@{Bc@uAGU[mA{@gE{@kES_AOm@_@gAu@qBc@aAmB{EwB_F}AeEGOaBaDa@sAQq@Mu@Ou@MuAi@yESkAe@aBi@qASa@g@w@i@u@oAqAoAgA}CcCaCsBgBwAkAcAk@i@m@m@q@aA_@w@c@}@]aAc@yASaAOm@Qw@Ke@q@uCk@eDc@_D]_Cq@wEUcBIeAEe@CuA@q@@i@FaAJgAVqBF_@bAwGJi@`@cCp@aFb@sCd@yCVqAh@gCn@aCf@cB`@sAl@_BdAaC`BoDbB}CvCuFlA{BnDmGl@iAP_@JQXo@Zy@JYh@yAz@_D`@wB`@kCXmDNkDD}DEoBQcD[wCe@}Ci@yBOs@y@gC{@{ByA_Di@}@i@cA{AsBkAoAm@k@w@y@mBeBwB}AeBeA}A{@kBy@u@Yy@YAAAA_A[ICgBe@gBc@oB]eC[yCUgBGM?wBC}BDaBLqAFyGh@oDXk@FaDXyANuGl@WBE@]BS@aHl@cCNmMpAcK|@{Hz@oCXo@Ds@Fy@HG@cAHsBRA?mCPkAJ]F[DuK`AsEd@cENgC@}AAY?aAG_BM_BSsAWqCo@uDu@mBa@iF{@cCa@[Gm@M_AWiAc@i@UwDsBkBcAg@Qa@OkA_@wA[wBUqAIkAGaBIgAKyDc@kF{@wAWsIqBc@KGCUGoAa@_EuAkA[i@Ki@KmC]}AQ_BQsC_@mBUmBU_BQ}@I{@CcAAyABK@y@FeE\\sAB}@?oAEi@EUEaBW{@UgBq@uJaEoB}@aBq@cBi@uA]sAUkAO}@Ie@Cs@CkACeBAIAkA?mBCOAsAEY?gDG_CEo@?_A@sAFa@Do@H{ATgARc@FaBXcIfA{K|AiBRuHjAmJlBeP|DeKdC}NrDyEdAmKjCaEhAwDz@_ARsATsC^_E^gD`@qGh@oCRiBDoA@qA@_MJeON_BFa@Bu@H}Cb@_IfAuAPcAFa@@s@?q@E}@GCAk@IkCk@cBe@g@ScAg@eBaAyAk@eEkAaCa@iBO_DMeGQ{CIaDKaCU_C_@_B]{Bo@[KaDmAaC{@_D_AaD{@aFaB}DcByBcAgG}CqB_AGE}Aq@mA[aAS_AQqCWyBOoBQkBYaAUcA[oEqAcCg@_B[_@GqCYc@Eg@CgCKyBCqAAWAyCI}DOkBIsBMaE]kCU]EcAKsBU}AUoAOkBWoC]uBWKA{@KcAMoAMu@M_AQc@McBg@kFwAeAWk@M}Bg@uDq@kCe@gAOeAOgAOiBSsBQsAIMAmBKyCOeCGqCGiCEsBGsFOiBIeBMSA_CYgCk@wCy@iBo@uBeAyA{@}@m@aAs@eB_BmAmAk@s@gB}BeAiAe@a@m@e@iAo@gAg@{@WqA[aBUa@GyIo@qEYwDWoCWw@Mu@QmA]sGaC{@[oE_BcBg@eE}@yD_@iBIuBGuBGyCGaCB_CPgCd@aAXcA^sBdAcD`B]TiFhDoAr@eDvA_B`@yBf@mANsBReADgC@aBCcBK_BQoWuCsDa@c@GMASCyDc@oD_@{CYqAOkASeB]qBk@sAe@uAi@gB}@gPmKiPgKAAgAy@eBiAwAeAoAcAeB}AoBiBe@_@eNiNiEiEuB_B{A{@sAo@iA]{A[oB[YCqFi@{AO}@OgAO_B[{Dy@mAW]EkAKyBM_Ha@]CoEm@aCe@oBc@uBi@gBg@aMcDuEmAcAUiBa@oC]gBSaAGo@Aq@Ai@Au@?kBDmAFyDTwGXeJd@U@m@@_@@kAHmERiJd@gBHmDNgBH_A@k@Ao@Ce@E]EmAQaAS}Cq@}B]a@E[EI?s@C}@AyAF_BNqC\\mARcBVeDb@qBRuBN}CLoFRmCLqBLg@Dw@HcAPi@H{@PaB^WDaLxBaAPcAPq@J}@F}ABkACeAGG?iAMw@IwEk@cAOIA_Da@wASqB_@_Cq@mIkCeF}AoCs@cAQeAMe@G[Aa@AgDCcHCUAa@A_@AC?sAOqAUoA]m@UeDuAgBu@_@MECWKAAQGCCwD_Bq@[y@WmA[sAWqAOgAEoAC_ACaDO{ACsAE}AGkDIw@Ak@Ag@Eu@As@Ay@?g@?uABsENsBJgBFeCBoCDoB?{C@wA@oE@E?Y@]?A?eEByC@kAE{AOgAS_Do@iE{@mFy@g@ISC]EkHw@kD[yAIm@AqABi@BsAHe@DoBPmAHqADaB?{BGq@AmAEq@Ag@?s@@W@a@BWB{Cb@aDd@}@J[@qABm@?g@CcAIaAIc@Gm@I}Fy@}AS}@Gy@Cc@CsA@aADo@Fq@Li@Lc@Hg@Pq@V_@N]Na@Rm@\\a@Vi@`@aCzAmEpCGBiAr@aBx@WJuChAeBb@aBXK@oAP[Do@FU@y@BgADaDNa@BA?]BaBDoALyGfAqBTuBR{BDI?oA@gAAcBKo@EwASgASyASy@KiAI{@Cu@?o@BoAH{CVy@HuAHuAH}@DuADoA@{@@Y?cAB}AL]BeBPoAPq@NOD}Cx@qDtAwJbE_CfAkBt@gA^{Ad@{@ReAXa@JuCf@q@HQBE@UBIBq@HuE^Y@uCHqD@}CI_@AcF_@eUqB}NiAaCSaCYa@Ia@Ii@OOG]KUKm@W}@g@sAaAo@o@USGIw@cAy@wAk@yA]uAc@gCWoB[sBYkB_AwGk@_D]cBa@}As@iCk@aBWs@_A}B}AcDeBsDUa@S]c@y@aEmFmBkCgA}Ay@mAe@u@SYkCmEo@eAcAiBYg@uAkCe@q@e@u@CE}AcBa@a@cAcAi@k@[a@g@q@Yg@k@kAACO_@Oe@GUIa@I]k@oDc@cCc@qAUk@Sc@uAyBsA}AmCcDeD_EsCmDgE{FkAkAq@i@q@a@{As@eA]i@SsCw@wAa@q@Qw@Uq@SuAi@qAs@uAgAqAaAaAw@aEcD}D}CiBiAcAe@_FkBuAm@aB_Ao@c@eAw@kAaAoAsA{A_Bi@k@iA{@o@a@e@[eCsA_@UWM{BsAm@[m@c@[Sk@g@o@u@Y[[g@q@iASg@Oc@mBwG_@kAOo@a@kA]w@OY_@i@w@cAg@i@iA}@cAo@eDgB{A{@wA{@mBkAeBgAaBmA{AmAAA}AwAaBiBu@_Am@y@qAkBk@y@We@e@w@o@qAwBwE_D_F}AoB}BoB{CoBwCuAIGIESKeFaCoFeCoFiCuAaAy@s@y@_Ay@kA{@uA{A}Bq@u@g@g@_Au@iBeAs@[i@S_AUqAS}@KmAImCOcHa@iBKaAGsCOuBSy@MoA]{@]u@[qAs@GEy@m@o@m@g@o@a@i@eAkBc@iAi@aBkAiEm@aBUg@e@y@S[EIg@s@}@y@i@c@k@_@e@Y]Sm@Yy@Wi@S{Aa@{Cw@w@Qu@UkHeB_ImAmO}BsAScC]_EYgCCqC?oCKsBOcC[sBe@sBe@aB_@sEcA_Be@{Am@yC}Ac@Y{@c@y@]}@WoEuAgBq@oAo@eAq@qAkAiBsB_AgAk@m@i@e@s@i@y@e@wAk@yBm@cDo@wA[uA_@uAg@cA_@qAk@cDoAkBs@wB{@_Aa@_A_@_A_@eGkCu@a@aEyBqAo@y@c@eCcAg@Qc@MoA_@aB_@s@MmC_@gEy@y@SUEq@Oq@Qq@Su@Ui@Uk@[_Ak@}AgAwNsKuCwBOMOKQOkA}@u@q@{@_A]a@Yc@q@}@w@mAoBqCi@s@{@}@o@q@u@o@o@g@}@q@]Wq@e@uEiDMKOKuEiD}JoHqCqBsB{AgAw@y@c@uDkB{By@}A_@y@QuA[{A[sDq@_B[qAYaB_@uA[aDm@mB_@YG[IkAUeFsAkBa@aCs@gC{@eAg@{AcAgA}@]Ye@e@k@q@u@_AOOq@cAcAuAqC}D_DiEeB_C{AgBg@i@g@a@{@m@_Ai@uAk@iBg@oDq@iASa@I[KgA]_Bs@_Ak@w@i@{AiAe@YgAo@YM{@]w@UcAYm@K}@K{JgAq@GuFm@qCa@e@GgBYqCg@sAQaAOmBQkBQ{AQi@M]KSGeIyCoBo@o@So@M[K_@KaDu@aNoD{Ae@cA]iDwAyQaI]OYMm@[gGgCaAc@o@_@eAm@kAy@u@i@q@s@aA{@AAm@q@SUc@e@q@}@gA_Ba@q@e@_AOa@]q@uBgGu@wB]aAa@_Ac@u@cAuAsAmAWSoBuAuBwAwAgAk@i@s@{@]e@]k@Yi@m@wAcAgCa@cA]q@MWg@w@[c@]_@iAkAyDoDiBcBsAmAsAqAg@i@cAoAo@{@[a@mBuBYUu@i@kBcA}CcBGE}@c@kAk@yA{@aBiA{CcCgCaBg@WcAe@uBu@YGiBa@i@GeCYu@K}Eq@c@Ki@Ou@Sk@SuAs@eAs@s@o@{@y@eA{AmBuDOWIQgBgDi@{@s@cAKQY[sBiBeAs@oAm@eCcAgBo@iAc@YKuCwA_EqBaBq@YK[KiGyBo@WiHsCwAq@OI_BkAcAq@WQ}@s@s@m@uAuA[]u@_Ao@{@c@m@Wg@cAeBeAqBk@eAiAiBWe@uAcCwD}Go@iAm@gAaF}I]o@MWmEyHeB}CmBeDoBqDSc@gB_D_AgBS]EIYe@Yg@MUa@o@GIm@}@_@g@s@u@q@s@kB{AQMo@a@yA{@aAe@yAi@iCu@gB_@}@MeAM}@O[Ai@GoAMw@K}ASoAMmBUeAOiEi@uIeAoAKoEk@{Fs@mGw@gAMmAM[GKCwFo@iAMeBU_@EqAQ]EiCSmAY}Ac@y@]QKeAm@OI]YWUY[k@o@y@iAo@}@uAqBuAuB_DsE}@sAKOMSGIaAwAuE{G}AoBOUuB{Cg@u@aB{CGMg@eAi@eAi@aAi@_Aw@aAu@y@u@k@u@g@eAi@sAm@}Aq@{Au@UMg@]w@m@u@q@cAoA}@wAiAmB{CiFmAuB]k@Ua@}BoDa@i@a@g@_AcAmAiAgBcBYYs@o@w@_AwAqBu@kAq@{@aAeAuAuAaCaBmBuAmA_AiCuBuAkA{AmA_@Y{@o@kA}@uAmAaAs@IG_Aq@qA_Ao@_@uCgBoAs@WOsCeB[MgAq@]SmDsBuAw@u@_@iBw@g@Um@UKEiBu@kAk@c@Uc@Y[U_C}Ac@[YQ]Qa@Sg@Uc@QWIi@Qy@Ug@MeBe@_AWmBc@i@Mg@Q[MyAm@YO]Q}@i@o@c@}@m@q@k@mAeAmAcAiA}@{B}AQM_Ao@eAq@yCgBiDoBiFqCsCeBoBkAs@e@u@a@qAw@eAo@}BsAgAq@}@g@cBoA}A}@sDsBaIsE_@WWSsAkAq@c@{@g@]UaBaAeC}AcAs@_C_BiAy@cCcBCAgCaBoBqAuA}@u@g@kHaEcBcAs@g@aAq@y@i@{AaAaAm@wCqB}B}AaBeA{AaAeDmBaCuAcDkBmBgAc@UsBoAwAy@gAq@}BsAECyCeBQKm@]e@W{@g@cAq@_Am@oE_DiAaAk@g@[[eAeAcAaAsDsDc@e@_A{@y@y@MKkAiAgAeAiAiAeAaAaA_AeCyBaAs@qBuAm@c@y@i@sBuAwAaAuBwAsBwAUQSMgAu@yA_AsBiAaAa@SGSIe@O[IcAWmAWm@MmASy@Qo@McCi@k@O_ASqG{AcAWyBk@qA[A?oBe@wA]wBg@qAYcCm@{@SAAgBa@eBc@wBk@uEwAeCs@cAWyBm@oA[wBm@qA[}A_@iCg@eAOgAK_CM[CoAIuBIeEa@uAQeAM{AQwBUE?_@EyAQ_Da@sAOk@Ke@Gu@Qg@OiCy@e@OeA[o@UuCcAkDoAe@QaA_@_Be@iAYsA[mCe@wASeBQsAI_BI}@AuACeCMmAMaAQc@Ka@M{Ag@eAe@eAk@s@g@YS{@w@[_@Y_@]a@i@w@u@_Bq@_Bq@cBw@eBc@}@i@}@u@iAe@k@_@c@c@g@kAkA]Y]Y}AgAcBcAeEaCcBcAu@g@w@o@q@o@yEaFaBiBwB}BuOkP}HqIkCsCWYkAmAcC_CUQ]Ua@[q@i@{AoAwAsAmBmBKKeBcBuBmByBwB_C_CoByByBiCmBkCkAgBaBiC_@i@OW}@uA}AaCKOQYKQa@k@CEiAcB_BaCuA_Cs@{Aq@mBg@eBa@uBY}ASsAKq@_@aC[mBe@gBi@aBw@iBYo@Qc@Sc@CIq@}A}@wBo@sAaAyBu@gB_AuBaA}B[i@[i@gAeB{@iAsAuA[Y}@{@}@q@]WGEAACA[U}@e@UMmCsAyGeDqDeBCAwDkBqCuAQIy@a@kDaBsDiBq@_@CAk@_@e@]o@i@KKOMUWc@i@e@o@QYMSYm@_@}@]gAA?Mg@K_@u@wCgAaEYeAEQKYO_@O]MUKSQYc@m@_@a@UWQQ]Y_@[g@[a@Uu@_@_A]{@UaASuBe@}@Sw@Uc@Oa@Oo@Y[UUOGESQIGEGGEGIGGEGOOSUOSIQEGEIGMEKEGQa@Qc@IYGWI]E_@EWCWC[AYAi@As@EmBAWAUCYE_@EYCQEWGSGUGQMWO_@Q]Wa@a@k@s@}@a@e@c@c@yA_BcFiFi@o@c@k@U]IM]u@M[EKGQGSEOCOGWES?AEYE]w@oHiA{KKq@OiAGo@Gm@i@}Ei@_FUoBMkAMqAIy@Ga@ACIa@Qq@[q@Ye@QQSSQOSMQIWMWMUIWIuAe@wAc@eA_@cA]e@Mc@O{@Wc@Me@Oa@MsBs@SGeCw@OCk@Qi@QeBe@eCq@cBi@a@KwDiA_Cs@WGeBa@iBi@wBo@}Ac@{@Se@I]E]ESA[Ce@Cg@AsAC}AEmBCwAEeAAs@AoFGaCA{CC"
+                     },
+                     "start_location" : {
+                        "lat" : 9.929817199999999,
+                        "lng" : 78.16865949999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "48.9 km",
+                        "value" : 48924
+                     },
+                     "duration" : {
+                        "text" : "48 mins",
+                        "value" : 2880
+                     },
+                     "end_location" : {
+                        "lat" : 11.1977648,
+                        "lng" : 78.8757971
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eNH38\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Create Group (on the left in 800&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "ub~`Aqll_NaJI{DE_BCwAAwAAc@?c@?kBEsAEkBAiB?iCCeBA{BAi@Ac@DiCG_CEeACw@Au@AwFIi@@gDEqBAeBEQ?w@EqBAS?_EGuCAeAAyB?kBE_AA}@CgDGkCG_C?mF?{@?s@EwCIkBEqBEmA?gAAm@A_@CaLSgDEaNQuA@}@CyEMeAAaEAcC?K?SAe@?c@C}AAi@AqAAkA?oOMeFK_BEmHEcEGQ?mFEe@?yDAq@@M@[@}@Jm@N]La@Nc@Tc@Xc@\\]Z[^[d@[j@Yr@oArCc@~@[h@_@j@i@l@URWTc@^a@Ze@\\m@Zq@XkA^{@P_ANs@Fa@@i@@g@@aDEI?mDAk@AkBCgBCuDAaAAyACiECgCAaCCsGG{A@S?}A?yA?g@CkAAoBCY?MAk@CUAKAQ?QAq@EYA_@I_@CwAWs@Ma@IECOCe@MaAW_@Mk@IMG}@_@y@[u@]SKOIKGKIIGMK_@[y@m@w@m@_@WiByAeA{@sAeAq@m@q@i@w@m@GECCII_BqAwAiAo@g@aAu@m@e@s@g@OMOMKIeEkDa@]c@[AC_@YgDoC}AmAgC}B_Aw@yAoA{@s@uAcAcCeBa@YqA_Am@a@}@m@a@WWO[OIGs@WYIoAa@wC}@aBg@gEqAkA_@OEwBi@wCy@_A[YKa@KeEqAqEmAcF_BsEsAeA]eBi@yAe@cEkAuO}EsEsAyBo@AAuBo@aCs@w@W}Bu@}C}@uDmA}CiA_Bu@y@o@q@s@c@u@]o@y@kCy@qC_A_D]{@S_@_AeAUUWQYO]Qk@Qe@KWE[E[A]A_@@]@e@Bc@DeAF}CFcADcABoDVcDRY?q@@i@A[Cc@E{A[{@[oAs@aAcA{@cAyAgB_BsBmDoE{AkBkA}AiCgD}C_EsCoDEIU[{E{Gg@{@mAaB}@}AkAgCy@iBk@eAiAmBwAcCgCoEa@m@sB{DoGiMk@aAi@s@wA{Am@g@cBuAaAy@{AuAqAcAmAs@}Ao@aBa@kAUaB[cB_@kB_@oFgAmDq@yIgB_Dm@gCg@qCi@wHsAeHmAeHkAgEs@kDg@gDe@m@I_@GgFu@kB[mAQgFiAmDw@}D{@qEaAmGwAoNeDaA]wBaA{B{Au@i@aAo@_CaBmGgEyAeA}C}BaK}GyAaAkBqAsCmBkAu@mAq@mAe@{CmAwCiA{CgAyBk@aCi@mDs@_Dm@_Du@qAY{Aa@uAg@uAo@gDoBkBgAy@g@{@g@}BuAaAk@aIyEsDyBmGuD[U_Ak@sAcAiDgCq@i@s@k@aAu@gA{@mCsBoAcAeAaAcCeCQQCE{GaHcCkCsBsB{@y@cAu@yFyCcHqDoTqKgEsBgLyFyHuDwHoD}@c@iBu@_Bq@WMo@Wq@WeB{@_C}As@g@q@_@_@Qa@S_@Oc@SoDyAqD{A}B}@kCiAaAi@m@_@m@a@YYGI_@]k@{@w@mAu@oAs@mAsE_IMSeBsC{@sAcAsAc@g@g@k@wAuAi@i@k@g@[Ye@]q@a@]S}@]s@WcEiAgCs@g@OkBk@{E_BcEsAoC{@yCaAeHyB}FkBuDiAoIoCyDkAwBi@m@KcAMuCYmCOoCMwRwAaCQ}@IaAKy@Q_ASkAa@m@QkMwEwEaBwE_BkEwAoEaBoDmAsC_AiBo@oC}@cCk@gI}AsKsBuGmAcO{CuGqAwAYgCc@yB_@uQiDsr@_NaJcBiI}AiCi@qAc@CAQG_@QaAo@{@o@oAgAiA_Ai@a@s@e@yAu@y@UaAWmAOgAI{CIsAE{FI_IM{GK{CCyBGyAKg@CkBUkEq@kEq@aEq@]GkCc@_@G[GaGmAgJmB[Ew@QkFeAmBWwBWsFc@_CU_BQyTmDeHiAqASuG_AkDk@gB_@mA]mAa@qB{@sBkAgD}BgEyC}AeAwCcBoCyAwDkBwCyAeDcBkAo@iAi@gDuAaGoBmKiDeDgAmAe@aH{ByJaDyBo@SGcDiA_EwAoFkBwE_Bo@So@KcBQgBQaBMm@GwCUsBU}ASmTgEyIiBuIgBqIgBuAc@q@W{@c@}@o@_AaAq@_A_AcBkC}Eu@uA{AoC_CgEo@}@u@{@YU[Wu@g@{CeBuTiMaCsA}@g@_Ak@gCyAiC{AyBqAcB_AqB}@mAe@a@Oq@SgBi@MEiA[uBo@gBi@yAa@yAc@uBq@kBk@iCu@{Ai@_Aa@gTsJwZeN[WoBw@_JcEsCwA{B_ASKwB}@oD}ACAgBy@aAa@a@S}HgDaCoAyBgAsBiAEAeCoAaCkAaBw@iB}@oAk@m@]yBgAcDaBuBcAgEqBuAm@}@a@}BcA{DcBw@]kAg@{@a@wD}A_CeA"
+                     },
+                     "start_location" : {
+                        "lat" : 10.8089062,
+                        "lng" : 78.71193210000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71.1 km",
+                        "value" : 71051
+                     },
+                     "duration" : {
+                        "text" : "58 mins",
+                        "value" : 3464
+                     },
+                     "end_location" : {
+                        "lat" : 11.6744306,
+                        "lng" : 79.2692064
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eNH38\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Treasury Office, Tambaram (on the right in 23.1&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "_ajcAwll`NA?MG?@wAq@kDwAiBy@y@]yBaAuDaB_@OkBw@m@YsB}@eBu@aBq@}@a@}@a@{@_@w@]ICm@W_Bs@cF{B[Mk@WyCqAyB}@{Ao@}CsAeCgAs@]y@]c@Qg@U_Aa@_DuAgAe@mCiAuB{@wCqAe@S{@a@w@_@kCkAA?qCmAqAk@k@YKGiCgAaC_AQIIE{Am@gA[oBe@qAWi@Io@QkDs@uCm@cBe@u@Yg@Yi@[aAs@MK}AoA{A_AgCgAo@W_Bg@uBa@cBUeEo@gFw@sGcAsASaL}AcL}A_AMkDi@uC_@wCe@qDi@wEm@s@KQCA?CAIAA?]Ee@IuC_@wC_@aD_@gAOgC]WEs@Ig@IiAMWCCA}C]gBWuCc@sCc@eC[YEqBYwASeAOi@I_C[gC_@_C]mBSWCk@G_@Ag@Ak@@a@@S@g@FUBaCf@IB}Bf@qARqANaABk@?o@CmAG_@Aq@CyAIaDOsAGuDUyDUaEWYAm@CcDQaBKcAGoZcBmAG}AKcTiAwCQ_BK}AIcBKuAKeAMoAU]IaAQa@Mo@QAAy@[UKeCgAiCmAyBaA}CyAaEiBsAo@_CeAwAo@cAc@_CgAqEuBkEoBiD}AcEmBwBcAmCmAmCmA{CuA{BeA}BeAiD}AmAi@cEmByDiBgEkBsDcB}DiBoDaBcBu@kBy@kBy@yCwAkD_B_CgA_CeAqB}@mCmAwCsAuCoAeEmBuBcAmCsAo@YyDeBcCgAAAkCmAoB}@cCkA}BcA{CwAoB_Ay@c@g@S{@e@m@_@_@W_@Y_@]_@_@k@q@gAsAiAsAoAaBwCqDcCcDwCuDcC_DwAiBOWs@{@uBkCgB}B{AoB_CyC[a@o@w@gB{BmBaC}BuCoAaBcBuBeAsAIIeDiEsAeBu@aAi@s@uAeBcAmAo@s@e@c@{@u@eAs@gAu@eAo@yBwAeBeAcM{HaC{AmCeB_DyBmBkAqBqAcBiAy@g@eBiAw@i@gDwBAAqAy@SM_DuBoCeBc@YsZcSSM_FaDgR_Mom@o`@eJiGmW_QkYoRKGwH_FmD{BwBwAUO{Aw@y@]{EmA}FoAsA]aBi@cAg@q@e@m@g@}@_Au@{@wCeDk@o@{F}FaA_A}@kAc@i@w@cAm@{@y@mAuAqBqAiBaDmE[c@o@_AuAkBgBeC_DkEsBuC{@kAcBaCuAkBw@iAkBmCwBuCeBcCyCiEuDgFmAcB{B}CYa@oAgBQUsAiBk@y@aAuAqC{DqAkBmCsDy@eA}@iAmAeBKKYc@]a@e@u@OQa@m@_E}F}@qAoAiBe@o@qAsBKQk@}@u@kAgAcBQUaB{BmAwAcBuBUYcBoBq@{@kAuAmA{AqEuFcAqAY_@yAeB_AiA}@gAmDiEo@y@e@g@SQMQ[YQQq@m@u@g@m@]w@[q@[y@M_AMeEYUA}Ka@qCOeBKs@GmBKaEWsAG}DU}@G}CSyEWcAI{@EgAG_CMeCO}BOgDQsBM}@G{AIiAGmCQgCMAAkCMw@IyAWaAWYIw@[_@SUMk@_@aAu@m@g@YUkM_KkByAuC{Bw@o@gBsAYWk@c@]Yk@c@}@s@yAiAi@c@e@a@o@g@_Au@w@m@o@g@_@[m@e@{@q@YUg@_@A?oBoB}EwDqEoDiDkCsDsCiDkCqCoBuBuAyCqBsA{@{B{A{DgCuCoBq@a@gAu@aBiAoBsAyCoBsCmBqCiBkBqAsA}@gBkAs@e@gAq@u@i@}@k@o@c@o@_@{@o@}@m@iAw@k@e@e@_@i@g@u@q@}@}@aEaEmCmC{A}AcCcCmBsBoAoAgAkA?A[]wBwC}@oAsA{B_AeByCwFmBmDsAcC_AeBQ]w@yAaA_BuAyBkBiCsCmDoBaC_CiCwB{BkAsAeAgAeBaBg@g@Y[Y_@QWOUAAqA{BwAgC}BaEgEwHqAaCeAeBkA_BoBiCwBoCoBgCkAyAy@}@aAy@_@U{@a@gAa@{Ag@aBe@cD_A}CeAaA_@_Bu@cBcAkBoAeCqBiFsEAAg@c@q@o@mCcCmBgBgB_BmAmAc@a@y@{@iAuAeB{ByB_DmAaBqBqC[e@eCiD{@mA}AsB}ByC_CyCsBkCoBkCkCqDcB}BgBiCAAmBkCkA}AeAuAiA_Be@o@}@mAaAyAgAiBy@}A{@gBy@qBkBmF_ByEqAsDaAqCuA_Eo@mBSa@[k@IOsAoBcBgCuAqBcBeCy@mA_AqAuAoBc@u@{BsDQYg@_As@kA]m@yAqBuAiBoEsFiB{BoDgEyAgBoA}Aw@_AkB_CiB_CwAeBeAqAcEiFaBwBeAqAMSk@q@w@_Ao@}@y@qAi@}@aAcByAgC_A_BcByCqAaCaCaEaBwCeAiB_BqCkBcD_BqCm@eASc@cBuCwA{Bq@kAq@kAcAcB[i@i@s@k@u@_AaA}A}AiAeAaC_CcA_A{FgFgHkG_DqC{DkDiFqEQMgB}A_EkDaDqCqBcBkHmGuFaFc@a@CCi@e@cA}@uFkFuCsCiBeBgBkBWYQO_DuC{BuBkAkA}CyCaC}B_C}BuDsDsCmCeBeBIImAkAmAkAoBkBqAqAuBsBoKeKmIyHy@q@uAy@iAo@kB{@y@]wAc@qCq@{EkAsCq@sA]yD_AkCi@uA_@WGME]IuBg@_Cm@wBi@m@MoAUeBa@eCm@iBa@mFqA_Cg@qCo@kE_AiCo@gDw@mCk@cCi@{HiBk@MgCm@kAWC?qA_@{A]qA[eA[gAa@y@a@u@e@wAiAkAaAwAgAiA}@}@k@o@[u@[k@Q_AYeBa@_B_@iAUYGuCq@_B]eCi@aCi@}Be@o@M_AUi@Mw@K{Ba@aB]OEm@Qe@Q}@a@k@Y_@Ua@UgBcAyA}@iCyAAAk@[qAu@}BsAcCwAqCgB_C}AqBqA_@Ym@e@QMkAy@o@c@k@c@iA}@aAu@wAkAsAgA}AoAkAaAoAcAk@e@{AoAyAmA{BgBqAeAo@i@qB}AsEkDgBqAo@g@i@a@y@w@aAeAcAoAIIkAuAy@aA{@aAmAyAY[YYi@o@s@}@g@k@q@u@_BmBiAqAmAwAeAmAg@i@OQyAeBmBaC}AaB_BkB_BkB_BgBkByBsBcCwBeCgAmAeIqJgAsAmBwBaAgAiBsByAcBaBmBcBqBq@y@_AgAy@aAw@{@wAcBuA_BmAwAw@aAY_@mAuAeAgAaAw@y@c@_Ac@}@WkA[CAqBe@gB_@cB_@}Bg@gB_@gB_@qA[YIYKUGYMg@S[OAAYOEC]SA?[U[UIEQOOMKKWW?AYYKIKOMQIKQYCAQYACU]AECCQ_@KSCKO_@EKIUKa@CIGYKa@AIEYIc@EUAMEc@Ea@?CEc@Ec@Cc@CYAKCc@Ec@Cc@Ce@C]AECc@Ce@Ec@Cc@ASAQEc@Cc@Ee@C]AECc@KkBEq@UgDCc@Cc@Ce@MeBOwBGy@Ey@KgCEc@AOASCc@Ec@Em@OqAMaAYiB[cBo@{BcAaDm@aBs@wAy@}Ac@s@i@}@w@mAy@uAi@}@c@s@U[OUEGS]wBoD_A{AyBuDoBcDiByCqBgDoBeD_CyDcBsCs@mAcCwDyA}BeBwCaBaCOYKQkByCmAsBoAyBiAkBkB{CuA{Bw@oAi@{@gBsCkCcEc@s@yBuDm@cAuDeG}BwDcBsCgAiBaA}AKSMSs@iA}@wACAqAuBq@iAqB_DqAuBgAcBcC_EaBgCyAcCU]qA}B_AaBCGaA{A_CoDwAwB_@o@eAaBmB_DoAqBsA{BmAoB}AcCkByC}BsD_BiCoAsBuAyBuC{EcBoCgAkB}@wAkAmBeAcBs@iAiAkBiAmBkAiB{@yAgAcB_A_Bc@s@yA_CeAaBmByCw@cAsAkBiA_B}AuBqAeBi@w@]m@_@s@[m@mA}Bu@wAeAqBi@gAc@w@wBsDoAyBEI"
+                     },
+                     "start_location" : {
+                        "lat" : 11.1977648,
+                        "lng" : 78.8757971
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "172 km",
+                        "value" : 172373
+                     },
+                     "duration" : {
+                        "text" : "2 hours 47 mins",
+                        "value" : 10018
+                     },
+                     "end_location" : {
+                        "lat" : 12.8907556,
+                        "lng" : 80.08480229999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eChennai - Theni Hwy\u003c/b\u003e/\u003cb\u003eTrichy-Tindivanam Hwy\u003c/b\u003e/\u003cb\u003eUlundurpet Bypass Flyover\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Chennai - Theni Hwy\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "edgfAqgybNa@]W[Y]S]_@o@wA_C{AaCaBiCkCmEc@y@oAcCgAcD_AcEg@kEE_AC}@Di@EaB?kCZcGlBuWl@cIzBk\\@eBIkBMaAOw@Oq@kA}DeGqR_GaRqBoGw@aCu@cCsBmGqBqGoA{Dc@wAY{@uAmEcA{CK]AEIW{@iCeAiDiAeD]w@Yi@c@s@a@m@iAoAe@g@m@e@s@i@o@_@q@]o@Ww@[ICu@SuAUeBYyAQyHgAmGgAKCQCk@IWG[EwBY}AUWC{AWSCgAUQEYI[K]Ki@QUIeAc@{@g@uBsAuAy@SMSOkFgD{E_D{EyCqBiAeB_A_Bw@_Ae@i@YWOQMs@[gIcEoBcAwBgAgAs@WOuAy@iAw@{@k@}BgB_ByAoBqBgBuBwBeCcAqAW[_@g@m@_A_@y@Qe@Ma@Oe@Oq@s@_DaAeEc@qBWgA]uAc@uASe@]q@IOQS[]CCa@g@WS[[YQSMsDiCsA_AyCsBsBwASMcAq@WQyByAMIqA}@kAw@cAy@oAcAu@s@s@w@k@q@eC_DcFiGsBgCaDwDmB}BuAeBa@k@sAaBkAuA}AmBcBsBgC}C[c@WY{@mAy@mAcBuCe@y@eAiBwAkCm@gA[i@_@q@wAkCwAgCi@aAuAyBgAoAiAmAcAeA}@_AeAiAeAeAc@e@_@]eAcAaA}@e@c@UUIKcAcAaAaAeAeAs@q@{@o@i@c@kBsAw@g@kCmBqAaAw@m@IGkBwAAAy@u@mAqAm@q@cAgA_CmCu@y@e@k@}@gAu@aAiAyAaAuAi@u@OSW]s@aAcB{Bo@_Am@y@u@aAsAmBg@u@e@u@{@eAu@eAo@iAQa@M]WoAWqA_@wCw@eGQ{@WeAe@kA[q@i@{@}AgByBmBQOqB{AaBiAqBiAkB_AaCkAaCkA{Au@gFgCCAmAm@_CkA_CkAoCuAqCuAq@_@a@ScAc@u@]yAw@qDiBmAq@{@e@YQYQeAm@{A_AaAm@cAm@sEsCsEsCi@[g@]qDyBcCyAoOcJA?aK{FyPaKcL{GuG{DgIuEsA}@uAgAgA}@_E}CwX}TeFcEe@_@qAcAyGqFq@g@mBcBoA_AeRmMoCmBUOUOWU_BiAcN{J[YQMmBqAg@[_@Qk@[y@[s@WaFeBkE{AcBm@_A]s@]u@_@}@i@cCuAWO{Ay@{Ay@{DqBA?mD}AMIc@QmAg@QKgB{@kFcCqFmCcAg@iAm@aIoDqCsAyDmB}@e@}Aw@ECcDgBoEaCs@]iE{BcEwBsAq@i@YsAu@AA}EsCo@_@o@YaBu@CAuAy@s@][QYM_@Mc@Ok@QiAYoAWgASyJqAgAMyBW}B]eGoAeBa@OCeCq@WIkKeEaDoAyBaAw@]yGsCsGkCiBu@}@_@sDwAm@WgEcBo@W_Bq@IE}@]_@OeAg@{@c@cC}AcAq@eAq@k@]mAy@g@Ww@YsAYsB_@kB[qEs@iEq@iGaAgRsC_NmBc@GoGcAcRsCUEwDm@yDu@k@Mo@OaCi@kDu@sG{AqFkAAA_@GaAS_B[_FeAe@Ie@K}A[iI}AgB]mE{@uK{BwDw@qDu@gCk@oCk@eHwAeCi@c@Mk@Q{@]q@_@g@a@o@i@Y]]c@[c@IOGKWg@Sm@Y}@WkAK{@WsEOeEG}AAUKsDQ}DMwAIq@U{@Sq@Um@_@q@W[o@u@{@y@_Au@gDsBsCyA_BaAe@_@a@SyHqEyEqCwBqA{BsAoFaD_GkDgEgCw@g@c@WKGgAq@YOEEy@e@sBkAmBiAqDuB}CaBuC}Aw@e@}@i@u@g@u@i@cIuFoGmEiEsC}A_A_Ae@sBg@QCA?o@Ie@Gc@Ca@Ak@Ag@?o@B}@DuGl@uBRgIt@_DT}@Hy@D_ADy@Cm@Ay@IWC]Gu@Qk@Qo@W_Ac@}GmDiCsA_e@eV{Ay@yAu@yAu@iB_A_CoAcB{@_A_@gA]eASaAKgAGs@As@@i@@k@Hs@LyFz@_C`@_ANuB\\uM~B{KnBcAN_@Ho@Ju@L_Fn@cGn@wEf@wD\\sAFkCJiGFoAAo@Ak@Ay@Ge@C]Ci@GyAQw@Mk@KcASSGWGe@MSGSG[Kc@Mi@Se@QYMk@U{@]_@OeAc@}@a@UMc@U_@UeBmAwEqD{EgEoDeEkCwDgAiBy@yAi@gAkA_Dy@yCSq@y@eDoA}EuAyF{@gDmA_F}@eDMk@GWYoA]qAuNgl@W_Ak@_Be@eAq@oAgAyAeA}@s@g@QMMGc@WmJ{EyDoBmCoAaA_@eA_@_HiBo@SiBk@m@Sk@S_@Q[Oa@Wa@Ya@[UWWY[_@m@{@i@u@QWQWCGYa@S[q@aAs@}@m@o@u@i@k@]}@a@u@SeCe@iEs@q@Os@Sm@QmAi@SKgAg@uAq@kB{@aCiA_D{AyE{B_@Se@Ss@[uCoAkAe@mB{@aBu@qD_Bs@[_AW_AUyAY}Ba@_Ce@uAW_AQoEu@_ASq@MeCe@mBa@oB_@iB]_B[_BW_B[wB_@wAYkB_@mB]q@QyDi@mASwA[m@Q[KcAi@[Qe@[a@]KMWWe@o@Wa@[k@U_@a@u@eAsBuBqDyA_CeBsCw@eAa@o@uMaToCwDgBuBQSwA{AkCsC}DgEmBqBi@m@q@s@y@aAiBoBqAuAyBaCs@u@y@y@_A{@q@o@mC_CyCiCqCcCk@c@k@a@ECo@a@w@a@k@Wq@Uu@Qa@Ga@IKA}BUgAKgBOwAMkAQk@Mc@Ma@Oq@Ys@_@{@e@s@_@gAm@o@]g@Y[Qc@Wi@Wg@[g@Ui@Uk@W}DeBuB{@}FsCoL}FuTaJi@OKEQEQCQCQC]Ei@EiBIUA}GUmTi@iC?cA?iBEA?OCWK_@OYQIEqCaAmCeAc@Q]M]O_@OmB_@wAO[CaBIqCIK?M?cEOeDUcCWiD[}BWkQeB{BWiC]eIaAiBSoVoBkDYuK}@iE]sAOmAOiB[eAQm@OgAUuEeAaDw@]Mq@SeAWk@McE_AkBi@yBm@mHgB{Cw@u@Q{Bm@CAgAWoC{@oBq@kEqB_D}AyEeCwJyE_Aa@}CaBmFgCSK{BiAy@a@oDgBiCsAgHgDi@QaGyCgN_HaLuFsAo@uJoEeD{AuIkCeC{@aCmA}@{@q@i@o@o@aJ{JiCoC[Y]WwGuDOIsAq@sBcAuBcA_CkAoCsAgDaB}DiB{BiAeBw@mB_Ak@Y}CyAqBcA_Ac@g@UyB}@eAe@aEkAiBm@ECy@c@a@]{@{@e@m@i@cA_@eAOe@Qq@q@wEe@oDe@_Ck@qBw@iBe@w@m@w@o@u@yAsA}FcE_G{DuDaCcC}AwDcC]UiAo@yDiCsD_CcDoBuC{A]MmEuBqDwA}MkFoRmJeDyAoJqEeAg@YQg@]kEyCaKuGyH{EkCcBcPuKyHkF{GwEyImFmBkAwCwBuCwBsCaBEAqCsAiFcCsNqG}@c@}BcA_DwAqLoFeCeAkHcDsNuGaD}A{HqDwAq@_DyAeHeDmIyDq@]mB}@sG{CiD}AyCuAEC}NaHsVsLw@a@}Au@aDaB_D}A}BkAyBgAmCsAwBgAwAm@k@UoAa@e@MiBk@_D_AeCu@uBo@iBk@UGWMiC_AwCcAu@Yi@Se@SIE_@QaBu@q@a@_Ai@iAw@_BgAmBkAwAcAaC{AaBcAoAw@aHmEi@]qIqF[Q_EeCyDiCs@e@iDyB}@k@aC}Ac@Y}A}@e@YcBs@}Am@{EeBcHgCsAe@cE{AyAk@}@_@mBqAc@c@WW[a@a@k@Wc@KSCGYq@GKOe@Ww@Os@Ms@Ek@IiAM{BG_BCeBBgD`@kHVeFP}C`AsSFeABm@TgGDyAAeAEg@ImAIq@Kw@Oo@Oi@Y{@]w@[m@_@m@e@m@gAmAsAgAmBcAIEgCeAAAQGuCoASGgPyGoEaCm@Y{B{@iV}JuImD{As@aAYs@W[G_@Ic@Im@Ge@Cq@Ci@@]B[@_@D]FQB[FOB_@JKDa@Lg@P}@`@y@\\o@Xu@Vg@Tm@Ve@Pm@VwDtAc@RUHsBp@YHa@HYFkARa@Ho@LaANu@Ja@Fq@JUB[D[BM?_@@o@?Y?WAo@Iy@OaAYi@O{Aq@qFaEsBaB}AoAkBuAcBsAy@m@_Au@o@m@_BuAqAcA{@s@wAeAk@a@cAw@aCgBgBsAkE{CkAy@q@g@sAcAeBoAw@i@}@q@o@g@i@]kCiBgCgBoBkAm@]yCcBu@]m@_@GCwAw@sAs@oA{@a@_@KK}@u@oBsBoBoBqAoAqAiAmB_B{@q@o@e@mA}@{@m@mBuAoA{@SOu@i@{CwBsDkCiDcC{CyBMI}@o@mA}@u@e@c@YECeAw@yAeAGEeAy@{@w@Y]MOuAkBw@sAaAiBe@{@a@y@k@aAg@}@e@s@e@m@i@s@m@s@sByB_@[mBoBsBsB_BaBu@{@kAqA{@cAwAsBiBcDaByCyAqCaAyBc@iA]aA[iAc@{Am@qBwA}Eq@_CyAcFK_@]gAc@{A{@oC_@sAcAeDiByFq@_Bw@_Bk@eAkAsB{ByDIGqDgGEGmAsBc@q@CE_@o@a@u@c@s@_AaB_BwCsA}BkDcGeBeDaBiDi@gAMYOSYo@_C{EeA{BAAiDkHi@kAqDsHyGoNMUyFoLeGuMkO_[qB_E_@_AiCeFe@eAEKSq@CKw@uCk@}BAAm@oBs@iBy@yA_AuAwAuBuGaK{FuIaHkKgD}EaBqCgGmLk@gA{AiCwEkH{C_FwG_K}EsGeHmIY_@w@gAm@gAcAeCkB{F}@aCaBuCa@g@eE}EEG}EmFeEwEqEmF}FiHgHwJo@w@{DqF}BiDcBuBuCuB{GeDGCgGuCaI_EwEwB_LgFeFyB{GsCaHcCq@Mo@IqAIy@?qAJoBPmGz@qC`@qCZcKtAuFt@uJlAsBZi@Do@HsEl@c@DiALk@Bm@B}@?}ACuAEkAE{BEc@Cg@C]CmAOaCe@_E}@iE}@kDq@uBc@eDq@s@OeCe@aE}@yH}A}LaCGAeJaBi@Ki@K{@Qe@MuEaAKAICoBi@qBk@k@U}DeByDeBaEmBm@Wg@WEA{IcEqCoAyMgGqAk@_@QkBy@{A_AsAkAyAaB_FwFkIkJ_AeAsLaN{DiE{H{IiDyDsFkGkAoAaBmBk@q@i@k@kHiIwBwBeCwByHsFcD}BWQyGyEmA{@sA_AeAu@aIwFuCoBw@m@sA_AqDkC}B_BeCcBm@a@m@c@s@k@g@g@a@k@S[IOIOQ_@M_@Og@Ia@EQIo@K{@MiAMoAScBGu@IaAI}@S}BI_AKeAGk@Ic@G[K[Oe@OYSYUY]][Uk@_@eAk@c@Sy@e@oBcASK_Bw@aB{@u@_@_@S_By@_CoAo@[uBeAs@_@aB{@wC}A}@e@yAw@{Ay@iCmAqCoAqAk@qB}@uBeA}Au@{@c@uB_AaDuA{As@y@a@{@_@o@YeBw@kBo@oA]sBc@uB[wFm@gBWgBYcBWgDg@qAQmAUCAwB_@_@I[GQEOEsAWuAU{@MoD{@mCm@e@M{Ai@]KgC}@OEeBu@GCa@QCAA??AKEOG_CcA_GkC_CgA{CoAaA]i@Qq@SsAa@m@UsE{AmC}@cF_BmFqAaAUsBe@gEcAwEeAqGyA}@UmA]cBs@aAa@oD_BcHiDkDaB{BiAuAm@gB}@_JsFcBiAsCgBiEkCqA_AiRgLcOeJm@c@y@m@yE{C{DkCoFqDuCoByCaCmD}CoAgAyFsEkB{Ay@q@aCoBeCsBkBsAmA}@sBgAsAk@ICsBw@YI_@Km@SoA_@_EiAqDgAwAi@kAg@w@e@sAy@qA}@qCsBUQuCmBgCiB}CsBoAu@yIyEqAu@eFuCoAs@uAaAk@a@w@i@y@m@qAmAqR{P]YiCyBc@]aAu@SQe@[w@k@eBgAoEcDuAiAy@q@mBwAsCuBkCoBuCwBA?IIkFyDwC{B[WmDeC[UgCkBoCmBcCgBiAw@wB_BcAs@o@_@c@UmAm@e@Qq@WqTgH{@YmAo@WMa@YAAm@a@a@c@[[Ya@Wa@e@u@Wg@a@iAkA}CcAuC_AkCQc@u@gBa@eBMc@y@cCQc@aA_BeAgAiBoBmGcGwByBiBaBaB_Bq@q@g@g@k@e@]U{@i@_Ac@_@Mo@UcA_@aAUaEwA}@_@cBi@aC{@_EcBoAc@MIICuB}@WGeDwA_E{AaEgByBy@{@YeAc@[KaBe@oBg@c@OiBw@WMkAk@g@Wg@UkCwAk@Wi@[{H{DiBu@YKc@Iw@M{AQiBQcAMmC[_Fk@aEe@yCWyC]m@GsCWoAMk@GUCSCi@GgAKC?cCYqDa@qAOsC_@MC}@OaAUq@UkC_AqBu@MEcCy@UK}@Y_Cy@iC}@}BaAwBaAyBkAMG{@a@qAm@_CgAuDkBmB}@aBu@mAo@m@Y_@Qi@Ya@UyDmBc@Sq@]YM{Aq@kBaA{DkB}CwAiBo@}A_@gCe@g@I}E_AuKoBsEy@}IsAiG{@}@IyDe@{Ek@wC[eBUMCoA[ICsE_B}EcBoCo@cDg@aAGgBOwCUkBIsBGiFGwCAuEFmDDoBD{BBuEFuFH]B}BB}@C_BGmEWiEWc@CcDQwCQiCMuBKyBMkBKiCMcGWoF_@uBQkFq@eAOuC_@}Cg@u@OUG_@K{@[uCuA{FoCyFoC{FqCyBaAAAeLgFe@Uk@Uu@YUK}@YgAWoAW]ImAUkBYaAQ_AOaAOs@MgC]uAS}@Mo@K]GqBc@kC_A_Ac@gBi@mBo@y@WeCy@sBs@mBm@qBq@{CaAsBq@cCw@uAc@m@SmBm@SIe@Mc@QmA]gBm@}@WqAc@_Bk@}Ai@yE{AaA[{Ag@cBk@cAa@eAa@eBy@iB{@eCsA[QgBcAyDyBkImEeCmAgDeBu@]uDkB{BeAyCaBu@a@a@Ug@W[Oq@[mB_AmAc@YKg@MYIa@GMC[Es@Mi@Gg@Cc@?w@?g@@{@B_@BcJd@_CNcCLcBJM?OBsAD{AJo@Dy@Bi@?a@Ag@Cc@E]Gc@GsAUu@O[Ka@KSIWO[O]W_@YWSSUOO_AsAWe@EKISKYEMGSGYG]GWCSGs@Em@Aq@@a@@c@Dm@D[?EX{AToAd@iCP_A\\mBP_A\\iBBOZ_BVqAf@iC^qBf@gCh@eCZmAVkAHg@He@Dg@Bi@?o@Cc@Ek@Ko@EWGUWoAoAyEQi@c@kBe@{Bi@qBYcAUw@e@}AEKo@wAEIQYQ[c@q@e@k@]]WWMMOKiAw@q@]eAg@KEk@S_@K]GSGm@OSESCSCYAs@Ce@?w@@i@Be@DQ@a@Dq@Js@Lu@Rg@PqAh@OH[Ne@TeAf@_Ab@w@`@_Br@y@^u@Z]L_@Lw@R[F_@H[Fg@F}@H}@Dg@@w@?_A@oA?mCA}@@yMFoEBoCBmF@_B?ma@NgB?W?]Ac@COAGAYC]EYCq@Mu@OwA[eB_@qB]uAUe@IaB[oBa@[GuB]iAWOE_@MSGa@Qm@Ya@Yg@]_@[CC}@aAIKQUQW[c@U]KQCEs@eA{@qAq@gAo@eAW_@QWY[QQGG_@]c@_@]Ue@]yAu@wAs@sCmA}As@oBy@}@a@_CeAoHiDoDeBsB}@_Aa@a@QQKCAEAEC_@Qs@[eAg@_Ac@w@c@CC_@Ue@]eA_Ae@g@g@i@aAoAgEeGgAcBGIQUQWmBoC{AwBGIgBgCcAuAY[]c@c@c@o@m@o@g@e@]u@a@gB_Ae@UaAe@u@_@i@WOKmAk@]OoG_DEA}@g@c@Ye@]m@g@a@]a@WWOSMk@S_@KgAUiEy@iB]OC]G_AQmAWa@ESEyAQeAIiAKmAGmAEKA}@AcBCA?_@AQA_@Cg@AwAGwAIs@IK?A?CAA?YA{AKsAK_BO]EgBYkB[kCa@_C]cAS_BYE?yAWC?gD_@cAKeAIa@CmAGiFMmLWs@Ak@Ea@E]GWG]I[Ka@Q[OWO[Ua@_@WWCCcAuAW[GK]g@k@y@k@y@GKe@s@k@y@k@y@UYKM]_@WYUS[YaBkAk@a@WOcC{A{@i@u@c@w@e@mA{@_Aq@{@o@wAeAy@m@CC_E{Cc@[{FgEwAaAq@k@SMqCsBwBgB{AiAq@e@oHqFmG{EkG}EkCoBcBmAcAk@oBkAiFyCcAk@u@a@g@YuAw@sBoA}@g@u@_@i@[gBy@uAi@mA]e@QuA_@cH}AwCk@]IsBa@a@GcAS_BU}@Os@M]Gm@IiAUgAUq@Uw@W_AWUG{@Wk@MeCs@g@OiIuCqKcE_A_@yB{@iAe@}@_@uAg@yAg@eDoA}DmA_FeBwAe@yG}Bs@Uk@Sw@Y_@M]MsC}@cGsBuBs@cCu@_J{CoJaDiEaBu@[a@U[Qm@_@]Qo@_@YMYOi@W{Au@wFuCoAm@mDiBc@Q_By@e@UAA}@g@}C}A_Ae@}A}@yAy@mAs@gBcAyA{@GEo@_@g@WkDsBMK{@c@m@]qDsBsD{BsFaD}Ay@_BaAwAy@iAq@e@WwAy@WOw@e@WOu@c@iAm@{A}@}A}@uAw@UMcAk@}@i@oAs@[SsC_BeAk@}Aw@a@S}@e@yA{@oAo@a@Ue@YaBcAcAm@qAu@gAo@gAq@WO{Ay@uAu@SMeAe@_@UgC{A{@g@SK}@a@s@a@oAw@eAs@YQiAq@aBgA_BaA_BaAaEiCy@g@qBqAo@a@i@YuAiAcAi@qD{BqBoAq@c@gAu@sHqEqJaG]S}B_BaA{@m@g@iBkB}HiI_GiGmBuBMM_@a@UUgHwHKMeAgAIKa@a@GG_FiF}@cAyC{CaAkAuDaEsIgJm@o@e@i@wAwAcAiAQQ}DkEu@u@]YoAwAQQWYkAqAcBgB}AcB}AgBcAeAgAiAi@g@wA_BmBmBuAsAqAoAo@k@uAcA}CsBmAw@_DqB}@m@q@c@eAq@cAo@e@[{E}Cm@_@gAo@qBoAwA{@uJyGs@e@sByASOwCqBkDcCwDsCuEeDUSeCwACCKGA?eAo@{BuAuCqAgBq@eBi@{Ac@eEkAq@UwI}BmA[QEECiBk@OESEeCu@yAa@}Ac@w@WeAWEAQEs@SOE{C}@u@UiDaAaCw@cCq@_@M{EsAu@UoCw@w@SuBc@_@IiFqAmA[C?{DoAC?YI{DmAOEgAo@qBm@a@Ks@UqBm@]Ks@UwH_Cg@OMCs@USGwEyAICmA]eDiA{Ag@aBi@cBi@mBm@eFwAmAa@"
+                     },
+                     "start_location" : {
+                        "lat" : 11.6744306,
+                        "lng" : 79.2692064
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.2 km",
+                        "value" : 3204
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 307
+                     },
+                     "end_location" : {
+                        "lat" : 12.9138363,
+                        "lng" : 80.10156549999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eNH32\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "gvtmA_qxgNiAa@y@Ym@WwAo@cAk@i@]AASO{@i@{@o@mCgBmGmEaKcHw@i@oMaJuFuDoE}CqCiB[UyCuBsAs@s@e@iDaC_Ao@eAw@oEyCm@a@aAs@kAu@qAaAk@e@g@m@KQ[c@[e@W_@MUUc@w@}AWi@y@eBOWS[UYOS[W_@UYOWM_@MWEWEQCSGa@Ia@E{AIyAGq@CgACw@M"
+                     },
+                     "start_location" : {
+                        "lat" : 12.8907556,
+                        "lng" : 80.08480229999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "19.3 km",
+                        "value" : 19339
+                     },
+                     "duration" : {
+                        "text" : "19 mins",
+                        "value" : 1166
+                     },
+                     "end_location" : {
+                        "lat" : 13.0619633,
+                        "lng" : 80.1609637
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eNH32\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePartial toll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Surabi Sweets &amp; Bakery (on the left in 17.0&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ofymAyy{gNo@Bu@A}@AC?k@?y@Dk@FaADKBE@KFo@Bg@@a@@oAFi@BQBQ@gAHsBNsG`@uPlAgAHG?oKp@_AF}@FqJf@]BC?YBiADaI\\yFXgJb@sBJW@{@DsAHs@BqAFiADi@@g@@g@?w@Ak@AUAE?[Am@Ge@Gw@Ke@Kc@Ge@Mg@Oc@MYKYMg@SYMk@Yy@e@u@g@i@a@m@e@_@_@y@{@e@k@g@s@kAgBe@q@}@uAkAgB]g@q@gAo@{@Y]]_@YWi@_@o@_@i@Yy@_@cCeA_CeAo@[}HgDMGOGeAc@iAk@_Ag@i@]a@Yw@s@i@k@Y]Wa@[i@QY]q@M_@Oa@Sm@K[gAoF_AqEUiAkAsFg@iCa@eCSeA_@cBUo@IUIUWm@i@_Aa@k@e@m@e@e@g@c@m@c@e@[gAg@c@UiA]w@QYEi@I_@E_@E]Aa@CuBCaHGk@Ak@AuCCsA?aC@kGFgGLuJRuEHsDH{EJW@c@@kFJuFHwBF_CDO?O@C?W?i@?g@AWA[Cu@I_@G_AOyBa@aGcAyMaCcF_AyAWw@O_@EWEWCg@Cg@Ae@CiACc@A_BEy@AgACI?qDMU?yDIsBEi@Ai@AWAWAyCI{CIqBI}EUoAIaEUm@EwBMcEU{F[oAIg@Ei@Go@Og@K_@Mc@Og@Qq@Ye@UyAy@qDqBCC[QECA?ECsGoDyBmAaH{D{Aw@kAq@e@Ug@Sg@Ue@Q}@YaAWcAUeAOw@Ky@Im@Ey@Cg@AmAA_D@oDAeFE}B?sAAaJAYAe@Ae@C]Cg@Gi@EaB]sA[a@Mk@Ue@Sg@Wc@Wc@Y[U[UYWSQa@a@iAsA{@iAmBsCcAyAm@_Am@}@{@mAcAsAoB}BgIeJe@i@e@g@a@e@_AoAiA{A]e@]e@oCqD_C{CcDqEwAkBcBuBmBgCgCiDiCkDyAqBm@y@eB{BkA{A_@m@{DaF[[y@y@q@o@cAw@k@a@_@Wk@[i@Ya@Uq@[}@a@oAc@cA]c@Oe@Ki@Ms@Oq@Ku@M_AKe@Em@Ew@EaAE}AEcEIq@Aq@AcACcACkBCuEIyEKoACqACsAEiCEwBEg@A{ACsAEkBI_@@gCEQ?kAC_CKIAK?m@Eq@AoBGcBGgFIw@Aq@E]Cc@EYCc@I_@IYGYIYKYMSIWO[Q]S[SUSWWWWY[OUMQQUO[Q[Se@{@uB_@cA[y@s@oBi@mASc@We@We@eAqBc@w@s@mA_A{Ae@s@oAuBwC{Ea@w@e@s@k@y@UYUWY[]]IGUUYUSQUOWQ_@U{@]i@Qm@Uk@Qi@Ko@Ki@Iy@Iw@E}ACyAAqABsAB"
+                     },
+                     "start_location" : {
+                        "lat" : 12.9138363,
+                        "lng" : 80.10156549999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.4 km",
+                        "value" : 3378
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 406
+                     },
+                     "end_location" : {
+                        "lat" : 13.0716209,
+                        "lng" : 80.1861443
+                     },
+                     "html_instructions" : "Take the ramp onto \u003cb\u003eKanchipuram - Chennai Rd\u003c/b\u003e/\u003cb\u003eMadras Bombay Trunk Rd\u003c/b\u003e/\u003cb\u003eMumbai Hwy\u003c/b\u003e/\u003cb\u003ePoonamallee High Rd\u003c/b\u003e/\u003cb\u003eVellore - Chennai Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sri Kalaivani Mahal (on the left in 3.4&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "gdvnA_mghNMBMDQHGDEDCDEDCDEHCJCJCH?D?H?L@JDLDHFH@@FDBBFDFBFBH@HBL?H?HAHAJCHCHCHGDCFGVa@FuA?e@?c@?e@?mABqA?g@@iB@k@Ag@CaC?_@Ak@Ce@Iq@M{@IYEKEMIMOUQQaA}@CCe@c@KK[_@IIc@c@[[SWsAiBs@aAS]MUIQIS]{@Ke@Ie@C]ASAUA[?O?yB?mA?I?_@?EAe@AM?WCUCQAGKc@Oe@S_@}@uAg@aAEE}@wAGKcA{AS[wAeC_@g@S]aAyAeAaBSe@I]I[CSEe@?CAc@?]AMAc@?Y?a@?aAAe@AKAOGc@CICOGSSc@Sc@e@y@CC]m@_@s@_@q@g@s@oBwCg@_AGIQ[MSa@m@Ui@GOGKi@iAMWKUIUEMKW?AOc@M_@AGK[EKQu@A?Ko@Km@]uBm@sDSeAG["
+                     },
+                     "start_location" : {
+                        "lat" : 13.0619633,
+                        "lng" : 80.1609637
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1234
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 152
+                     },
+                     "end_location" : {
+                        "lat" : 13.0754666,
+                        "lng" : 80.19642979999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eChennai - Villupuram - Trichy - Kanyakumari Rd\u003c/b\u003e/\u003cb\u003eKanchipuram - Chennai Rd\u003c/b\u003e/\u003cb\u003eMadras Bombay Trunk Rd\u003c/b\u003e/\u003cb\u003eMumbai Hwy\u003c/b\u003e/\u003cb\u003ePoonamallee High Rd\u003c/b\u003e/\u003cb\u003eVellore - Chennai Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the gas station (on the left in 300&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "s`xnAkjlhNIe@Mk@ACSu@q@uBQk@IUeAwCm@gBWm@Sg@KQIMKQUYEIOSQSWY_@_@UWc@k@IOSk@AIG]Cc@Bk@@M@UB]B_@B{@?K?kABcB?S?[?EE]G]Me@O]IK_@m@]a@W]Y_@Qe@U{@WeACKC]CW?EMe@"
+                     },
+                     "start_location" : {
+                        "lat" : 13.0716209,
+                        "lng" : 80.1861443
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.3 km",
+                        "value" : 3266
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 467
+                     },
+                     "end_location" : {
+                        "lat" : 13.0739742,
+                        "lng" : 80.22579619999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eChennai - Villupuram - Trichy - Kanyakumari Rd\u003c/b\u003e/\u003cb\u003eCMBT Flyover\u003c/b\u003e/\u003cb\u003eKanchipuram - Chennai Rd\u003c/b\u003e/\u003cb\u003eKoyembedu Grade Seperator\u003c/b\u003e/\u003cb\u003eMadras Bombay Trunk Rd\u003c/b\u003e/\u003cb\u003eMumbai Hwy\u003c/b\u003e/\u003cb\u003ePoonamallee High Rd\u003c/b\u003e/\u003cb\u003eVellore - Chennai Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Chennai - Villupuram - Trichy - Kanyakumari Rd/Kanchipuram - Chennai Rd/Poonamallee High Rd/Vellore - Chennai Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Speed Medical Institute (on the right in 1.1&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "uxxnAujnhN?SqAsHKi@Kc@W}AGa@Ga@YiCKoAC_@AW?c@@i@F{@BYDk@B_A?c@?_@Co@Ea@E[e@aDGc@Oy@OiAYyCU}CE_@IkAEo@?IAK?a@?K?E?UA_@?GAy@ASCs@Ak@Ew@A[Gk@CuA?e@Bi@B{@J}ADw@Fu@@_@Dg@BQBSJe@L[LUXe@P[`A}Ax@yAR_@N]Tm@Ng@H[Po@Lo@D[Hy@HqAFy@@QB]Bs@Bo@Ba@?A@OBY@UHk@LuA?GF{@Dc@B[LwARkBN_B@QLmAD_@@U@QDc@BU?KBQBUFm@BY?IFu@FmAB[FkAHgBHqBJeC@QFqAFsABc@"
+                     },
+                     "start_location" : {
+                        "lat" : 13.0754666,
+                        "lng" : 80.19642979999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.3 km",
+                        "value" : 3337
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 562
+                     },
+                     "end_location" : {
+                        "lat" : 13.0791164,
+                        "lng" : 80.25595489999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eChennai - Villupuram - Trichy - Kanyakumari Rd\u003c/b\u003e/\u003cb\u003eEVR Rd\u003c/b\u003e/\u003cb\u003eKanchipuram - Chennai Rd\u003c/b\u003e/\u003cb\u003ePoonamallee High Rd\u003c/b\u003e/\u003cb\u003eVellore - Chennai Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Chennai - Villupuram - Trichy - Kanyakumari Rd/EVR Rd/Poonamallee High Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the gas station (on the left in 2.3&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ioxnAgbthN?g@?c@?WCaAI}BCq@GeBGcAIkAEa@CSCUKi@Uu@[kACKY}@GKQi@GQUu@CEeAaEESUiAg@uBg@gDYoC_@qCQyAMiBIkAWqBc@uCYuACUG]EWEUMu@_@kCSoAKq@Ea@k@sDCOGo@Go@Ei@CMC[Ew@CWOkCCc@Ew@Ec@?USoFC}@AE?QASCUCSCYIo@EYGo@Q}AS{AM{@AGOkAGa@K_BEa@CYC]?OAWE{BGyD?k@@g@F_A?GDgA?iAAm@Eq@MsAMqBMuDAe@Go@"
+                     },
+                     "start_location" : {
+                        "lat" : 13.0739742,
+                        "lng" : 80.22579619999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1643
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 266
+                     },
+                     "end_location" : {
+                        "lat" : 13.0809818,
+                        "lng" : 80.2709028
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eChennai - Villupuram - Trichy - Kanyakumari Rd\u003c/b\u003e/\u003cb\u003eEVR Rd\u003c/b\u003e/\u003cb\u003ePoonamallee High Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Chennai - Villupuram - Trichy - Kanyakumari Rd/Poonamallee High Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Dr.U.Mohan Rau Memorial Hospital (on the left)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ooynAu~yhNIoBAQGmBEq@Em@AWUeEK}BEm@Gu@AQAKE]CYE[Io@CQIc@AEGWGQOg@?CMWKYQm@Kg@YyBk@gFQsACWOqAGm@C]AWAY?_@?U@s@B{DAiB@iBAwBAo@E{DAiAIiBAMMc@"
+                     },
+                     "start_location" : {
+                        "lat" : 13.0791164,
+                        "lng" : 80.25595489999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 192
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 13.0826943,
+                        "lng" : 80.27068009999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSydenhams Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ripon Bldg (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c{ynAc||hNYDqCRu@DW@}@D]B"
+                     },
+                     "start_location" : {
+                        "lat" : 13.0809818,
+                        "lng" : 80.2709028
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "moq{@wwx{MJmV_\\mRtDoQjVc{@eUq|BeFiy@_k@g^aeFaoG_oAaxCam@kb@kT{r@wg@gvBksAsjEs]_c@iFoo@hn@o}BsXmt@mh@sOkxBhQ{kE}d@}zAmJ_uEho@myBmi@ceBcS{fBaSyeBuk@i~@j@ejAfE_iCorAaaCsTu}AlCir@hIsx@yOkfAoP_rD}CicA|P{iApCorAfXqqAiGoRk_@kx@w_Buy@acAinAqy@kz@ycAyw@ko@uj@cRaw@em@cbCwm@w}Asj@meAiz@}lBox@woAet@{yBin@ur@u~@wfAe_AwlAus@ioAqwAwy@kn@a_By[}fCouCimC_zAatDmeCikA}j@u}Ag[orAyUiw@cu@wfB_nB}h@ssAkaAem@e`@{f@gf@{z@{PsbAmdAyZmeEaFeeCuBui@x[elAuB{g@o[iy@em@ucCiw@sQyXw^nAuvAmnB}pCor@ysCokA{mFokD_oBey@aiGkpAcjBgYg}AiVw_Asd@kmDoaAi{@qv@ol@_Uo|CivAowAen@irA{j@ybC_h@grC{PgkCsh@{qCopAmtD{dDylFydDyzAypBo`AmrAq_@mc@wx@}G{u@mEcl@i\\qzA{hAmrAceAeoA{kBsyAwlA_sAc{BwtC{cEodC}{Ba_Akp@io@gOibBih@qoAeg@w{Cg~Ckx@qb@eKwPy[efBq~CmeFmhAsgBk[ih@AcrBc_AmgCeaA_VwxA}fAup@sy@qjCg|Cin@mjAg`By|@ykEwxCcgBey@kpEqaBm_Ewt@w\\u}@u|BuuAwi@i@ijAw`@gd@}L_uAhRgx@uSsg@ukA_o@qmA}z@sc@q|Aeh@sdAol@_wAeyAm}A_m@cbG_u@_oDmkBg|@cc@{[m_@mx@is@wmBubAsbFoiCw{EecCgBmcBydByt@ul@zPujAgs@mlCq{ByaDmzGguBenDkyAusAql@{Scv@pJmc@rAwqAiW_v@sYc}AuxAo`BguAg[om@yhDqkAehDczAaoBkmA}hEa}Cad@{n@id@wQsdB}h@osE}lAkeC_NevByi@wsDguAqz@{@c@ul@gFqeAec@kEqrBhKym@iR{qB_`B}vBya@uq@iX}hBaqAqoEi{AqyCmbB}}D}dDsaBgpAutAsi@y|Akd@csBsiAyk@}g@cqAhEqnA|Cso@sh@oj@ibAmaBwJcrDc[gyA}Wsz@_x@_jAwkAwrAyDqg@}P}f@mr@cSjC`C__@yd@whAmc@spAkSqwAxIqvAsYqrF}H_r@wJq`@"
+         },
+         "summary" : "NH38 and Chennai - Theni Hwy",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

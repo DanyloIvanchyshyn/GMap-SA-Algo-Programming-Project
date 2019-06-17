@@ -1,0 +1,313 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "PVMW+R8 Daquanwanxiang, Yizhou, Kumul, Xinjiang, China",
+      "global_code" : "8MJMPVMW+R8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "008 Xiang Dao",
+               "short_name" : "008 Xiang Dao",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yizhou Qu",
+               "short_name" : "Yizhou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hami Shi",
+               "short_name" : "Hami Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xinjiang Weiwuerzizhiqu",
+               "short_name" : "Xinjiang Weiwuerzizhiqu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "839104",
+               "short_name" : "839104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "008 Xiang Dao, Yizhou Qu, Hami Shi, Xinjiang Weiwuerzizhiqu, China, 839104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7349512,
+                  "lng" : 93.896075
+               },
+               "southwest" : {
+                  "lat" : 42.72549420000001,
+                  "lng" : 93.8868915
+               }
+            },
+            "location" : {
+               "lat" : 42.72882,
+               "lng" : 93.89274449999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7349512,
+                  "lng" : 93.896075
+               },
+               "southwest" : {
+                  "lat" : 42.72549420000001,
+                  "lng" : 93.8868915
+               }
+            }
+         },
+         "place_id" : "ChIJIfrTT-8N5jcRUKAQt5OeLK0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "839104",
+               "short_name" : "839104",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yizhou",
+               "short_name" : "Yizhou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kumul",
+               "short_name" : "Kumul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yizhou, Kumul, China, 839104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7597336,
+                  "lng" : 93.9062689
+               },
+               "southwest" : {
+                  "lat" : 42.6998098,
+                  "lng" : 93.8388133
+               }
+            },
+            "location" : {
+               "lat" : 42.74491039999999,
+               "lng" : 93.9061306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7597336,
+                  "lng" : 93.9062689
+               },
+               "southwest" : {
+                  "lat" : 42.6998098,
+                  "lng" : 93.8388133
+               }
+            }
+         },
+         "place_id" : "ChIJQVN74IkN5jcRyuuEFjuMIvc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yizhou",
+               "short_name" : "Yizhou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kumul",
+               "short_name" : "Kumul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xinjiang",
+               "short_name" : "Xinjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yizhou, Kumul, Xinjiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6434271,
+                  "lng" : 96.38619399999999
+               },
+               "southwest" : {
+                  "lat" : 40.8725127,
+                  "lng" : 91.1535257
+               }
+            },
+            "location" : {
+               "lat" : 42.3411207,
+               "lng" : 93.5175471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6434271,
+                  "lng" : 96.38619399999999
+               },
+               "southwest" : {
+                  "lat" : 40.8725127,
+                  "lng" : 91.1535257
+               }
+            }
+         },
+         "place_id" : "ChIJJ6v7-iVD7zcRnUGaBFh9440",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumul",
+               "short_name" : "Kumul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xinjiang",
+               "short_name" : "Xinjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kumul, Xinjiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0968837,
+                  "lng" : 96.38619399999999
+               },
+               "southwest" : {
+                  "lat" : 40.8725127,
+                  "lng" : 91.1535257
+               }
+            },
+            "location" : {
+               "lat" : 42.81842,
+               "lng" : 93.51514999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0968837,
+                  "lng" : 96.38619399999999
+               },
+               "southwest" : {
+                  "lat" : 40.8725127,
+                  "lng" : 91.1535257
+               }
+            }
+         },
+         "place_id" : "ChIJB4Kmbw3C5TcRavyXAGegUS4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xinjiang",
+               "short_name" : "Xinjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xinjiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1823419,
+                  "lng" : 96.38619399999999
+               },
+               "southwest" : {
+                  "lat" : 34.3345026,
+                  "lng" : 73.50235499999999
+               }
+            },
+            "location" : {
+               "lat" : 42.5246357,
+               "lng" : 87.5395855
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1823419,
+                  "lng" : 96.38619399999999
+               },
+               "southwest" : {
+                  "lat" : 34.3345026,
+                  "lng" : 73.50235499999999
+               }
+            }
+         },
+         "place_id" : "ChIJq017_YwABjgRoQdnNuwWQag",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

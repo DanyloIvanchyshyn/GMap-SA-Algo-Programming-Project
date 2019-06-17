@@ -1,0 +1,459 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "6GPH+P5 Bartošovice v Orlických horách, Czechia",
+      "global_code" : "9F2R6GPH+P5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "311",
+               "short_name" : "311",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bartošovice v Orlických horách",
+               "short_name" : "Bartošovice v Orlických horách",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rychnov nad Kněžnou",
+               "short_name" : "Rychnov nad Kněžnou",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Královéhradecký kraj",
+               "short_name" : "Královéhradecký kraj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "517 61",
+               "short_name" : "517 61",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "311, 517 61 Bartošovice v Orlických horách, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2409656,
+                  "lng" : 16.5288933
+               },
+               "southwest" : {
+                  "lat" : 50.2365128,
+                  "lng" : 16.5136775
+               }
+            },
+            "location" : {
+               "lat" : 50.23904160000001,
+               "lng" : 16.521534
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2409656,
+                  "lng" : 16.5288933
+               },
+               "southwest" : {
+                  "lat" : 50.2365128,
+                  "lng" : 16.5136775
+               }
+            }
+         },
+         "place_id" : "ChIJV9WC7NcIDkcRIEP2RJgcFiU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93",
+               "short_name" : "93",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bartošovice v Orlických horách",
+               "short_name" : "Bartošovice v Orlických horách",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rychnov nad Kněžnou",
+               "short_name" : "Rychnov nad Kněžnou",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Královéhradecký kraj",
+               "short_name" : "Královéhradecký kraj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "517 61",
+               "short_name" : "517 61",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bartošovice v Orlických horách 93, 517 61 Bartošovice v Orlických horách, Czechia",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.23783969999999,
+               "lng" : 16.5241869
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.23918868029149,
+                  "lng" : 16.5255358802915
+               },
+               "southwest" : {
+                  "lat" : 50.23649071970849,
+                  "lng" : 16.5228379197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_UeIjdcIDkcR_s78NqhwUa0",
+         "plus_code" : {
+            "compound_code" : "6GQF+4M Bartošovice v Orlických horách, Czechia",
+            "global_code" : "9F2R6GQF+4M"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bartošovice v Orlických horách",
+               "short_name" : "Bartošovice v Orlických horách",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rychnov nad Kněžnou District",
+               "short_name" : "Rychnov nad Kněžnou District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hradec Králové Region",
+               "short_name" : "Hradec Králové Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "517 61",
+               "short_name" : "517 61",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "517 61 Bartošovice v Orlických horách, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2502522,
+                  "lng" : 16.5855247
+               },
+               "southwest" : {
+                  "lat" : 50.138606,
+                  "lng" : 16.4898399
+               }
+            },
+            "location" : {
+               "lat" : 50.16398,
+               "lng" : 16.5477618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2502522,
+                  "lng" : 16.5855247
+               },
+               "southwest" : {
+                  "lat" : 50.138606,
+                  "lng" : 16.4898399
+               }
+            }
+         },
+         "place_id" : "ChIJ6zMJCmUIDkcRILYUZg-vAAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "517 61",
+               "short_name" : "517 61",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "517 61, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2505575,
+                  "lng" : 16.586229
+               },
+               "southwest" : {
+                  "lat" : 50.1344551,
+                  "lng" : 16.3965285
+               }
+            },
+            "location" : {
+               "lat" : 50.2006607,
+               "lng" : 16.4842916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2505575,
+                  "lng" : 16.586229
+               },
+               "southwest" : {
+                  "lat" : 50.1344551,
+                  "lng" : 16.3965285
+               }
+            }
+         },
+         "place_id" : "ChIJS5wX97QJDkcRQK9jmBKvABw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rokytnice v Orlických horách",
+               "short_name" : "Rokytnice v Orlických horách",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "517 61",
+               "short_name" : "517 61",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rokytnice v Orlických horách, 517 61, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2505575,
+                  "lng" : 16.586229
+               },
+               "southwest" : {
+                  "lat" : 50.1344551,
+                  "lng" : 16.3965285
+               }
+            },
+            "location" : {
+               "lat" : 50.2006607,
+               "lng" : 16.4842916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2505575,
+                  "lng" : 16.586229
+               },
+               "southwest" : {
+                  "lat" : 50.1344551,
+                  "lng" : 16.3965285
+               }
+            }
+         },
+         "place_id" : "ChIJddk-t3HiDUcR_SpVRKKgw5I",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rychnov nad Kněžnou District",
+               "short_name" : "Rychnov nad Kněžnou District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hradec Králové Region",
+               "short_name" : "Hradec Králové Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rychnov nad Kněžnou District, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3831122,
+                  "lng" : 16.5855247
+               },
+               "southwest" : {
+                  "lat" : 50.0388059,
+                  "lng" : 15.9709154
+               }
+            },
+            "location" : {
+               "lat" : 50.2408196,
+               "lng" : 16.2796673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3831122,
+                  "lng" : 16.5855247
+               },
+               "southwest" : {
+                  "lat" : 50.0388059,
+                  "lng" : 15.9709154
+               }
+            }
+         },
+         "place_id" : "ChIJDcz1xG91DkcRwKsUZg-vAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.91137819999999,
+                  "lng" : 17.3263131
+               },
+               "southwest" : {
+                  "lat" : 50.10366639999999,
+                  "lng" : 16.195729
+               }
+            },
+            "location" : {
+               "lat" : 50.5340512,
+               "lng" : 16.8877331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.91137819999999,
+                  "lng" : 17.3263131
+               },
+               "southwest" : {
+                  "lat" : 50.10366639999999,
+                  "lng" : 16.195729
+               }
+            }
+         },
+         "place_id" : "ChIJ6bRKddciDkcRQ6Qoym3-lBw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hradec Králové Region",
+               "short_name" : "Hradec Králové Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hradec Králové Region, Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7804396,
+                  "lng" : 16.5855247
+               },
+               "southwest" : {
+                  "lat" : 50.0388059,
+                  "lng" : 15.1049794
+               }
+            },
+            "location" : {
+               "lat" : 50.3512484,
+               "lng" : 15.7976459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7804396,
+                  "lng" : 16.5855247
+               },
+               "southwest" : {
+                  "lat" : 50.0388059,
+                  "lng" : 15.1049794
+               }
+            }
+         },
+         "place_id" : "ChIJMfr5cQ2GDkcRkKgUZg-vAAE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Czechia",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Czechia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0557185,
+                  "lng" : 18.8592361
+               },
+               "southwest" : {
+                  "lat" : 48.5518081,
+                  "lng" : 12.090589
+               }
+            },
+            "location" : {
+               "lat" : 49.81749199999999,
+               "lng" : 15.472962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0557185,
+                  "lng" : 18.8592361
+               },
+               "southwest" : {
+                  "lat" : 48.5518081,
+                  "lng" : 12.090589
+               }
+            }
+         },
+         "place_id" : "ChIJQ4Ld14-UC0cRb1jb03UcZvg",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

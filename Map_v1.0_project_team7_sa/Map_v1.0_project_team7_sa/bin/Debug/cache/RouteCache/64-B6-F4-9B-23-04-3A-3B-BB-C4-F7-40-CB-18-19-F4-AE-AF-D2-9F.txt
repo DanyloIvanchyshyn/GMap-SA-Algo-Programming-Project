@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmZkN8ERztRIRLeJYdTpaNlc",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmZkN8ERztRIRLeJYdTpaNlc",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 44.389194,
+               "lng" : 4.7414486
+            },
+            "southwest" : {
+               "lat" : 44.38855059999999,
+               "lng" : 4.7414188
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "72 m",
+                  "value" : 72
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 3
+               },
+               "end_address" : "D458, 26700 La Garde-Adhémar, France",
+               "end_location" : {
+                  "lat" : 44.389194,
+                  "lng" : 4.7414486
+               },
+               "start_address" : "D458, 26700 La Garde-Adhémar, France",
+               "start_location" : {
+                  "lat" : 44.38855059999999,
+                  "lng" : 4.7414188
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 44.389194,
+                        "lng" : 4.7414486
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eLes Pereyrets\u003c/b\u003e/\u003cb\u003eD458\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ms|mG{`}[_CE"
+                     },
+                     "start_location" : {
+                        "lat" : 44.38855059999999,
+                        "lng" : 4.7414188
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ms|mG{`}[_CE"
+         },
+         "summary" : "Les Pereyrets/D458",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

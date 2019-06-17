@@ -1,0 +1,366 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "QM8R+M3 Stejari, Romania",
+      "global_code" : "8GP5QM8R+M3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "DJ605B",
+               "short_name" : "DJ605B",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stejari",
+               "short_name" : "Stejari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna Stejari",
+               "short_name" : "Comuna Stejari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Gorj",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DJ605B 36, Stejari, Romania",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.7674658,
+               "lng" : 23.6900488
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7688147802915,
+                  "lng" : 23.6913977802915
+               },
+               "southwest" : {
+                  "lat" : 44.7661168197085,
+                  "lng" : 23.6886998197085
+               }
+            }
+         },
+         "place_id" : "ChIJt8Lo0QOQUkcRWQhlW1E0zZo",
+         "plus_code" : {
+            "compound_code" : "QM8R+X2 Stejari, Romania",
+            "global_code" : "8GP5QM8R+X2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DJ605B",
+               "short_name" : "DJ605B",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stejari",
+               "short_name" : "Stejari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna Stejari",
+               "short_name" : "Comuna Stejari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Gorj",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DJ605B, Stejari, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7705917,
+                  "lng" : 23.6905786
+               },
+               "southwest" : {
+                  "lat" : 44.7648403,
+                  "lng" : 23.6887369
+               }
+            },
+            "location" : {
+               "lat" : 44.7676561,
+               "lng" : 23.6899972
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7705917,
+                  "lng" : 23.6910067302915
+               },
+               "southwest" : {
+                  "lat" : 44.7648403,
+                  "lng" : 23.6883087697085
+               }
+            }
+         },
+         "place_id" : "ChIJ8SvPLAKQUkcR0blRBjWWvLM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "DJ605B",
+               "short_name" : "DJ605B",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stejari",
+               "short_name" : "Stejari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna Stejari",
+               "short_name" : "Comuna Stejari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Gorj",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DJ605B 36, Stejari, Romania",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.7674791,
+               "lng" : 23.68995
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7688280802915,
+                  "lng" : 23.6912989802915
+               },
+               "southwest" : {
+                  "lat" : 44.7661301197085,
+                  "lng" : 23.6886010197085
+               }
+            }
+         },
+         "place_id" : "EhtESjYwNUIgMzYsIFN0ZWphcmksIFJvbWFuaWEiGhIYChQKEgnxK88sApBSRxHQuVEGNZa8sxAk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stejari",
+               "short_name" : "Stejari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stejari",
+               "short_name" : "Stejari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gorj County",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stejari, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8010223,
+                  "lng" : 23.7081098
+               },
+               "southwest" : {
+                  "lat" : 44.7541698,
+                  "lng" : 23.6806012
+               }
+            },
+            "location" : {
+               "lat" : 44.7858872,
+               "lng" : 23.692492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8010223,
+                  "lng" : 23.7081098
+               },
+               "southwest" : {
+                  "lat" : 44.7541698,
+                  "lng" : 23.6806012
+               }
+            }
+         },
+         "place_id" : "ChIJURgNc_2PUkcRohDOzmkXXes",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stejari",
+               "short_name" : "Stejari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gorj County",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stejari, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.897149,
+                  "lng" : 23.7783609
+               },
+               "southwest" : {
+                  "lat" : 44.694671,
+                  "lng" : 23.623594
+               }
+            },
+            "location" : {
+               "lat" : 44.7618602,
+               "lng" : 23.6958396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.897149,
+                  "lng" : 23.7783609
+               },
+               "southwest" : {
+                  "lat" : 44.694671,
+                  "lng" : 23.623594
+               }
+            }
+         },
+         "place_id" : "ChIJp5c9OTGFUkcRlFvUlCvYxag",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorj County",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gorj County, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3546451,
+                  "lng" : 23.8601481
+               },
+               "southwest" : {
+                  "lat" : 44.568317,
+                  "lng" : 22.5596509
+               }
+            },
+            "location" : {
+               "lat" : 44.94855949999999,
+               "lng" : 23.2427079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3546451,
+                  "lng" : 23.8601481
+               },
+               "southwest" : {
+                  "lat" : 44.568317,
+                  "lng" : 22.5596509
+               }
+            }
+         },
+         "place_id" : "ChIJkSodn9kUUkcR012tXpRDw-Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.26518,
+                  "lng" : 29.77839999999999
+               },
+               "southwest" : {
+                  "lat" : 43.6186193,
+                  "lng" : 20.2617591
+               }
+            },
+            "location" : {
+               "lat" : 45.943161,
+               "lng" : 24.96676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.26518,
+                  "lng" : 29.77839999999999
+               },
+               "southwest" : {
+                  "lat" : 43.6186193,
+                  "lng" : 20.2617591
+               }
+            }
+         },
+         "place_id" : "ChIJw3aJlSb_sUARlLEEqJJP74Q",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

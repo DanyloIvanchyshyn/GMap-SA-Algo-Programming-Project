@@ -1,0 +1,140 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "8MQHXRP2+6P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uyench",
+               "short_name" : "Uyench",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uyench, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6069865,
+                  "lng" : 92.34214779999999
+               },
+               "southwest" : {
+                  "lat" : 45.04781089999999,
+                  "lng" : 91.3574981
+               }
+            },
+            "location" : {
+               "lat" : 45.4371579,
+               "lng" : 91.70257869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6069865,
+                  "lng" : 92.34214779999999
+               },
+               "southwest" : {
+                  "lat" : 45.04781089999999,
+                  "lng" : 91.3574981
+               }
+            }
+         },
+         "place_id" : "ChIJvxjlVqUQUV0Rh5rm1vG413U",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khovd, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9803121,
+                  "lng" : 94.43904289999999
+               },
+               "southwest" : {
+                  "lat" : 45,
+                  "lng" : 90.663551
+               }
+            },
+            "location" : {
+               "lat" : 47.1129654,
+               "lng" : 92.31107519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9803121,
+                  "lng" : 94.43904289999999
+               },
+               "southwest" : {
+                  "lat" : 45,
+                  "lng" : 90.663551
+               }
+            }
+         },
+         "place_id" : "ChIJE3Ol9gpKTF0RM2iSekuTTfg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

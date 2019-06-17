@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "7PVH+W4 Ravula Kollu, Andhra Pradesh, India",
+      "global_code" : "7J7X7PVH+W4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "523109",
+               "short_name" : "523109",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Prakasam",
+               "short_name" : "Prakasam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andhra Pradesh 523109, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.3308957,
+                  "lng" : 79.86774919999999
+               },
+               "southwest" : {
+                  "lat" : 15.197009,
+                  "lng" : 79.65525040000001
+               }
+            },
+            "location" : {
+               "lat" : 15.2905452,
+               "lng" : 79.80726109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.3308957,
+                  "lng" : 79.86774919999999
+               },
+               "southwest" : {
+                  "lat" : 15.197009,
+                  "lng" : 79.65525040000001
+               }
+            }
+         },
+         "place_id" : "ChIJP6YkE-AVSzoRgruff1_PA0U",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prakasam",
+               "short_name" : "Prakasam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prakasam, Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.3070306,
+                  "lng" : 80.4759883
+               },
+               "southwest" : {
+                  "lat" : 14.9658246,
+                  "lng" : 78.73634199999999
+               }
+            },
+            "location" : {
+               "lat" : 15.348463,
+               "lng" : 79.560344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.3070306,
+                  "lng" : 80.4759883
+               },
+               "southwest" : {
+                  "lat" : 14.9658246,
+                  "lng" : 78.73634199999999
+               }
+            }
+         },
+         "place_id" : "ChIJA2w2EBwBSzoRe5EpbIjZyps",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1656576,
+                  "lng" : 84.76464609999999
+               },
+               "southwest" : {
+                  "lat" : 12.6237261,
+                  "lng" : 76.7606036
+               }
+            },
+            "location" : {
+               "lat" : 15.9128998,
+               "lng" : 79.7399875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1656576,
+                  "lng" : 84.76464609999999
+               },
+               "southwest" : {
+                  "lat" : 12.6237261,
+                  "lng" : 76.7606036
+               }
+            }
+         },
+         "place_id" : "ChIJf9STrvhGNToRg82tlb670TM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

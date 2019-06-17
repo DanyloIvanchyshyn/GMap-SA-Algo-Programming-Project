@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJvxjlVqUQUV0Rh5rm1vG413U",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJtfOFLVOmVl0RaL9UzSp5ZkM",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 46.026152,
+               "lng" : 91.80603719999999
+            },
+            "southwest" : {
+               "lat" : 45.9642312,
+               "lng" : 91.2932828
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "44.7 km",
+                  "value" : 44659
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2025
+               },
+               "end_address" : "Mining Rd, Mongolia",
+               "end_location" : {
+                  "lat" : 46.026152,
+                  "lng" : 91.2932828
+               },
+               "start_address" : "Uyench, Mongolia",
+               "start_location" : {
+                  "lat" : 45.9679317,
+                  "lng" : 91.80603719999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "44.7 km",
+                        "value" : 44659
+                     },
+                     "duration" : {
+                        "text" : "34 mins",
+                        "value" : 2025
+                     },
+                     "end_location" : {
+                        "lat" : 46.026152,
+                        "lng" : 91.2932828
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eMining Rd\u003c/b\u003e/\u003cb\u003eAH4\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qbqwGwzioPbAfQd@jJbBp]~Af]~A~\\^|LRlF@^NjC`@~HTrELtBZvGDt@^lGRlE\\zGP`D^zITdHBdDDrCBpCCdCCjCIzIGnAC`Ai@jKa@|EGr@SxCW~CCPg@tGKzAcAjMc@hFMzAS|BUfBYnBa@bCq@tCSz@o@tBGRQh@Od@u@nB}@lBoB|DwDtHaEvHgDzGaCtEGJ}@hBmCbFyGxMsDdHoG`MmEvIqAhCOVgC~EmCnFoBvDi@dAi@bAyBvDsCtD_C~BkAhAiBnAWNaBhAeChBgDzBqDdCkAv@mH`Fw@h@{FxDmAz@sCnBe@\\g@\\YPcLzHmEzCeBnAaAv@o@n@eAdAy@|@}@lAgA~Ae@v@Yf@]p@c@|@k@lAMXSf@y@tBk@~Ai@xAaAjCs@lBcAlCmAjDgAvCuAvDi@zAqAlDgAxCeBvEUn@aBpEkAbDoCnHcD`JmAhDcBnEWp@yEpMmBjFqCzHaApC_BxFm@rC[pBQdA]hD[dDYjGo@vOSpF_@pIUtGGlASrEYfIQdDUvFGxBGfD?pA?tBFnC?FFbALzCNhBPpBV~AVdBBJJl@RnAx@hDrA~E~B|I`BdGv@rCvExPpBhHlFbS^rAzC`LFTbB|FtAfE~@pCj@~AzA~DdCnGf@jAjAxChAvC~AdEdBpEnA`DbCpGrClHx@pB|AxDpF~NLXrBpFrDnJ`@bAr@jB~A`EbBfE~AfEp@dBhGfPpCfHnBjFr@fBdMb\\xAtDnAdDbErKpEnLrEnL^`AzAxDzA~DzAvD|@fCHTt@tBh@hBT`Af@xB\\bBXbBPpALfAJdADd@H`AF~@N`CB`ADxAFdDFtF?VPrQB~B\\f[\\|ZZh[BjCPbOPtM?bBp@zm@`Bv}ATjUF`HDtC@rD?bDEpDAp@C`AKvCOxB[fESrBi@nEaAdGShAOt@IXy@bEgDrP}ChOy@dEoMfo@uD|QeH`g@qJtq@mBzO_DvVmAlIc@tCoDjWgBjPuBhQkAdLs@bJw@dLcBlVWvCq@lGOzAm@xFu@tJKpAk@rGIhBSbGG|BEzBApA?|A?H?XBt@@XHb@XrAXtB\\fCTrD@xAFdMCpBG~FS~GI~BUjGo@vIQdCaAbGc@pCsAxJa@zEU`C[dDm@`G}@rIMx@oAvJkAdLQ~AcA~N[jEYdDShBOlAKdAErAKlDs@vLAXq@pEy@hJUnCSvGOvAW~BKfASjCUrEIfIu@dSg@zDW`FC|A[hDEdF@~FF~FGpG]nMM|DWtCGh@W~CIjBOnFEbDKhAs@|EGhB?bCWtBQnBAvAOrBQ`BAxBCv@SdBQvBKzFTxC@v@Ir@OpAUfBA|A@~DFnDDnEEpBGxBDdB@`C@l@Jj@^zA`@|D\\pA^nCPjAHv@?P?z@?`C@|EDx@`AlFv@rHf@nFPrAP`A\\`BZhABNDtABt@F`@DN@HBDj@hAv@~Bz@bCt@zDpAlFhAxFJd@f@`CXrBLfAFb@?b@@d@Cj@CNSp@Mb@eA~D_@tAgAjGq@hDyCtJoA|D}FtWmA~F]`B}D|PsArFu@zCU`AcB|GeBjHuCrJsApEuAxEe@~Ag@bBcBnGo@`CUx@_@bBYtBQlAQhAUdAYv@[h@g@v@GJqBrC_BnBa@f@m@b@s@PaABk@BmCGaAD[B]PiAp@{@|@}BxCiCtCwE~Gw@l@aF~BoCx@yJjBy@\\a@Hs@Ju@LeAb@g@\\{@n@{@h@_@X_@b@Sd@IVEZ?V?h@B|@FxDFfEClBIvF]rIYrFk@|GgBjKwApH_@|BKf@iAtF{@hEsAzGkCvLa@tB_AtE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.9679317,
+                        "lng" : 91.80603719999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qbqwGwzioPbAfQd@jJbEx{@~A~\\^|LTlGtAtWtAhXn@|L^zITdHHxHBpCCdCMfNKpCi@jKa@|E[lEoAbPgBtTa@xEo@vEa@bCq@tCcApDY|@eAtCmDjHwDtHaEvHiHpNeAtBmCbFyGxMcMfV_H`NuK~SsAhCyBvDsCtDkEhEaC~AgFrDyI`GmT|NoHfF}LlIsHjFqBfB_CbCeClD_A~A{BvEcDvIgGrP_Qle@{ErMqFjO{B`GgI|TsElM_BxFm@rCm@vDy@nI}Bfj@kA~Zg@|KO`H?fEFvCT~E`@zE~@~FRnAx@hDrE|PbN|f@pLnc@bB|FtAfEjBpFtItT~IpUnLjZ~FxOfH`RxGxPpClHzKnYbUll@xTxk@rHrRfA|C~A~E|@zDv@fE^xCPjBP`CRbETlOpAxmAbAn~@hDbfDLvL@vIGbFOxEk@`I}@bIuAnIYnAyLfm@eSdbAwSvyAmGrg@qBbNoDjWgBjPuBhQkAdLkBhW{Bd[aAhJm@xFu@tJw@dJ]lJMxFAnDDrBb@vBv@|FTrD@xAFdMCpBG~FS~G_@jKaA|MeBtKsAxJa@zEq@fHkBtQ}ApL}AdO_BjUm@nG[rCQ`Gu@pMq@pEy@hJUnCSvGg@vE_@rEUrEIfIu@dSg@zDW`FC|A[hDEdF@~FF~FGpG]nMM|DWtC_@hEYzIEbDKhAs@|EGhB?bCWtBQnBAvAa@tEEpDe@|EKzFTxC@v@Ir@e@xD?|GL~JMjFDdB@`C@l@Jj@^zA`@|D\\pA^nCZbC?lA@~IDx@`AlF~AbPPrAP`A\\`BZhAHdBJvAFXn@nArBbGt@zDpAlFtA~Gf@`CXrBTjB@hAGz@a@tAeBtGyBtLiFrP}FtWmA~F{E~ScGnVeBjHuCrJiDjLmAbEsCpKu@|Ck@bEg@nCYv@[h@o@bAqBrC_BnBa@f@m@b@s@PaABk@BmCG}AHgBbA{@|@}BxCiCtCwE~Gw@l@aF~BoCx@yJjBy@\\uATu@LeAb@cBlA{@h@_@X_@b@Sd@IVEZ?`AJvFFfEClBIvF]rIYrFk@|GgBjKwApHk@dDeC~LsAzGkCvLaBjI"
+         },
+         "summary" : "Mining Rd/AH4",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

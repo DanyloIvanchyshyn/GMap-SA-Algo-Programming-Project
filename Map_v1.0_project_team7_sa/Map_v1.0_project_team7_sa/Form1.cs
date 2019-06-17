@@ -15,10 +15,11 @@ namespace Map_v1._0_project_team7_sa
 {
     public partial class Form1 : Form
     {
-        private List<PointLatLng> _points;
+        public List<PointLatLng> _points;
 
         public Form1()
         {
+            map = new GMapControl();
             InitializeComponent();
             _points = new List<PointLatLng>();
 
@@ -52,6 +53,8 @@ namespace Map_v1._0_project_team7_sa
             var point = new PointLatLng(Convert.ToDouble(txtLat.Text), Convert.ToDouble(txtLong.Text));
             LoadMap(point);
             AddMarker(point);
+            map.Refresh();
+            map.Update();
         }
 
         private void LoadMap(PointLatLng point)
@@ -70,41 +73,67 @@ namespace Map_v1._0_project_team7_sa
         private void btnAddPoint_Click(object sender, EventArgs e)
         {
             _points.Add(new PointLatLng(Convert.ToDouble(txtLat.Text),
-                Convert.ToDouble(txtLong.Text)));
+                Convert.ToDouble(txtLong.Text)));           
         }
 
         private void btnGetRoute_Click(object sender, EventArgs e)
         {
-            var route = GoogleSatelliteMapProvider.Instance
+            //double l = 0;
+            //MapRoute route;
+            //GMapRoute r;
+            //GMapOverlay routes;
+            //for (int i = 0; i < _points.Count; i++)
+            //{
+            //    if (_points[i + 1] != null)
+            //    {
+            //        route = GoogleMapProvider.Instance
+            //        .GetRoute(_points[i], _points[i + 1], false, false, 14);
+
+            //        r = new GMapRoute(route.Points, "My Route")
+            //        {
+            //            Stroke = new Pen(Color.Blue, 4)
+            //        };
+
+            //        routes = new GMapOverlay("routes");
+            //        routes.Routes.Add(r);
+            //        map.Overlays.Add(routes);
+            //        l += route.Distance;
+            //    }
+            //}
+
+            var route = GoogleMapProvider.Instance
                .GetRoute(_points[0], _points[1], false, false, 14);
-            
+
 
             var r = new GMapRoute(route.Points, "My Route")
             {
-                Stroke = new Pen(Color.Red, 5)
+                Stroke = new Pen(Color.Blue, 4)
             };
-                   
+
+
             var routes = new GMapOverlay("routes");
             routes.Routes.Add(r);
             map.Overlays.Add(routes);
-            
             map.Refresh();
             map.Update();
+            map.Zoom--;
+            map.Zoom++;
             label4.Text = route.Distance + @" Km";
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            GMapProviders.GoogleMap.ApiKey = "AIzaSyB_ZBxpV6axQxnIyDSf23lyg54w_vprPOk";
             GMaps.Instance.Mode = AccessMode.ServerAndCache;
-            map.CacheLocation = @"AIzaSyB_ZBxpV6axQxnIyDSf23lyg54w_vprPOk";
+            map.CacheLocation = @"cache";
             map.DragButton = MouseButtons.Left;
             //map.Update();
             map.MapProvider = GMapProviders.GoogleMap;
             map.ShowCenter = false;
-            map.SetPositionByKeywords("Lviv, Ukraine");
-            map.MaxZoom = 20;
+            map.SetPositionByKeywords("Chennai, India");
+            map.Zoom = 30;
+            map.MaxZoom = 40;
             map.MinZoom = 0;
-            map.ShowCenter = false;
         }
 
         private void btnClearList_Click(object sender, EventArgs e)
@@ -161,10 +190,12 @@ namespace Map_v1._0_project_team7_sa
         {
             if (map.Overlays.Count > 0)
             {
-                map.Overlays.RemoveAt(0);
+                int n = map.Overlays.Count;
+                map.Overlays.RemoveAt(n-1);
                 map.Refresh();
             }
         }
+               
     }
 }    
 

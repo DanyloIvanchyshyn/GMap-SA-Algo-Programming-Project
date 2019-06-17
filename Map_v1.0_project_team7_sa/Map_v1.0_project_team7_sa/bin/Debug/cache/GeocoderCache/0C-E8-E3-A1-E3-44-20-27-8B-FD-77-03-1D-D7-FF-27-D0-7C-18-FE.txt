@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "V6VQ+G9 Bor-Uzuur, Mongolia",
+      "global_code" : "8MQJV6VQ+G9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mining Road",
+               "short_name" : "AH4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Altai",
+               "short_name" : "Altai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mining Rd, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.890516,
+                  "lng" : 92.2968544
+               },
+               "southwest" : {
+                  "lat" : 45.8840824,
+                  "lng" : 92.22713469999999
+               }
+            },
+            "location" : {
+               "lat" : 45.8843811,
+               "lng" : 92.26091959999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.890516,
+                  "lng" : 92.2968544
+               },
+               "southwest" : {
+                  "lat" : 45.8840824,
+                  "lng" : 92.22713469999999
+               }
+            }
+         },
+         "place_id" : "ChIJVwO0X9RBV10RnobLED2ZVp0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altai",
+               "short_name" : "Altai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altai, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.47049759999999,
+                  "lng" : 93.2763559
+               },
+               "southwest" : {
+                  "lat" : 45.0008709,
+                  "lng" : 91.87248230000002
+               }
+            },
+            "location" : {
+               "lat" : 45.7205591,
+               "lng" : 92.6885001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.47049759999999,
+                  "lng" : 93.2763559
+               },
+               "southwest" : {
+                  "lat" : 45.0008709,
+                  "lng" : 91.87248230000002
+               }
+            }
+         },
+         "place_id" : "ChIJc0xU70foV10RaRZfwMvyWU8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khovd",
+               "short_name" : "Khovd",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khovd, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9803121,
+                  "lng" : 94.43904289999999
+               },
+               "southwest" : {
+                  "lat" : 45,
+                  "lng" : 90.663551
+               }
+            },
+            "location" : {
+               "lat" : 47.1129654,
+               "lng" : 92.31107519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9803121,
+                  "lng" : 94.43904289999999
+               },
+               "southwest" : {
+                  "lat" : 45,
+                  "lng" : 90.663551
+               }
+            }
+         },
+         "place_id" : "ChIJE3Ol9gpKTF0RM2iSekuTTfg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,313 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "7RQ7+C8 Dongyuzhen, Nanjiang, Bazhong, Sichuan, China",
+      "global_code" : "8P487RQ7+C8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101 Sheng Dao",
+               "short_name" : "101 Sheng Dao",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nanjiang Xian",
+               "short_name" : "Nanjiang Xian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bazhong Shi",
+               "short_name" : "Bazhong Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan Sheng",
+               "short_name" : "Sichuan Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "636623",
+               "short_name" : "636623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "101 Sheng Dao, Nanjiang Xian, Bazhong Shi, Sichuan Sheng, China, 636623",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.291106,
+                  "lng" : 106.8186326
+               },
+               "southwest" : {
+                  "lat" : 32.260221,
+                  "lng" : 106.8078765
+               }
+            },
+            "location" : {
+               "lat" : 32.2742772,
+               "lng" : 106.8183326
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.291106,
+                  "lng" : 106.8186326
+               },
+               "southwest" : {
+                  "lat" : 32.260221,
+                  "lng" : 106.8078765
+               }
+            }
+         },
+         "place_id" : "ChIJr0C68TVHizYR0Kz462RZCFY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "636623",
+               "short_name" : "636623",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nanjiang",
+               "short_name" : "Nanjiang",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bazhong",
+               "short_name" : "Bazhong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanjiang, Bazhong, China, 636623",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3000477,
+                  "lng" : 106.9122511
+               },
+               "southwest" : {
+                  "lat" : 32.1517024,
+                  "lng" : 106.7706459
+               }
+            },
+            "location" : {
+               "lat" : 32.229249,
+               "lng" : 106.8430683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3000477,
+                  "lng" : 106.9122511
+               },
+               "southwest" : {
+                  "lat" : 32.1517024,
+                  "lng" : 106.7706459
+               }
+            }
+         },
+         "place_id" : "ChIJN-DzEhVBizYRMeb1kXgupZk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanjiang",
+               "short_name" : "Nanjiang",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bazhong",
+               "short_name" : "Bazhong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanjiang, Bazhong, Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.739379,
+                  "lng" : 107.1270972
+               },
+               "southwest" : {
+                  "lat" : 31.8657674,
+                  "lng" : 106.4446993
+               }
+            },
+            "location" : {
+               "lat" : 32.346589,
+               "lng" : 106.828697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.739379,
+                  "lng" : 107.1270972
+               },
+               "southwest" : {
+                  "lat" : 31.8657674,
+                  "lng" : 106.4446993
+               }
+            }
+         },
+         "place_id" : "ChIJd1xF5uk-izYR1oWBcIpzTEw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bazhong",
+               "short_name" : "Bazhong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bazhong, Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.739379,
+                  "lng" : 107.7639422
+               },
+               "southwest" : {
+                  "lat" : 31.247175,
+                  "lng" : 106.3634953
+               }
+            },
+            "location" : {
+               "lat" : 31.867903,
+               "lng" : 106.747477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.739379,
+                  "lng" : 107.7639422
+               },
+               "southwest" : {
+                  "lat" : 31.247175,
+                  "lng" : 106.3634953
+               }
+            }
+         },
+         "place_id" : "ChIJrWQK-WJjizYRJN6GDmPFVaA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3129997,
+                  "lng" : 108.5467122
+               },
+               "southwest" : {
+                  "lat" : 26.0458652,
+                  "lng" : 97.34808120000001
+               }
+            },
+            "location" : {
+               "lat" : 30.26380319999999,
+               "lng" : 102.8054753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3129997,
+                  "lng" : 108.5467122
+               },
+               "southwest" : {
+                  "lat" : 26.0458652,
+                  "lng" : 97.34808120000001
+               }
+            }
+         },
+         "place_id" : "ChIJs829aDPn5DYRuf6Zj898j94",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJc0xU70foV10RaRZfwMvyWU8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVwO0X9RBV10RnobLED2ZVp0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.8879975,
+               "lng" : 92.78024189999999
+            },
+            "southwest" : {
+               "lat" : 45.8460454,
+               "lng" : 92.2340377
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "43.0 km",
+                  "value" : 43020
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1936
+               },
+               "end_address" : "Mining Rd, Mongolia",
+               "end_location" : {
+                  "lat" : 45.8879975,
+                  "lng" : 92.2340377
+               },
+               "start_address" : "Altai, Mongolia",
+               "start_location" : {
+                  "lat" : 45.8462061,
+                  "lng" : 92.78024189999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "43.0 km",
+                        "value" : 43020
+                     },
+                     "duration" : {
+                        "text" : "32 mins",
+                        "value" : 1936
+                     },
+                     "end_location" : {
+                        "lat" : 45.8879975,
+                        "lng" : 92.2340377
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eMining Rd\u003c/b\u003e/\u003cb\u003eAH4\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yiyvGochuPk@nTWdKUdKQ|KG~IIjJBjEBxELhHZhRNtI`Ajh@RpNDlDC~BIhBKhBKxBY~ByAbQwB~UQpAQxAUbBu@jCe@`AoA~Bs@zAkIbOqHvN}HjOi@nBkA~GoCpTMx@oBpTk@~F{Cb[QdB}ApPkCvWo@lFgD~]w@tIaBzOwCzYa@zDeCzVeDb\\[fDgFnh@q@fHUbC{@xJm@rIm@vImDph@_@rFEp@}Bl]K|AcBvV]`FyCje@iAhS_@jFy@hM_Cl^gAxPkB`ZuBn[c@vG}AnTcBfXeA|Nq@~JiAlPUxCq@rKsC~b@GbAkA`REr@cBlXe@nHqB~Z{@lMg@tHi@dIq@rKo@xJ?De@bH{@`Ns@|Ke@tHi@|H[rF_@|FSxCO|BQnCYfE[vEi@`I[hFk@dJa@vG_@vFIpAWzDQ`ESxB_@fFMlBCZa@zGi@lIUjDOzBMfBUfDc@fHa@lGc@zG_@~Fa@pGa@hGANOnCMbBIlAMtB_@fEq@tJ}@|NMbBq@lKcA`PUhEK~DGbOBtFD~KJ`V@pFDjPJrWFvPD`ND~OL~ZL|\\Nx^FfSFpQNnc@DrI@bGRlj@BvGBvB?bBBbF?pEDfFDvI@jG@|HDnED`G?lEBnE@dBB`GBtHBnEBnF@`G@jDBhIBfC?xCDtHHxPBrD?pHFvG?fGBxE?nCUhIUzEa@`Hc@fIe@|HKpEGxCSxJQvM[`Y]~Ua@nY]nYk@`Xg@vd@QvRKrMOfLM`NSxQMnQAbIGl^Gv]D|d@Zpy@RrbADbKFfN?zELv_@DjPHp]Pde@@`GFpUDpMBpC@pJBhJD|KFxXBlPCnOAvP?lE?zY@`FFdZRfTPpQBrDN~\\AxACdAExAKhDg@hEu@`GOlA}@dEgBzHwGlViDdMa@zA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8462061,
+                        "lng" : 92.78024189999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yiyvGochuPcAt`@UdKQ|KQjUFdLzBtoAX~SC~BIhBWbFY~ByAbQiCpXg@|Du@jCe@`AcCzEkIbOqHvN}HjOi@nBkA~GoCpT}BjVwHzw@kCvWo@lF_Fth@yFvj@gDv\\aEja@yGvq@qA|N{AjTqIdpAoBtYwDll@iBtZyDvl@mIbqA}AnTcBfXwB|ZeHzeA}Dfo@{Fr|@gIrpAqEvr@sChd@i@hIWzDQ`Es@`JQhCqBp[qF|z@i@pIm@|HoBrZ_ApNyAjVK~DGbOHtS^rgA`@xlAl@pcBj@taBJvUL|_@FlODnMLlZJlZL`\\LlVFhQB`N?nCUhIw@|NiAdSSjJe@pYyB`eBk@`Xg@vd@]ja@]h[a@hd@Iph@Gv]D|d@Zpy@RrbALjZ\\pvA`@jrANjg@Jfj@Efa@?h`@Hfa@d@xf@Rrb@E~CQbG}AjMOlA}@dEgBzHwGlVkE`P"
+         },
+         "summary" : "Mining Rd/AH4",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

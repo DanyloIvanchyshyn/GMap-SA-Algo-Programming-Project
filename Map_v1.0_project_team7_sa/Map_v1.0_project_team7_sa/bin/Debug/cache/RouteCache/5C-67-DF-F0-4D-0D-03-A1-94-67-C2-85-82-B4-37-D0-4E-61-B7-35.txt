@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJfb3jU9N-ZpQR2lYTRQupMPQ",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJfb3jU9N-ZpQR2lYTRQupMPQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -23.5121521,
+               "lng" : -57.73262559999999
+            },
+            "southwest" : {
+               "lat" : -23.512337,
+               "lng" : -57.7331694
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "59 m",
+                  "value" : 59
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 2
+               },
+               "end_address" : "5, Paraguay",
+               "end_location" : {
+                  "lat" : -23.5121521,
+                  "lng" : -57.73262559999999
+               },
+               "start_address" : "5, Paraguay",
+               "start_location" : {
+                  "lat" : -23.512337,
+                  "lng" : -57.7331694
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : -23.5121521,
+                        "lng" : -57.73262559999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eGral Bernardino Caballero\u003c/b\u003e/\u003cb\u003eRoute 5\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "bgonCh_k_J_@}AEM"
+                     },
+                     "start_location" : {
+                        "lat" : -23.512337,
+                        "lng" : -57.7331694
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "bgonCh_k_Je@kB"
+         },
+         "summary" : "Gral Bernardino Caballero/Route 5",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

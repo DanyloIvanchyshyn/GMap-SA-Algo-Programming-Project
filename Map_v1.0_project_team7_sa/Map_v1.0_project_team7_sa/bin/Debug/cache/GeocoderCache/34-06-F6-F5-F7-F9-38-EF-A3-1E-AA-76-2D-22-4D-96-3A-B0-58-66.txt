@@ -1,0 +1,253 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9J7HM2H8+27"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nazyvayevsky District",
+               "short_name" : "Nazyvayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Omskaya oblast'",
+               "short_name" : "Omskaya oblast'",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "646117",
+               "short_name" : "646117",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Omskaya oblast', Russia, 646117",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6741381,
+                  "lng" : 71.0124398
+               },
+               "southwest" : {
+                  "lat" : 55.6737891,
+                  "lng" : 71.01136249999999
+               }
+            },
+            "location" : {
+               "lat" : 55.6739702,
+               "lng" : 71.01190799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6753125802915,
+                  "lng" : 71.0132501302915
+               },
+               "southwest" : {
+                  "lat" : 55.6726146197085,
+                  "lng" : 71.01055216970849
+               }
+            }
+         },
+         "place_id" : "ChIJrSvCbtSWrkMRmDO-GS0dYzw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "646117",
+               "short_name" : "646117",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nazyvayevsky District",
+               "short_name" : "Nazyvayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Omsk Oblast",
+               "short_name" : "Omsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Omsk Oblast, Russia, 646117",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.726812,
+                  "lng" : 71.17833689999999
+               },
+               "southwest" : {
+                  "lat" : 55.38776499999999,
+                  "lng" : 70.906634
+               }
+            },
+            "location" : {
+               "lat" : 55.49339699999999,
+               "lng" : 71.0644033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.726812,
+                  "lng" : 71.17833689999999
+               },
+               "southwest" : {
+                  "lat" : 55.38776499999999,
+                  "lng" : 70.906634
+               }
+            }
+         },
+         "place_id" : "ChIJ4wcfQZabrkMRTN2KHSPGBS4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nazyvayevsky District",
+               "short_name" : "Nazyvayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Omsk Oblast",
+               "short_name" : "Omsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nazyvayevsky District, Omsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9630351,
+                  "lng" : 72.07513279999999
+               },
+               "southwest" : {
+                  "lat" : 55.1639999,
+                  "lng" : 70.43942699999999
+               }
+            },
+            "location" : {
+               "lat" : 55.5637859,
+               "lng" : 71.35351949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9630351,
+                  "lng" : 72.07513279999999
+               },
+               "southwest" : {
+                  "lat" : 55.1639999,
+                  "lng" : 70.43942699999999
+               }
+            }
+         },
+         "place_id" : "ChIJUUwRPPGhrkMRlik-B4b6n68",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Omsk Oblast",
+               "short_name" : "Omsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Omsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.5741489,
+                  "lng" : 76.3037678
+               },
+               "southwest" : {
+                  "lat" : 53.43512399999999,
+                  "lng" : 70.35473710000001
+               }
+            },
+            "location" : {
+               "lat" : 55.0554669,
+               "lng" : 73.3167342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.5741489,
+                  "lng" : 76.3037678
+               },
+               "southwest" : {
+                  "lat" : 53.43512399999999,
+                  "lng" : 70.35473710000001
+               }
+            }
+         },
+         "place_id" : "ChIJ6VtPzxrtqUMRKTPPvsfODQg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

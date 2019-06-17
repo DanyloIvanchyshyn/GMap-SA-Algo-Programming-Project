@@ -1,0 +1,141 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JV5R+32 Chabankazgan, Kazakhstan",
+      "global_code" : "8JM3JV5R+32"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karmakshy District",
+               "short_name" : "Karmakshy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyzylorda Province",
+               "short_name" : "Kyzylorda Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karmakshy District, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1224758,
+                  "lng" : 64.390869
+               },
+               "southwest" : {
+                  "lat" : 43.5039275,
+                  "lng" : 61.8585205
+               }
+            },
+            "location" : {
+               "lat" : 45.3350912,
+               "lng" : 63.2892422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1224758,
+                  "lng" : 64.390869
+               },
+               "southwest" : {
+                  "lat" : 43.5039275,
+                  "lng" : 61.8585205
+               }
+            }
+         },
+         "place_id" : "ChIJpwdpUJ-t9kERiy0TQNgmS7g",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyzylorda Province",
+               "short_name" : "Kyzylorda Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyzylorda Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.854687,
+                  "lng" : 68.0135679
+               },
+               "southwest" : {
+                  "lat" : 42.421028,
+                  "lng" : 58.7882901
+               }
+            },
+            "location" : {
+               "lat" : 44.6922613,
+               "lng" : 62.6571885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.854687,
+                  "lng" : 68.0135679
+               },
+               "southwest" : {
+                  "lat" : 42.421028,
+                  "lng" : 58.7882901
+               }
+            }
+         },
+         "place_id" : "ChIJ0x9Hlyjw8UERbb4lQNUuPUU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            },
+            "location" : {
+               "lat" : 48.019573,
+               "lng" : 66.92368399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            }
+         },
+         "place_id" : "ChIJR6n87AcQqTgRGw6z5C-Ee18",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

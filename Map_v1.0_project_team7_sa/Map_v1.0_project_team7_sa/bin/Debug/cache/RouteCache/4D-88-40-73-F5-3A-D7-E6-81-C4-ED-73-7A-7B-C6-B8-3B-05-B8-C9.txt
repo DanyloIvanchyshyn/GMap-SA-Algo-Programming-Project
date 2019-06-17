@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJz1jWKy-7yjURZqxz9MxgrZk",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJz1jWKy-7yjURZqxz9MxgrZk",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.353614,
+               "lng" : 118.4764793
+            },
+            "southwest" : {
+               "lat" : 31.3530652,
+               "lng" : 118.4763289
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "63 m",
+                  "value" : 63
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 2
+               },
+               "end_address" : "G 4211 Ning Wu Gao Su, Jiujiang Qu, Wuhu Shi, Anhui Sheng, China, 241060",
+               "end_location" : {
+                  "lat" : 31.3530652,
+                  "lng" : 118.4763289
+               },
+               "start_address" : "G 4211 Ning Wu Gao Su, Jiujiang Qu, Wuhu Shi, Anhui Sheng, China, 241060",
+               "start_location" : {
+                  "lat" : 31.353614,
+                  "lng" : 118.4764793
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 31.3530652,
+                        "lng" : 118.4763289
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eG4211宁芜高速\u003c/b\u003e/\u003cb\u003e芜马高速\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "awj~D_}brUPBxAX"
+                     },
+                     "start_location" : {
+                        "lat" : 31.353614,
+                        "lng" : 118.4764793
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "awj~D_}brUjB\\"
+         },
+         "summary" : "G4211宁芜高速/芜马高速",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "8HWX3X67+9W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-26",
+               "short_name" : "A-26",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shalkar District",
+               "short_name" : "Shalkar District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aqtöbe oblısı",
+               "short_name" : "Aqtöbe oblısı",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-26, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0693079,
+                  "lng" : 59.97824499999999
+               },
+               "southwest" : {
+                  "lat" : 48.0382089,
+                  "lng" : 59.93434449999999
+               }
+            },
+            "location" : {
+               "lat" : 48.0538807,
+               "lng" : 59.95609529999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0693079,
+                  "lng" : 59.97824499999999
+               },
+               "southwest" : {
+                  "lat" : 48.0382089,
+                  "lng" : 59.93434449999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5bsy0hosj0ER2BFCz6rNgBI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shalkar District",
+               "short_name" : "Shalkar District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aktobe Province",
+               "short_name" : "Aktobe Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shalkar District, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.97390739999999,
+                  "lng" : 62.1249389
+               },
+               "southwest" : {
+                  "lat" : 45.4100202,
+                  "lng" : 57.571106
+               }
+            },
+            "location" : {
+               "lat" : 47.3662824,
+               "lng" : 59.13135419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.97390739999999,
+                  "lng" : 62.1249389
+               },
+               "southwest" : {
+                  "lat" : 45.4100202,
+                  "lng" : 57.571106
+               }
+            }
+         },
+         "place_id" : "ChIJ3y9ZZADVjUERciTAq5e9wuM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aktobe Province",
+               "short_name" : "Aktobe Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aktobe Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.339557,
+                  "lng" : 64.1807611
+               },
+               "southwest" : {
+                  "lat" : 45.162695,
+                  "lng" : 53.5261181
+               }
+            },
+            "location" : {
+               "lat" : 48.7797078,
+               "lng" : 57.99743780000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.339557,
+                  "lng" : 64.1807611
+               },
+               "southwest" : {
+                  "lat" : 45.162695,
+                  "lng" : 53.5261181
+               }
+            }
+         },
+         "place_id" : "ChIJo_ruiUuchEER-O5SQT1FuFQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            },
+            "location" : {
+               "lat" : 48.019573,
+               "lng" : 66.92368399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            }
+         },
+         "place_id" : "ChIJR6n87AcQqTgRGw6z5C-Ee18",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

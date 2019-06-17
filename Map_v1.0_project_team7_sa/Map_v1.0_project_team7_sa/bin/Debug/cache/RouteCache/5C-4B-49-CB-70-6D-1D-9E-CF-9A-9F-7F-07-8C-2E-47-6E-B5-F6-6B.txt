@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVwO0X9RBV10RnobLED2ZVp0",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJvxjlVqUQUV0Rh5rm1vG413U",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.9806806,
+               "lng" : 92.2340377
+            },
+            "southwest" : {
+               "lat" : 45.8879975,
+               "lng" : 91.80603719999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "35.5 km",
+                  "value" : 35547
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1600
+               },
+               "end_address" : "Uyench, Mongolia",
+               "end_location" : {
+                  "lat" : 45.9679317,
+                  "lng" : 91.80603719999999
+               },
+               "start_address" : "Mining Rd, Mongolia",
+               "start_location" : {
+                  "lat" : 45.8879975,
+                  "lng" : 92.2340377
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "35.5 km",
+                        "value" : 35547
+                     },
+                     "duration" : {
+                        "text" : "27 mins",
+                        "value" : 1600
+                     },
+                     "end_location" : {
+                        "lat" : 45.9679317,
+                        "lng" : 91.80603719999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eMining Rd\u003c/b\u003e/\u003cb\u003eAH4\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_oawGwm}qP_J~\\wCdLsOzk@kTpx@sHrZcPhn@aEbPuFjUgIjZk^rtAwHfXeGvVaDtLkFxRsAfFqIf\\oFhPqKf\\mVvs@Wv@}Tjo@q@jBuMx^}AhFaBdGgCpMqEtZ}ApKyFh`@oIhi@}CnQqCdPq@lD{Itd@}Jvf@sE|VqFxY{Nbv@kG`[gFpXwClO_GpZe@bBo@rBeAdEmAnGqBfKiAdGuAfHgAtFs@tDa@pBe@`Cc@~BqAvGqAvGoAxGiA~FkA~FsA|GgC~M{BjLgD|PqA|G[~AaBlI[~A{BlLw@|DcAnFYvAg@vCIp@U`BQpAk@lGIdBIxAQdFQhHSrHO`Gc@tPCr@a@bOWfJO`GQtHOrFGrBKhDQdHCr@i@|SAf@?bCUtLYfGGlAa@nGaBnQkB~LoFtWg@vBqBjIeFtSoInZoGpVmD~MeTv{@sShz@eEdQm@zDYbC]pDWbECnFHvC\\jLhBve@fHx|AdAxTzFzeAfI~yAl@vKzQpwDdG~dA~Czn@vBlc@nA~WnB`_@n@zMXrE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.8879975,
+                        "lng" : 92.2340377
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_oawGwm}qPwNdj@_e@leBsHrZcPhn@aEbPuFjUgIjZk^rtAwHfXeGvVmKn`@eLnc@aSpm@eWnu@oVvr@uMx^}AhFaBdGgCpMoHfg@yFh`@oIhi@oHtb@mKbj@}Jvf@sE|VmV|pAkG`[gFpXwK~j@uAvEeAdEmAnG{DlSsFdYmFpXwX~wAuGz\\{BlLaAnF_@rCQpAk@lGS~Dc@nOkA~c@{Abl@u@vXm@pUAjDUtLYfGi@|IaBnQkB~LoFtWg@vBwI`^oInZoGpVmD~MeTv{@sShz@eEdQm@zDYbC]pDWbECnFHvC\\jLhBve@lJrrBbQz`Dl@vKzQpwDdG~dA~Czn@fEl|@~C|m@XrE"
+         },
+         "summary" : "Mining Rd/AH4",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

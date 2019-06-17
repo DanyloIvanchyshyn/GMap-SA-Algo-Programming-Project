@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ87J5hKr6yhIR7EbmeMwxmi4",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ87J5hKr6yhIR7EbmeMwxmi4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 44.4127904,
+               "lng" : 5.561456199999999
+            },
+            "southwest" : {
+               "lat" : 44.4127888,
+               "lng" : 5.5613849
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "6 m",
+                  "value" : 6
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "D994, 05150 Ribeyret, France",
+               "end_location" : {
+                  "lat" : 44.4127904,
+                  "lng" : 5.561456199999999
+               },
+               "start_address" : "D994, 05150 Ribeyret, France",
+               "start_location" : {
+                  "lat" : 44.4127888,
+                  "lng" : 5.5613849
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "6 m",
+                        "value" : 6
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 44.4127904,
+                        "lng" : 5.561456199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eD994\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}janGse}`@?O"
+                     },
+                     "start_location" : {
+                        "lat" : 44.4127888,
+                        "lng" : 5.5613849
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}janGse}`@?O"
+         },
+         "summary" : "D994",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

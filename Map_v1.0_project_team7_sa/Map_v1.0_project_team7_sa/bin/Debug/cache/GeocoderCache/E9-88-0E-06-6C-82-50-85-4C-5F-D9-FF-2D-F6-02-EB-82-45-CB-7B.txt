@@ -1,0 +1,141 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "F7Q8+3P Corralito, Paraguay",
+      "global_code" : "5884F7Q8+3P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "General Bernardino Caballero",
+               "short_name" : "5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Presidente Hayes",
+               "short_name" : "Presidente Hayes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "5, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5110697,
+                  "lng" : -57.7301657
+               },
+               "southwest" : {
+                  "lat" : -23.513778,
+                  "lng" : -57.7385318
+               }
+            },
+            "location" : {
+               "lat" : -23.5126433,
+               "lng" : -57.73425779999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5110697,
+                  "lng" : -57.7301657
+               },
+               "southwest" : {
+                  "lat" : -23.513778,
+                  "lng" : -57.7385318
+               }
+            }
+         },
+         "place_id" : "ChIJfb3jU9N-ZpQR2lYTRQupMPQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Presidente Hayes Department",
+               "short_name" : "Presidente Hayes Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Presidente Hayes Department, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.041864,
+                  "lng" : -57.156029
+               },
+               "southwest" : {
+                  "lat" : -25.2917181,
+                  "lng" : -60.7787551
+               }
+            },
+            "location" : {
+               "lat" : -23.3512605,
+               "lng" : -58.73736339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.041864,
+                  "lng" : -57.156029
+               },
+               "southwest" : {
+                  "lat" : -25.2917181,
+                  "lng" : -60.7787551
+               }
+            }
+         },
+         "place_id" : "ChIJPSduk5WYXZQRsXwhvXBZW3k",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.2876589,
+                  "lng" : -54.258562
+               },
+               "southwest" : {
+                  "lat" : -27.5817594,
+                  "lng" : -62.63895230000001
+               }
+            },
+            "location" : {
+               "lat" : -23.442503,
+               "lng" : -58.443832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.2876589,
+                  "lng" : -54.258562
+               },
+               "southwest" : {
+                  "lat" : -27.5817594,
+                  "lng" : -62.63895230000001
+               }
+            }
+         },
+         "place_id" : "ChIJYz3xkDQIXJQR8y5YHWH_-rM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

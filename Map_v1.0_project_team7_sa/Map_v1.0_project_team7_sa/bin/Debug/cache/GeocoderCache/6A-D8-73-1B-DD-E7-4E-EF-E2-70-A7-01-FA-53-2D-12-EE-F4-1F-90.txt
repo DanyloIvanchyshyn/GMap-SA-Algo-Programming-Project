@@ -1,0 +1,366 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "9F3G+CH Jiujiang, Wuhu, Anhui, China",
+      "global_code" : "8P3W9F3G+CH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "G 4211 Ning Wu Gao Su",
+               "short_name" : "G 4211 Ning Wu Gao Su",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jiujiang Qu",
+               "short_name" : "Jiujiang Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wuhu Shi",
+               "short_name" : "Wuhu Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anhui Sheng",
+               "short_name" : "Anhui Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "241060",
+               "short_name" : "241060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G 4211 Ning Wu Gao Su, Jiujiang Qu, Wuhu Shi, Anhui Sheng, China, 241060",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3724262,
+                  "lng" : 118.4798253
+               },
+               "southwest" : {
+                  "lat" : 31.3491359,
+                  "lng" : 118.4750239
+               }
+            },
+            "location" : {
+               "lat" : 31.360711,
+               "lng" : 118.4778239
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3724262,
+                  "lng" : 118.4798253
+               },
+               "southwest" : {
+                  "lat" : 31.3491359,
+                  "lng" : 118.4750239
+               }
+            }
+         },
+         "place_id" : "ChIJz1jWKy-7yjURZqxz9MxgrZk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "市公安局·消防支队",
+               "short_name" : "市公安局·消防支队",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Jiujiang Qu",
+               "short_name" : "Jiujiang Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wuhu Shi",
+               "short_name" : "Wuhu Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "241060",
+               "short_name" : "241060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "China, Wuhu Shi, Jiujiang Qu, 市公安局·消防支队 邮政编码: 241060",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.353104,
+               "lng" : 118.473473
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3544529802915,
+                  "lng" : 118.4748219802915
+               },
+               "southwest" : {
+                  "lat" : 31.3517550197085,
+                  "lng" : 118.4721240197085
+               }
+            }
+         },
+         "place_id" : "ChIJIwkPydm6yjURzJ76eGo-x1Y",
+         "plus_code" : {
+            "compound_code" : "9F3F+69 Jiujiang, Wuhu, Anhui, China",
+            "global_code" : "8P3W9F3F+69"
+         },
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "241121",
+               "short_name" : "241121",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China, 241121",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4175184,
+                  "lng" : 118.5331039
+               },
+               "southwest" : {
+                  "lat" : 31.2662967,
+                  "lng" : 118.3929418
+               }
+            },
+            "location" : {
+               "lat" : 31.3223475,
+               "lng" : 118.4822325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4175184,
+                  "lng" : 118.5331039
+               },
+               "southwest" : {
+                  "lat" : 31.2662967,
+                  "lng" : 118.3929418
+               }
+            }
+         },
+         "place_id" : "ChIJVVaii626yjURtIkLLPwA-OM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiujiang",
+               "short_name" : "Jiujiang",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wuhu",
+               "short_name" : "Wuhu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anhui",
+               "short_name" : "Anhui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jiujiang, Wuhu, Anhui, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5382322,
+                  "lng" : 118.5751237
+               },
+               "southwest" : {
+                  "lat" : 31.1725486,
+                  "lng" : 117.9936286
+               }
+            },
+            "location" : {
+               "lat" : 31.369373,
+               "lng" : 118.391734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5382322,
+                  "lng" : 118.5751237
+               },
+               "southwest" : {
+                  "lat" : 31.1725486,
+                  "lng" : 117.9936286
+               }
+            }
+         },
+         "place_id" : "ChIJA1yb3328yjURXPaip0momY0",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wuhu",
+               "short_name" : "Wuhu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anhui",
+               "short_name" : "Anhui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wuhu, Anhui, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5382322,
+                  "lng" : 118.733578
+               },
+               "southwest" : {
+                  "lat" : 30.6408526,
+                  "lng" : 117.4825563
+               }
+            },
+            "location" : {
+               "lat" : 31.352859,
+               "lng" : 118.432941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5382322,
+                  "lng" : 118.733578
+               },
+               "southwest" : {
+                  "lat" : 30.6408526,
+                  "lng" : 117.4825563
+               }
+            }
+         },
+         "place_id" : "ChIJUasctHhJNTQRJiIKj03RaPE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anhui",
+               "short_name" : "Anhui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anhui, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.6542336,
+                  "lng" : 119.6491438
+               },
+               "southwest" : {
+                  "lat" : 29.3930378,
+                  "lng" : 114.8827514
+               }
+            },
+            "location" : {
+               "lat" : 30.6006773,
+               "lng" : 117.9249002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.6542336,
+                  "lng" : 119.6491438
+               },
+               "southwest" : {
+                  "lat" : 29.3930378,
+                  "lng" : 114.8827514
+               }
+            }
+         },
+         "place_id" : "ChIJ14JwoYykNDQRbXB1bhXWqHo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

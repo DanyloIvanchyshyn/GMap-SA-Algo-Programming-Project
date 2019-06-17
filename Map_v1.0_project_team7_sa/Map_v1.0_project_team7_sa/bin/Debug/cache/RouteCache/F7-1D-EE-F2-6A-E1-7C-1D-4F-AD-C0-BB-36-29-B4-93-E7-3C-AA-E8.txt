@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj_b4K7LH40MR1FlErwBc_4A",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj_b4K7LH40MR1FlErwBc_4A",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 57.25501939999999,
+               "lng" : 51.8811654
+            },
+            "southwest" : {
+               "lat" : 57.25483269999999,
+               "lng" : 51.8805955
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "40 m",
+                  "value" : 40
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 2
+               },
+               "end_address" : "R242, Udmurtskaja Respublika, Russia, 427284",
+               "end_location" : {
+                  "lat" : 57.25483269999999,
+                  "lng" : 51.8805955
+               },
+               "start_address" : "R242, Udmurtskaja Respublika, Russia, 427284",
+               "start_location" : {
+                  "lat" : 57.25501939999999,
+                  "lng" : 51.8811654
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 57.25483269999999,
+                        "lng" : 51.8805955
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eE22\u003c/b\u003e/\u003cb\u003eР242\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{rm|Ii`t{Hd@pB"
+                     },
+                     "start_location" : {
+                        "lat" : 57.25501939999999,
+                        "lng" : 51.8811654
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{rm|Ii`t{Hd@pB"
+         },
+         "summary" : "E22/Р242",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

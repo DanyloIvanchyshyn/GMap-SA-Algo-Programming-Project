@@ -1,0 +1,239 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "79C3+RQ Agara, Karnataka, India",
+      "global_code" : "7J5W79C3+RQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agara",
+               "short_name" : "Agara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolar",
+               "short_name" : "Kolar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agara, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.3030001,
+                  "lng" : 78.36510989999999
+               },
+               "southwest" : {
+                  "lat" : 13.25956,
+                  "lng" : 78.3212099
+               }
+            },
+            "location" : {
+               "lat" : 13.2800786,
+               "lng" : 78.3443972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.3030001,
+                  "lng" : 78.36510989999999
+               },
+               "southwest" : {
+                  "lat" : 13.25956,
+                  "lng" : 78.3212099
+               }
+            }
+         },
+         "place_id" : "ChIJ-caJlAOMrTsRKYAGupphbe4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "563131",
+               "short_name" : "563131",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "563131, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.3394025,
+                  "lng" : 78.57682009999999
+               },
+               "southwest" : {
+                  "lat" : 13.0430026,
+                  "lng" : 78.3043005
+               }
+            },
+            "location" : {
+               "lat" : 13.2070705,
+               "lng" : 78.36146719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.3394025,
+                  "lng" : 78.57682009999999
+               },
+               "southwest" : {
+                  "lat" : 13.0430026,
+                  "lng" : 78.3043005
+               }
+            }
+         },
+         "place_id" : "ChIJUWyCe9KIrTsR1qY91wn5P48",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kolar",
+               "short_name" : "Kolar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kolar, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.5983702,
+                  "lng" : 78.5881402
+               },
+               "southwest" : {
+                  "lat" : 12.7607267,
+                  "lng" : 77.8394399
+               }
+            },
+            "location" : {
+               "lat" : 13.1770316,
+               "lng" : 78.2020387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.5983702,
+                  "lng" : 78.5881402
+               },
+               "southwest" : {
+                  "lat" : 12.7607267,
+                  "lng" : 77.8394399
+               }
+            }
+         },
+         "place_id" : "ChIJswtPHOnqrTsRYjVK5fGED8c",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.4411689,
+                  "lng" : 78.5881402
+               },
+               "southwest" : {
+                  "lat" : 11.593352,
+                  "lng" : 74.04960609999999
+               }
+            },
+            "location" : {
+               "lat" : 15.3172775,
+               "lng" : 75.7138884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.4411689,
+                  "lng" : 78.5881402
+               },
+               "southwest" : {
+                  "lat" : 11.593352,
+                  "lng" : 74.04960609999999
+               }
+            }
+         },
+         "place_id" : "ChIJj0i_N0xaozsR1Xx10YzS8UE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

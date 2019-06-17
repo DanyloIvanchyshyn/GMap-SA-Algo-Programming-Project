@@ -1,0 +1,307 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "86XQQ359+8M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trans-Canada Highway",
+               "short_name" : "ON-11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cochrane, Unorganized, North Part",
+               "short_name" : "Cochrane, Unorganized, North Part",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cochrane District",
+               "short_name" : "Cochrane District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "P0L",
+               "short_name" : "P0L",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Trans-Canada Hwy, Cochrane, Unorganized, North Part, ON P0L, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.759019,
+                  "lng" : -84.91972469999999
+               },
+               "southwest" : {
+                  "lat" : 49.7565835,
+                  "lng" : -84.95764749999999
+               }
+            },
+            "location" : {
+               "lat" : 49.7578051,
+               "lng" : -84.93868689999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7591502302915,
+                  "lng" : -84.91972469999999
+               },
+               "southwest" : {
+                  "lat" : 49.7564522697085,
+                  "lng" : -84.95764749999999
+               }
+            }
+         },
+         "place_id" : "ChIJOZh_zzPQQU0RokwD42A-41o",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cochrane, Unorganized, North Part",
+               "short_name" : "Cochrane, Unorganized, North Part",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cochrane District",
+               "short_name" : "Cochrane District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cochrane, Unorganized, North Part, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2980849,
+                  "lng" : -79.5156449
+               },
+               "southwest" : {
+                  "lat" : 48.275319,
+                  "lng" : -86.54909499999999
+               }
+            },
+            "location" : {
+               "lat" : 50.4700387,
+               "lng" : -83.0158522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2980849,
+                  "lng" : -79.5156449
+               },
+               "southwest" : {
+                  "lat" : 48.275319,
+                  "lng" : -86.54909499999999
+               }
+            }
+         },
+         "place_id" : "ChIJT533myXybk0RNd6256xmrO4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cochrane District",
+               "short_name" : "Cochrane District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cochrane District, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2980849,
+                  "lng" : -79.5156449
+               },
+               "southwest" : {
+                  "lat" : 48.275319,
+                  "lng" : -86.54909499999999
+               }
+            },
+            "location" : {
+               "lat" : 50.4700387,
+               "lng" : -83.0158522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2980849,
+                  "lng" : -79.5156449
+               },
+               "southwest" : {
+                  "lat" : 48.275319,
+                  "lng" : -86.54909499999999
+               }
+            }
+         },
+         "place_id" : "ChIJT533myXybk0RA_d5CcdLbIY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "P0L",
+               "short_name" : "P0L",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario P0L, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.919693,
+                  "lng" : -79.51564809999999
+               },
+               "southwest" : {
+                  "lat" : 48.27743599999999,
+                  "lng" : -89.05462
+               }
+            },
+            "location" : {
+               "lat" : 51.43323669999999,
+               "lng" : -82.33840619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.919693,
+                  "lng" : -79.51564809999999
+               },
+               "southwest" : {
+                  "lat" : 48.27743599999999,
+                  "lng" : -89.05462
+               }
+            }
+         },
+         "place_id" : "ChIJC67jZKwJbU0RV525wAsTUKY",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            },
+            "location" : {
+               "lat" : 51.253775,
+               "lng" : -85.32321399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.931393,
+                  "lng" : -74.3206479
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -95.1562271
+               }
+            }
+         },
+         "place_id" : "ChIJrxNRX7IFzkwRCR5iKVZC-HA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 56.130366,
+               "lng" : -106.346771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -50.9766
+               },
+               "southwest" : {
+                  "lat" : 41.6765559,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrMN9MDDUsRpY9Doiq3aJk",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

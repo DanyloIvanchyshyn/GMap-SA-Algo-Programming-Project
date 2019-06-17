@@ -1,0 +1,416 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_wu4A6deWTgRk6ZIs8DfAns",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJB34bBWVFWDgR-iO8--3mHKs",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.91657259999999,
+               "lng" : 80.57331250000001
+            },
+            "southwest" : {
+               "lat" : 37.3415324,
+               "lng" : 79.90768299999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "101 km",
+                  "value" : 101247
+               },
+               "duration" : {
+                  "text" : "1 hour 53 mins",
+                  "value" : 6795
+               },
+               "end_address" : "Unnamed Road, Hetian Xian, Hetian Diqu, Xinjiang Weiwuerzizhiqu, China",
+               "end_location" : {
+                  "lat" : 37.3415324,
+                  "lng" : 79.90768299999999
+               },
+               "start_address" : "Lop, Hotan, Xinjiang, China",
+               "start_location" : {
+                  "lat" : 37.91657259999999,
+                  "lng" : 80.57331250000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "36.8 km",
+                        "value" : 36760
+                     },
+                     "duration" : {
+                        "text" : "35 mins",
+                        "value" : 2103
+                     },
+                     "end_location" : {
+                        "lat" : 37.62679,
+                        "lng" : 80.39260689999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e217国道\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qqlfFe~wjNxDvAdDnA|FvBd@P~D|AhDnA~Al@hDnAtBv@pCdApCdAnFrBfDnArCdAfDpApCbApCdAtEdB~DzAhDnAzEhB~GhC~DzAxHvClFnBhDnAxBx@vBx@fDnAvBv@|B|@NFxEfBpCbAvEfBlFpBhG|BpFrBrCfAhJjDvBx@fDpAtBz@xB|@zAr@jClA`Bx@pBbAhCvAzAx@bAl@tBnAjGvD`DlBfEhC|CjBrG|D`DnBhC~AlBhAnBlAlEjCrG|DvFhDpDxBlElCdFxC~EzC~CjBbF|ChHjExChBVNrD|BtDxBfC|ApBlAzCjBrKrG|ClBfF|CdC|AdAl@xAz@`Ah@bAf@~At@fAf@zAl@jAd@dA^lA^~Af@hAZhAX~A^jATnAT`Fv@nATpCb@bInA`C^dBX|@NpBZ|B^tCd@vCd@xB\\dBXnDh@~B^dBXxF~@XDvCd@xF|@`C^xF~@nDj@~B^h@HlBZnDj@dBX`Fv@fEp@~Et@vCf@jHhAbJxA`Fv@rKdBvCb@|Ev@xCd@`G~@`Fx@bFv@|IvAbFx@lHjAnDj@~Et@dBX`Df@pEt@^FbBVdIpAzB^fEn@dBXhAR|B\\fEp@nDj@`Fv@jAPhATjATbB`@hAXn@P`Bd@nC~@n@T`Bn@`A`@ZNrB`AdAf@l@\\`Aj@jEjC~ExCdHhE~ClBzCjBvAx@hC~AhC|AbCzAfHhE~ClBzCjBhC|AdCzAhJvFtD|BrDzBtBrAbL`HpDvBdQpKfJtF~LrHlF`DpEnCjDvBnBhAzA|@nDzB~ChBfC~A|ChBrFfD`DnBrDzBrDzBbCxA~ClBpBlAnBjAdC|AnBjA`An@|EtC|CjBnBjArBnAlBjA|CjBvAz@bAn@xCfBd@XxBtAjGtDrD|B~JfGbCvAhEjC|CjBfC|A~CjB~@j@xA~@zChBbAl@bC~Al@^l@b@pAbAh@b@~@z@|@z@x@z@lAtAb@h@t@`At@dAfA~APVpArBdBpCvDfGzEzHfDlFdBnChEbHrAxBj@z@lB|CtAxB`BlCtBhDzFfJfC`EhE`HtBfDrAxBhE~GxA|BtDfGfBpCxDjGtAxBdBpCdBnCjEbHrAxBxCvEhEbHfCbEtAvBj@~@V`@bA`BdBnCvCxEvCxExCxEvCzE~FjJhE`HbH`LzDjGhCbEvCxEdBnCt@dAt@dAv@bAv@`Ad@j@f@f@z@|@|@x@|@x@j@b@~@r@`Ar@xA`A|CnBfC|AdC|A~JjGrD|BtD|BtD|BhElCdC|AdC|AtD|BdC~AjEjCzCnBpBlAbF|CxA~@rBlApD~BrDzB`F|CrD|B|ClBzHzEtFjDxA|@~EzC|EzCzCjB|EzCxFjD\\Tz@h@dC~AjEjC`HjEzA|@bAn@lBlAfCzAl@Zn@\\fAf@n@VfA`@n@Tp@Rp@Pp@Np@Lp@Jr@Hp@FlAJjAFzCLhNf@lIZxCJdJ\\rDLdFRfFPhFRhNf@fBF"
+                     },
+                     "start_location" : {
+                        "lat" : 37.91657259999999,
+                        "lng" : 80.57331250000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.1 km",
+                        "value" : 4079
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 335
+                     },
+                     "end_location" : {
+                        "lat" : 37.6356027,
+                        "lng" : 80.3482612
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m~sdFyttiNC|@iDt|Ay@da@K|AYrBg@`C]vA_EjP_AxDkCdL{Qlx@eLdg@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.62679,
+                        "lng" : 80.39260689999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1176
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 37.6397644,
+                        "lng" : 80.3359808
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e631县道\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ouudFs_liNCFsEzRsD|Oe@rBGX{@`DiId]"
+                     },
+                     "start_location" : {
+                        "lat" : 37.6356027,
+                        "lng" : 80.3482612
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12.6 km",
+                        "value" : 12603
+                     },
+                     "duration" : {
+                        "text" : "15 mins",
+                        "value" : 876
+                     },
+                     "end_location" : {
+                        "lat" : 37.5753969,
+                        "lng" : 80.2310813
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003e631县道\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oovdF{riiNzS~JhJbEdBt@hDxAhGlCvF`CxFhCjFxBrGnCvF`CdFzBTH~FhCxF`CB@|DdB`@P~FjCNFRH@?nEfBvFdC^PbF~BhGfCfGnCpF~BNDFB~FbC~EvB^P|FdCtGrCbGlClD|Az@^dFxBfBx@ZNhAn@\\`@\\r@b@bB~@dEj@nCtDxQfAjFVlApFfWnDhPlAvFxAzGzCrNf@bC~CdOjFrV?@`G|WvAfGz@`EJd@xDjRx@xDpElSj@nCfApFDNFZr@lDPt@rGlZnBlJZnCPvBDhBAzArAhF|Kli@Px@fDpO~@zDnFhUJ`@|@tDlClN~DrQ@FbE`R~@hEfCrK@DpE|RfBxH"
+                     },
+                     "start_location" : {
+                        "lat" : 37.6397644,
+                        "lng" : 80.3359808
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.3 km",
+                        "value" : 3313
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 223
+                     },
+                     "end_location" : {
+                        "lat" : 37.5937733,
+                        "lng" : 80.2047122
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e631县道\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g}idFgcuhNx@tBz@dCNhA@`@ANAFUl@ADKLGHIDQHiEbBoE`BgDrAqAf@wBx@aAb@o@`@c@`@c@p@}@`BmBzDGJcE|H{BrEkA|BoBxDGHcXnh@Yl@iDtGS^mBzDYj@[j@]dA[vAa@dCUj@S`@}@`AyAdASLEBsBlAWPqDbCa@XeC`B]\\]h@Ol@Gd@Et@?bA"
+                     },
+                     "start_location" : {
+                        "lat" : 37.5753969,
+                        "lng" : 80.2310813
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.2 km",
+                        "value" : 3164
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 214
+                     },
+                     "end_location" : {
+                        "lat" : 37.5788094,
+                        "lng" : 80.17417669999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e626县道\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "apmdFm~ohN|@|BvAtD|AtDvAtDFN|@fCbApCbAvC|A`E~A~D|A`EvAvDDFxA`E~A~D|AbE|A|DzAbEr@fBh@tA|AbE|A|DvG`Pz@~B`@bAVn@bCdGfGjOLXTj@pN|^"
+                     },
+                     "start_location" : {
+                        "lat" : 37.5937733,
+                        "lng" : 80.2047122
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "6.2 km",
+                        "value" : 6153
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 410
+                     },
+                     "end_location" : {
+                        "lat" : 37.543747,
+                        "lng" : 80.12240229999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e626县道\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qrjdFs_jhNTj@v@lBXt@`Jx\\vK|a@lAhEvId[dHnWv@|CXfAbBfBfO~MnBhBxKfKd@`@lMjLTRhOxKjO`LjHbF`BzAvBvA@@xA|B~IjObCfElCnE~@jB|DhGzDnGjErHbB~CXd@pO~WbBpC"
+                     },
+                     "start_location" : {
+                        "lat" : 37.5788094,
+                        "lng" : 80.17417669999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "8.2 km",
+                        "value" : 8178
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 545
+                     },
+                     "end_location" : {
+                        "lat" : 37.4994325,
+                        "lng" : 80.0506372
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e626县道\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mwcdF_|_hNrIfNlApBrA`CzHjNjOdWpEnHDHpHrM`HfLbD|FbAbBzG`MlFjJnDxF~CtE@@|DhGfB~Ch@`AhD~FrEbI`HrLlFdJbFnIbBnCXb@j@dA|BxDhOlWtDnGz@zAxE|Iv@|@zLrFbSpIx@r@b@x@jDvNrLdg@`BxFfAvD`Plp@zApGpAnEd@dBlAhEL`@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.543747,
+                        "lng" : 80.12240229999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.0 km",
+                        "value" : 3043
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 212
+                     },
+                     "end_location" : {
+                        "lat" : 37.4927206,
+                        "lng" : 80.01931949999999
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "mb{cFo{qgNv@|CxBhITz@Af@M`@YZkAZeD~@a@NNr@xArHd@rClA~GnApHX`BN|@dAzEdAzGj@rD`AlF`ArFxAdIjBlKp@vEt@dE|@|ErLtt@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.4994325,
+                        "lng" : 80.0506372
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12.4 km",
+                        "value" : 12388
+                     },
+                     "duration" : {
+                        "text" : "15 mins",
+                        "value" : 889
+                     },
+                     "end_location" : {
+                        "lat" : 37.3941195,
+                        "lng" : 79.9667657
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e626县道\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oxycFwwkgNTx@d@fATd@R^Z^^^ZTf@^f@XrAv@nAr@JFZRpAv@pAv@fAn@jBfAnAv@lAr@fBfAfAl@NHf@^\\b@V\\Th@^`AJZp@~AXn@\\n@f@p@f@h@f@ZrAv@nAv@nAv@pAv@vAx@xA|@jAr@~@n@h@\\tAx@tA|@vA|@jAz@rAx@vAx@hAl@v@f@dAj@vClBrAv@xA|@zAz@xAz@t@f@~@n@r@b@NJtAz@rAx@vAz@v@h@x@f@z@f@JFd@XdAr@bAh@n@^n@b@@@|@h@PNrA~@xBnApBjAnBlAdBfAj@`@`DjB~A|@fC|Af@X`BbAbCxAbCzA`C`BrAz@xAbAzA~@~@j@nCdBfBfAxAv@lBhAfB`AdBdA`CtAVNlAp@jAn@LFhBjA`CfA[tDgAxEX\\JTXXTPJHt@f@tAx@xAx@p@`@@?f@ZpAv@rBnArAz@zA~@pAt@pBhABBjAt@rAx@rAv@vA|@zA~@~A~@HDvAz@l@`@|A`AvAz@tBrAfAr@l@^rAz@b@Vr@d@pAv@pAz@h@ZpAt@nAp@rAx@rAv@pAv@nAv@nAt@lAr@bBbAlBfAjBjAjAr@nAv@jBhAnAv@pAt@rAv@pAx@nAt@r@`@~@j@nAr@pAt@pAx@tAx@xBrAnAt@tBnArBnApAt@d@ZhAt@nAv@jBhA~A`A`B`AxA|@zAz@~@l@jAr@pAr@f@Rf@HlAFlABjBD|ABP?z@BV?RH^F~@F~OVfTp@J?pa@fAzFLf_AvBn`@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.4927206,
+                        "lng" : 80.01931949999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 590
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 37.3943047,
+                        "lng" : 79.96010389999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gpfcFioagNGbD?JC`DGnDGjDEnDGlDEnD?dAJr@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.3941195,
+                        "lng" : 79.9667657
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 37.3938197,
+                        "lng" : 79.9595822
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "kqfcFse`gNHb@HRPTNHNDTFB@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.3943047,
+                        "lng" : 79.96010389999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1907
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 37.3767277,
+                        "lng" : 79.9580083
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003e031乡道\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "knfcFkb`gNVB`@BzBDzBJzBFzBL~BFxBJ|BB|BLzBD|BJxBHzBJ|BF|BHzBHxBJzBD|BL|BD|BJxBHzBJ|BD`@BvAD`CTvDb@x@L"
+                     },
+                     "start_location" : {
+                        "lat" : 37.3938197,
+                        "lng" : 79.9595822
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.9 km",
+                        "value" : 2925
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 253
+                     },
+                     "end_location" : {
+                        "lat" : 37.3829899,
+                        "lng" : 79.9262176
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qcccFqx_gNUvAOdAO~@CVAV?f@BdIP~OBrO?x@?^AXCREXGb@G^u@hEkCtNy@|EiApGMp@wB|LmA|Go@~D_BdJkAvGwBhL_BpJeBdKw@lEy@rE"
+                     },
+                     "start_location" : {
+                        "lat" : 37.3767277,
+                        "lng" : 79.9580083
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.9 km",
+                        "value" : 4892
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 406
+                     },
+                     "end_location" : {
+                        "lat" : 37.3415324,
+                        "lng" : 79.90768299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ujdcF{qyfNhjB~n@fXhJttAfe@zg@hQ"
+                     },
+                     "start_location" : {
+                        "lat" : 37.3829899,
+                        "lng" : 79.9262176
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qqlfFe~wjNvfDboAjx@jZnOdGzL~F~KnGrWzOvn@x_@v}A~_AlOdJlHnDzHrChDbAhDx@lMxB|TlDj^xFnkAdRpgE`q@bIfBpIlCrHbDrBdAlGvD`Y|PnNrIfq@na@pg@~Zff@zY`f@vYrdAxn@~iAnr@bHpEzBfB|BvBfCpCxAjB`FpHpa@lp@~a@bq@~~@nzAb`@hn@rXrc@|FhJjBjC|DxEbFtE`CfBvFpD`YdQhi@n\\fg@b[xxAr}@fJtFnF~BdEjAhEj@xCRdSt@`_@rA`d@`BfBFC|@cFz~Be@pEeAxE_GdVgVreAqXflAm@lCeKfb@zS~JhJbEnGnCf^rObm@jWdInDhN~FbF~BhGfCxNnGvNdGnj@jVdB~@z@tAbBhH`FhV`Ojr@jJjc@jKxf@`G~WrChMdEpSjGfYrB`KrAnGbKze@l@fGBdErAhF|Kli@xDjQnHd[hAvElClN~DrQdEhRfE|QrEbSfBxHx@tBz@dCNhA?p@e@hAQN{ElBaQvGqBdAgArAwJfR{h@hdAgCfFy@pB}@|Ei@lA}@`AyAdAYPkC~AsE|CeC`B]\\]h@Ol@MzA?bA|@|BtDjJ~AdEbHrRpSdi@vGdQtJ~U|AbEpLzYtQbe@Xt@`Jx\\dNfh@|Rts@pAdFbBfBfO~MhOpNrNlM~OlLjO`LjHbF`BzAvBvAzA~BbNrUlCnE~@jBxJxOzYxg@vLxR`DrFzHjNjOdWvExHpHrM`HfLfF`JhOlXnInM~DjGpC`Fl[|i@lKhQxZrh@xE|Iv@|@zLrFbSpIx@r@b@x@~Q|v@hDpL|R~x@rE`PpDfNTz@Af@M`@YZqFzAa@NNr@~BfMfEpVdAzEdAzGlB`LzCxP|CdRrBbLrLtt@Tx@z@lBn@~@z@t@nAx@jEfCdThMv@h@t@`ArBfFv@~AnAzAzGbEnIbFtGdEbDxBjDrB~InFbJlFxDfC`NlIhC|A~AbAdDzBvZzQpKrGjK`HnEpC`E~B|LfH~DxBhBjA`CfA[tDgAxEd@r@n@j@pFdDbPvJ|RrLpPhK|FpDzBvA`DfBhI`FnJtFzT`NfStLjKjGjHrEvJ|FjC`BxBfAtBPxDHbEFr@P~Q^rTp@li@tAv`BvDGnDYlTM|IJxBHb@Zh@x@XpHXpNh@tNb@pNf@nNh@pNf@~CHxEZpFp@e@|CSvAA~@TdZBlQKfB{Mbv@_TjmAy@rEhjB~n@|mBpp@zg@hQ"
+         },
+         "summary" : "217国道 and 626县道",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

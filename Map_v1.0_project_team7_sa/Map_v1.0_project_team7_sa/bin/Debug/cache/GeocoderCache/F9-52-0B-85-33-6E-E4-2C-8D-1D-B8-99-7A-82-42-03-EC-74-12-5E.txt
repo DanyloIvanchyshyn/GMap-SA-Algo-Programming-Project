@@ -1,0 +1,189 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9P7VH3HC+84"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "674170",
+               "short_name" : "674170",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zabaykalsky Krai, Russia, 674170",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.962351,
+                  "lng" : 117.3705889
+               },
+               "southwest" : {
+                  "lat" : 55.344702,
+                  "lng" : 115.4130319
+               }
+            },
+            "location" : {
+               "lat" : 56.0403445,
+               "lng" : 116.4955802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.962351,
+                  "lng" : 117.3705889
+               },
+               "southwest" : {
+                  "lat" : 55.344702,
+                  "lng" : 115.4130319
+               }
+            }
+         },
+         "place_id" : "ChIJceLqTzF5OFwRZEoFw1Pl074",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalarsky District",
+               "short_name" : "Kalarsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalarsky District, Zabaykalsky Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.435147,
+                  "lng" : 120.5290449
+               },
+               "southwest" : {
+                  "lat" : 55.188697,
+                  "lng" : 115.3998142
+               }
+            },
+            "location" : {
+               "lat" : 56.1685232,
+               "lng" : 118.3764508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.435147,
+                  "lng" : 120.5290449
+               },
+               "southwest" : {
+                  "lat" : 55.188697,
+                  "lng" : 115.3998142
+               }
+            }
+         },
+         "place_id" : "ChIJTWgHnfgwP1wRRbK6Ah9UwXE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zabaykalsky Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.435147,
+                  "lng" : 122.1303228
+               },
+               "southwest" : {
+                  "lat" : 49.1551025,
+                  "lng" : 107.7361419
+               }
+            },
+            "location" : {
+               "lat" : 53.0928771,
+               "lng" : 116.9676561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.435147,
+                  "lng" : 122.1303228
+               },
+               "southwest" : {
+                  "lat" : 49.1551025,
+                  "lng" : 107.7361419
+               }
+            }
+         },
+         "place_id" : "ChIJz2KBC6qxNVwRt7-NcdzSUNE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

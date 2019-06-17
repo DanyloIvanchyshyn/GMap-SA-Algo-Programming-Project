@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "CQQV+W9 Hamillewa, Sri Lanka",
+      "global_code" : "6MW2CQQV+W9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anuradhapura",
+               "short_name" : "Anuradhapura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Central Province",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.442405899999999,
+                  "lng" : 80.79458889999999
+               },
+               "southwest" : {
+                  "lat" : 8.441310399999999,
+                  "lng" : 80.7915788
+               }
+            },
+            "location" : {
+               "lat" : 8.4419532,
+               "lng" : 80.7931553
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.443207130291501,
+                  "lng" : 80.79458889999999
+               },
+               "southwest" : {
+                  "lat" : 8.440509169708497,
+                  "lng" : 80.7915788
+               }
+            }
+         },
+         "place_id" : "ChIJa4UR_EF__DoReBFauT8X7fE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anuradhapura",
+               "short_name" : "Anuradhapura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Central Province",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anuradhapura, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.920358999999999,
+                  "lng" : 80.999746
+               },
+               "southwest" : {
+                  "lat" : 7.802294099999999,
+                  "lng" : 79.9668949
+               }
+            },
+            "location" : {
+               "lat" : 8.457316499999999,
+               "lng" : 80.54384499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.920358999999999,
+                  "lng" : 80.999746
+               },
+               "southwest" : {
+                  "lat" : 7.802294099999999,
+                  "lng" : 79.9668949
+               }
+            }
+         },
+         "place_id" : "ChIJewNAF097_DoRTI0tiRZzF_0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Central Province",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Central Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.920358999999999,
+                  "lng" : 81.3556761
+               },
+               "southwest" : {
+                  "lat" : 7.6325161,
+                  "lng" : 79.9668949
+               }
+            },
+            "location" : {
+               "lat" : 8.1995638,
+               "lng" : 80.6326916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.920358999999999,
+                  "lng" : 81.3556761
+               },
+               "southwest" : {
+                  "lat" : 7.6325161,
+                  "lng" : 79.9668949
+               }
+            }
+         },
+         "place_id" : "ChIJhWEPFxSG_DoRZF4DdA59eFk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.03377,
+                  "lng" : 82.14479999999999
+               },
+               "southwest" : {
+                  "lat" : 5.6816,
+                  "lng" : 79.26769999999999
+               }
+            },
+            "location" : {
+               "lat" : 7.873053999999999,
+               "lng" : 80.77179699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.03377,
+                  "lng" : 82.14479999999999
+               },
+               "southwest" : {
+                  "lat" : 5.6816,
+                  "lng" : 79.26769999999999
+               }
+            }
+         },
+         "place_id" : "ChIJnR5a9jxZ4joRjNPiALSkPeE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

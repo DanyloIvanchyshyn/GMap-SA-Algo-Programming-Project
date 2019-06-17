@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJe8Zpor240YYRALcf6JFBn-c",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJe8Zpor240YYRALcf6JFBn-c",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 30.3230344,
+               "lng" : -110.6139081
+            },
+            "southwest" : {
+               "lat" : 30.3226949,
+               "lng" : -110.6143606
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "58 m",
+                  "value" : 58
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 3
+               },
+               "end_address" : "Unnamed Road, Los Janos, Son., Mexico",
+               "end_location" : {
+                  "lat" : 30.3230344,
+                  "lng" : -110.6139081
+               },
+               "start_address" : "Unnamed Road, Los Janos, Son., Mexico",
+               "start_location" : {
+                  "lat" : 30.3226949,
+                  "lng" : -110.6143606
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "58 m",
+                        "value" : 58
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 30.3230344,
+                        "lng" : -110.6139081
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ykaxDvjcbTcAyA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3226949,
+                        "lng" : -110.6143606
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ykaxDvjcbTcAyA"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

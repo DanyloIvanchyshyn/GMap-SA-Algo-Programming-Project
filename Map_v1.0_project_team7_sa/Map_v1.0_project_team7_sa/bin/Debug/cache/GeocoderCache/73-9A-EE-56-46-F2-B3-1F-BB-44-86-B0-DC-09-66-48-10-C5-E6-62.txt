@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "CH5J+38 Асар, Шымкент, Kazakhstan",
+      "global_code" : "8JJFCH5J+38"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-2",
+               "short_name" : "A-2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Kazakhstan Province",
+               "short_name" : "South Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-2, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4079684,
+                  "lng" : 69.5811561
+               },
+               "southwest" : {
+                  "lat" : 42.4037026,
+                  "lng" : 69.57561059999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4058347,
+               "lng" : 69.57838439999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4079684,
+                  "lng" : 69.5811561
+               },
+               "southwest" : {
+                  "lat" : 42.4037026,
+                  "lng" : 69.57561059999999
+               }
+            }
+         },
+         "place_id" : "ChIJ270NJFkDqTgRpsPz7sQCHtc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Асар",
+               "short_name" : "Асар",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Шымкент",
+               "short_name" : "Шымкент",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Оңтүстік Қазақстан",
+               "short_name" : "Оңтүстік Қазақстан",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Асар, Шымкент, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4251619,
+                  "lng" : 69.6053196
+               },
+               "southwest" : {
+                  "lat" : 42.39655510000001,
+                  "lng" : 69.56559849999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4141481,
+               "lng" : 69.576487
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4251619,
+                  "lng" : 69.6053196
+               },
+               "southwest" : {
+                  "lat" : 42.39655510000001,
+                  "lng" : 69.56559849999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ1DmSUYDqTgR_zJHEdM0cDU",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Kazakhstan Province",
+               "short_name" : "South Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Kazakhstan Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0283661,
+                  "lng" : 70.8993761
+               },
+               "southwest" : {
+                  "lat" : 40.57127699999999,
+                  "lng" : 66.006905
+               }
+            },
+            "location" : {
+               "lat" : 42.2663378,
+               "lng" : 68.14314139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0283661,
+                  "lng" : 70.8993761
+               },
+               "southwest" : {
+                  "lat" : 40.57127699999999,
+                  "lng" : 66.006905
+               }
+            }
+         },
+         "place_id" : "ChIJbfsqqDXUAEIR2jQlFBqFZ9A",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            },
+            "location" : {
+               "lat" : 48.019573,
+               "lng" : 66.92368399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            }
+         },
+         "place_id" : "ChIJR6n87AcQqTgRGw6z5C-Ee18",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

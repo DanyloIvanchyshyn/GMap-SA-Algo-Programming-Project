@@ -1,0 +1,446 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "9PQR+CH La Garde-Adhémar, France",
+      "global_code" : "8FP69PQR+CH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Les Pereyrets",
+               "short_name" : "D458",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Garde-Adhémar",
+               "short_name" : "La Garde-Adhémar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drôme",
+               "short_name" : "Drôme",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26700",
+               "short_name" : "26700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "D458, 26700 La Garde-Adhémar, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3892232,
+                  "lng" : 4.741449999999999
+               },
+               "southwest" : {
+                  "lat" : 44.3868381,
+                  "lng" : 4.7413267
+               }
+            },
+            "location" : {
+               "lat" : 44.3880305,
+               "lng" : 4.7413931
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.38937963029149,
+                  "lng" : 4.742737330291503
+               },
+               "southwest" : {
+                  "lat" : 44.38668166970849,
+                  "lng" : 4.740039369708498
+               }
+            }
+         },
+         "place_id" : "ChIJmZkN8ERztRIRLeJYdTpaNlc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Les Pereyrets",
+               "short_name" : "Les Pereyrets",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Garde-Adhémar",
+               "short_name" : "La Garde-Adhémar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drôme",
+               "short_name" : "Drôme",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26700",
+               "short_name" : "26700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14 Les Pereyrets, 26700 La Garde-Adhémar, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.3871419,
+               "lng" : 4.741262799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3884908802915,
+                  "lng" : 4.742611780291502
+               },
+               "southwest" : {
+                  "lat" : 44.3857929197085,
+                  "lng" : 4.739913819708497
+               }
+            }
+         },
+         "place_id" : "ChIJ4ThZ3URztRIRDTF-k6hRDfI",
+         "plus_code" : {
+            "compound_code" : "9PPR+VG La Garde-Adhémar, France",
+            "global_code" : "8FP69PPR+VG"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "D458",
+               "short_name" : "D458",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Garde-Adhémar",
+               "short_name" : "La Garde-Adhémar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drôme",
+               "short_name" : "Drôme",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26700",
+               "short_name" : "26700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14 D458, 26700 La Garde-Adhémar, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.3871391,
+               "lng" : 4.7413362
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3884880802915,
+                  "lng" : 4.742685180291502
+               },
+               "southwest" : {
+                  "lat" : 44.3857901197085,
+                  "lng" : 4.739987219708498
+               }
+            }
+         },
+         "place_id" : "EigxNCBENDU4LCAyNjcwMCBMYSBHYXJkZS1BZGjDqW1hciwgRnJhbmNlIhoSGAoUChIJmZkN8ERztRIRLOJYdTpaNlcQDg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Garde-Adhémar",
+               "short_name" : "La Garde-Adhémar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drôme",
+               "short_name" : "Drôme",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26700",
+               "short_name" : "26700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "26700 La Garde-Adhémar, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4143479,
+                  "lng" : 4.795094
+               },
+               "southwest" : {
+                  "lat" : 44.362134,
+                  "lng" : 4.70955
+               }
+            },
+            "location" : {
+               "lat" : 44.393179,
+               "lng" : 4.753137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4143479,
+                  "lng" : 4.795094
+               },
+               "southwest" : {
+                  "lat" : 44.362134,
+                  "lng" : 4.70955
+               }
+            }
+         },
+         "place_id" : "ChIJ-TJ5I2lztRIRIMO_5CqrCAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26700",
+               "short_name" : "26700",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pierrelatte",
+               "short_name" : "Pierrelatte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drôme",
+               "short_name" : "Drôme",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "26700 Pierrelatte, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4144363,
+                  "lng" : 4.7956861
+               },
+               "southwest" : {
+                  "lat" : 44.3204606,
+                  "lng" : 4.6467991
+               }
+            },
+            "location" : {
+               "lat" : 44.3681785,
+               "lng" : 4.7174062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4144363,
+                  "lng" : 4.7956861
+               },
+               "southwest" : {
+                  "lat" : 44.3204606,
+                  "lng" : 4.6467991
+               }
+            }
+         },
+         "place_id" : "ChIJ7RyyIk4LtRIRUEbkQS6rCBw",
+         "postcode_localities" : [ "La Garde-Adhémar", "Pierrelatte" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Drôme",
+               "short_name" : "Drôme",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Drôme, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.343976,
+                  "lng" : 5.830446
+               },
+               "southwest" : {
+                  "lat" : 44.115494,
+                  "lng" : 4.6468618
+               }
+            },
+            "location" : {
+               "lat" : 44.73118960000001,
+               "lng" : 5.2266675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.343976,
+                  "lng" : 5.830446
+               },
+               "southwest" : {
+                  "lat" : 44.115494,
+                  "lng" : 4.6468618
+               }
+            }
+         },
+         "place_id" : "ChIJXUlPlKe6yhIRACe55CqrCAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auvergne-Rhône-Alpes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            },
+            "location" : {
+               "lat" : 45.4471431,
+               "lng" : 4.385250699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.804293,
+                  "lng" : 7.1855661
+               },
+               "southwest" : {
+                  "lat" : 44.115493,
+                  "lng" : 2.062882
+               }
+            }
+         },
+         "place_id" : "ChIJ_fju9ukE9UcROuOAIn5wRjk",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

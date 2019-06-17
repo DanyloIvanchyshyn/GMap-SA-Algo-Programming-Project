@@ -1,0 +1,249 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "7V3J+W6 Khaldy, Russia",
+      "global_code" : "9H9H7V3J+W6"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R242",
+               "short_name" : "R242",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seltinskiy Rayon",
+               "short_name" : "Seltinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Udmurtskaja Respublika",
+               "short_name" : "Udmurtskaja Respublika",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "427284",
+               "short_name" : "427284",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R242, Udmurtskaja Respublika, Russia, 427284",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.2775528,
+                  "lng" : 51.9522189
+               },
+               "southwest" : {
+                  "lat" : 57.2499914,
+                  "lng" : 51.8677047
+               }
+            },
+            "location" : {
+               "lat" : 57.26436229999999,
+               "lng" : 51.9099765
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2775528,
+                  "lng" : 51.9522189
+               },
+               "southwest" : {
+                  "lat" : 57.2499914,
+                  "lng" : 51.8677047
+               }
+            }
+         },
+         "place_id" : "ChIJj_b4K7LH40MR1FlErwBc_4A",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "427284",
+               "short_name" : "427284",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Udmurt Republic",
+               "short_name" : "Udmurt Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Udmurt Republic, Russia, 427284",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.3829289,
+                  "lng" : 51.994265
+               },
+               "southwest" : {
+                  "lat" : 57.123836,
+                  "lng" : 51.7460551
+               }
+            },
+            "location" : {
+               "lat" : 57.2716159,
+               "lng" : 51.8751927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.3829289,
+                  "lng" : 51.994265
+               },
+               "southwest" : {
+                  "lat" : 57.123836,
+                  "lng" : 51.7460551
+               }
+            }
+         },
+         "place_id" : "ChIJ0eQ04tDH40MR38PA_eto4aA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seltinskiy Rayon",
+               "short_name" : "Seltinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Udmurt Republic",
+               "short_name" : "Udmurt Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seltinskiy Rayon, Udmurt Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.57648,
+                  "lng" : 52.568077
+               },
+               "southwest" : {
+                  "lat" : 57.1265659,
+                  "lng" : 51.4445282
+               }
+            },
+            "location" : {
+               "lat" : 57.3903378,
+               "lng" : 51.8341046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.57648,
+                  "lng" : 52.568077
+               },
+               "southwest" : {
+                  "lat" : 57.1265659,
+                  "lng" : 51.4445282
+               }
+            }
+         },
+         "place_id" : "ChIJaQM24IK_40MRanMpk73WjqY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udmurt Republic",
+               "short_name" : "Udmurt Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Udmurt Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.545039,
+                  "lng" : 54.4348629
+               },
+               "southwest" : {
+                  "lat" : 55.8560829,
+                  "lng" : 51.1226019
+               }
+            },
+            "location" : {
+               "lat" : 57.0670218,
+               "lng" : 53.0277948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.545039,
+                  "lng" : 54.4348629
+               },
+               "southwest" : {
+                  "lat" : 55.8560829,
+                  "lng" : 51.1226019
+               }
+            }
+         },
+         "place_id" : "ChIJUUBNcq_i40MRMJXxg6WjAgE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

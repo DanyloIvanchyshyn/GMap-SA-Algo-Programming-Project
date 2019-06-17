@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ39qwT51QDV0RaOt7L1E-6vs",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV5QeDuOqcl0RSDAWD3uKTMk",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.7607449,
+               "lng" : 99.45125329999999
+            },
+            "southwest" : {
+               "lat" : 49.64115409999999,
+               "lng" : 99.31906529999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "17.9 km",
+                  "value" : 17913
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1075
+               },
+               "end_address" : "Unnamed Road, Mongolia",
+               "end_location" : {
+                  "lat" : 49.64115409999999,
+                  "lng" : 99.31906529999999
+               },
+               "start_address" : "Unnamed Road, Mongolia",
+               "start_location" : {
+                  "lat" : 49.7607449,
+                  "lng" : 99.45125329999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "17.9 km",
+                        "value" : 17913
+                     },
+                     "duration" : {
+                        "text" : "18 mins",
+                        "value" : 1075
+                     },
+                     "end_location" : {
+                        "lat" : 49.64115409999999,
+                        "lng" : 99.31906529999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "s{unHia_~QbMpFtG~DvNzIrd@~X|OfJbTbRXT|GbGlSpV`FpDzOfL~P~ThAnAvDlEvJ`LxTvJfGjBhEpA|UjJdDpA`Jx@bAHdL_GNMdHeGREnDq@fB]~FpFrFbAxG?f@?|FeD`@WbEkBpAm@hFt@pEp@bKzDtEjDvCvBtCtDlEvFvA|CfEbJdB`P@NFf@bB`Hh@`@tF|DpMxJrFtI^fARl@tD~KnC`O|Jv]z@zCjOdi@dDvJp@rBtInWvKb\\tG~R~@~DlJz`@lJz`@p@rCnC~Mz@dBf@dAd@?l@?|A?zDdBn@dAtAvBx@|Dr@hD`CrJXhAxA~MVhArAtF@DhCvAxAx@tC~AnKnF~F?~L|GfYtOnBfAxJdEpD|ApN~Db@LrNvIlAzDhDxKDRlA~MfAlOhAjPP~AnBfRtAdM"
+                     },
+                     "start_location" : {
+                        "lat" : 49.7607449,
+                        "lng" : 99.45125329999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s{unHia_~QbMpFtG~Djt@zc@|OfJbTbRvHxGlSpV`FpDzOfL~P~T`G|GvJ`LxTvJpM|Db[|LdLbAdL_GNMdHeGREvGoA~FpFrFbA`I?~G}DtGyCzLfBbKzDtEjDvCvBtCtDlEvFvA|CfEbJdB`PHv@bB`Hh@`@tF|DpMxJrFtI^fAhElMnC`O|Jv]fQ`n@d]~cAtG~R~@~DzUvbAp@rCnC~MbBjDrA?|A?zDdBdC|DlBfJzC|LxA~MVhAtAzFbFpCtC~AnKnF~F?~L|Gv\\|QjPbHtOlErNvIlAzDnDlLlA~MfAlOhAjPP~AdEl`@"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

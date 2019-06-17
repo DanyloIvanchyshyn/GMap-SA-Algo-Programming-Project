@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5bsy0hosj0ER2BFCz6rNgBI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5bsy0hosj0ER2BFCz6rNgBI",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 48.0648095,
+               "lng" : 59.97165560000001
+            },
+            "southwest" : {
+               "lat" : 48.06050949999999,
+               "lng" : 59.96550930000001
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 661
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 30
+               },
+               "end_address" : "A-26, Kazakhstan",
+               "end_location" : {
+                  "lat" : 48.0648095,
+                  "lng" : 59.97165560000001
+               },
+               "start_address" : "A-26, Kazakhstan",
+               "start_location" : {
+                  "lat" : 48.06050949999999,
+                  "lng" : 59.96550930000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 661
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 48.0648095,
+                        "lng" : 59.97165560000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eA-26\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eyidHm__mJaCuDsF{IwFcJuBiDwBmD"
+                     },
+                     "start_location" : {
+                        "lat" : 48.06050949999999,
+                        "lng" : 59.96550930000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eyidHm__mJcV_`@wBmD"
+         },
+         "summary" : "A-26",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

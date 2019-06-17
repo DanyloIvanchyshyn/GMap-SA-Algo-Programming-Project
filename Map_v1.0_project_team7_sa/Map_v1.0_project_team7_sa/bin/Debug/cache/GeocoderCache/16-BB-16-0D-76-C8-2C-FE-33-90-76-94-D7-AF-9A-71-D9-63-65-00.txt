@@ -1,0 +1,189 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9M2MPGP8+H7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "668330",
+               "short_name" : "668330",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tuva",
+               "short_name" : "Tuva",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuva, Russia, 668330",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3792421,
+                  "lng" : 94.07589999999999
+               },
+               "southwest" : {
+                  "lat" : 50.5844,
+                  "lng" : 93.4887569
+               }
+            },
+            "location" : {
+               "lat" : 50.8699308,
+               "lng" : 93.7151777
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3792421,
+                  "lng" : 94.07589999999999
+               },
+               "southwest" : {
+                  "lat" : 50.5844,
+                  "lng" : 93.4887569
+               }
+            }
+         },
+         "place_id" : "ChIJ9yM8zqefOV0Rua1JmSakKTI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tes-Khemskiy Rayon",
+               "short_name" : "Tes-Khemskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuva",
+               "short_name" : "Tuva",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tes-Khemskiy Rayon, Tuva, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.99590509999999,
+                  "lng" : 95.61239189999999
+               },
+               "southwest" : {
+                  "lat" : 50.1436149,
+                  "lng" : 93.1148851
+               }
+            },
+            "location" : {
+               "lat" : 50.6937831,
+               "lng" : 94.4801648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.99590509999999,
+                  "lng" : 95.61239189999999
+               },
+               "southwest" : {
+                  "lat" : 50.1436149,
+                  "lng" : 93.1148851
+               }
+            }
+         },
+         "place_id" : "ChIJV49BdCfYOF0RczG8Bysf2uQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuva",
+               "short_name" : "Tuva",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuva, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.727431,
+                  "lng" : 99.269666
+               },
+               "southwest" : {
+                  "lat" : 49.7417159,
+                  "lng" : 88.7985341
+               }
+            },
+            "location" : {
+               "lat" : 51.8872669,
+               "lng" : 95.62601719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.727431,
+                  "lng" : 99.269666
+               },
+               "southwest" : {
+                  "lat" : 49.7417159,
+                  "lng" : 88.7985341
+               }
+            }
+         },
+         "place_id" : "ChIJ9UKBC9azO10RIJVFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

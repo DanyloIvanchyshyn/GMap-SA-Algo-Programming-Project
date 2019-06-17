@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ270NJFkDqTgRpsPz7sQCHtc",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ270NJFkDqTgRpsPz7sQCHtc",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 42.4076966,
+               "lng" : 69.5808028
+            },
+            "southwest" : {
+               "lat" : 42.4059535,
+               "lng" : 69.5785403
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 268
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 28
+               },
+               "end_address" : "A-2, Kazakhstan",
+               "end_location" : {
+                  "lat" : 42.4076966,
+                  "lng" : 69.5808028
+               },
+               "start_address" : "A-2, Kazakhstan",
+               "start_location" : {
+                  "lat" : 42.4059535,
+                  "lng" : 69.5785403
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 268
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 42.4076966,
+                        "lng" : 69.5808028
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eA-2\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "elyaG{ptgLk@y@KM}CmEgCmD"
+                     },
+                     "start_location" : {
+                        "lat" : 42.4059535,
+                        "lng" : 69.5785403
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "elyaG{ptgL}IcM"
+         },
+         "summary" : "A-2",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

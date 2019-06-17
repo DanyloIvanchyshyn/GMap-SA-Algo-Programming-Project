@@ -1,0 +1,189 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9JWH2958+2V"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "629700",
+               "short_name" : "629700",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yamalo-Nenets Autonomous Okrug",
+               "short_name" : "Ямало-Ненецкий Аутономус Область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yamalo-Nenets Autonomous Okrug, Russia, 629700",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.2765579,
+                  "lng" : 71.91717899999999
+               },
+               "southwest" : {
+                  "lat" : 65.94716889999999,
+                  "lng" : 70.1203031
+               }
+            },
+            "location" : {
+               "lat" : 67.61548549999999,
+               "lng" : 71.0669601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.2765579,
+                  "lng" : 71.91717899999999
+               },
+               "southwest" : {
+                  "lat" : 65.94716889999999,
+                  "lng" : 70.1203031
+               }
+            }
+         },
+         "place_id" : "ChIJx0wZReCvnEQRFYKaYg8AGUg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yamalsky District",
+               "short_name" : "Yamalsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yamalo-Nenets Autonomous Okrug",
+               "short_name" : "Ямало-Ненецкий Аутономус Область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yamalsky District, Yamalo-Nenets Autonomous Okrug, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 73.4935761,
+                  "lng" : 73.603066
+               },
+               "southwest" : {
+                  "lat" : 66.4873241,
+                  "lng" : 66.4700251
+               }
+            },
+            "location" : {
+               "lat" : 69.76732299999999,
+               "lng" : 71.26688399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 73.4935761,
+                  "lng" : 73.603066
+               },
+               "southwest" : {
+                  "lat" : 66.4873241,
+                  "lng" : 66.4700251
+               }
+            }
+         },
+         "place_id" : "ChIJJ10_XSLzjUQRiS1L4EnvtJo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yamalo-Nenets Autonomous Okrug",
+               "short_name" : "Ямало-Ненецкий Аутономус Область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yamalo-Nenets Autonomous Okrug, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 73.52682589999999,
+                  "lng" : 86.01397010000001
+               },
+               "southwest" : {
+                  "lat" : 62.1900029,
+                  "lng" : 62.0121152
+               }
+            },
+            "location" : {
+               "lat" : 66.0653057,
+               "lng" : 76.93451930000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 73.52682589999999,
+                  "lng" : 86.01397010000001
+               },
+               "southwest" : {
+                  "lat" : 62.1900029,
+                  "lng" : 62.0121152
+               }
+            }
+         },
+         "place_id" : "ChIJ27G9vj6nnkQRoJlFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

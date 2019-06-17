@@ -1,0 +1,313 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "XC9X+R4 Xiyingzhen, Liangzhou, Wuwei, Gansu, China",
+      "global_code" : "8P94XC9X+R4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "211 Sheng Dao",
+               "short_name" : "211 Sheng Dao",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liangzhou Qu",
+               "short_name" : "Liangzhou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wuwei Shi",
+               "short_name" : "Wuwei Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gansu Sheng",
+               "short_name" : "Gansu Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "733015",
+               "short_name" : "733015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "211 Sheng Dao, Liangzhou Qu, Wuwei Shi, Gansu Sheng, China, 733015",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9712725,
+                  "lng" : 102.4515807
+               },
+               "southwest" : {
+                  "lat" : 37.9673926,
+                  "lng" : 102.4416417
+               }
+            },
+            "location" : {
+               "lat" : 37.9694842,
+               "lng" : 102.4467087
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9712725,
+                  "lng" : 102.4515807
+               },
+               "southwest" : {
+                  "lat" : 37.9673926,
+                  "lng" : 102.4416417
+               }
+            }
+         },
+         "place_id" : "ChIJmd0nfqLKTjYRSHvaASmmqlI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "733026",
+               "short_name" : "733026",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Liangzhou",
+               "short_name" : "Liangzhou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wuwei",
+               "short_name" : "Wuwei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liangzhou, Wuwei, China, 733026",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0351578,
+                  "lng" : 102.5298029
+               },
+               "southwest" : {
+                  "lat" : 37.8976781,
+                  "lng" : 102.3922136
+               }
+            },
+            "location" : {
+               "lat" : 37.972229,
+               "lng" : 102.4415959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0351578,
+                  "lng" : 102.5298029
+               },
+               "southwest" : {
+                  "lat" : 37.8976781,
+                  "lng" : 102.3922136
+               }
+            }
+         },
+         "place_id" : "ChIJXat8qKHKTjYRp5zIgnTud1s",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liangzhou",
+               "short_name" : "Liangzhou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wuwei",
+               "short_name" : "Wuwei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liangzhou, Wuwei, Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2099125,
+                  "lng" : 103.3896495
+               },
+               "southwest" : {
+                  "lat" : 37.3875886,
+                  "lng" : 102.0293084
+               }
+            },
+            "location" : {
+               "lat" : 37.928224,
+               "lng" : 102.642184
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2099125,
+                  "lng" : 103.3896495
+               },
+               "southwest" : {
+                  "lat" : 37.3875886,
+                  "lng" : 102.0293084
+               }
+            }
+         },
+         "place_id" : "ChIJ5UofpqYqSTYRUZLJAaSewmA",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wuwei",
+               "short_name" : "Wuwei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wuwei, Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4613752,
+                  "lng" : 104.2073273
+               },
+               "southwest" : {
+                  "lat" : 36.7533366,
+                  "lng" : 101.8305649
+               }
+            },
+            "location" : {
+               "lat" : 37.928267,
+               "lng" : 102.638201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4613752,
+                  "lng" : 104.2073273
+               },
+               "southwest" : {
+                  "lat" : 36.7533366,
+                  "lng" : 101.8305649
+               }
+            }
+         },
+         "place_id" : "ChIJfdkm_r3NSDYRePyA2IoxIIE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7951629,
+                  "lng" : 108.7123359
+               },
+               "southwest" : {
+                  "lat" : 32.5941101,
+                  "lng" : 92.3391463
+               }
+            },
+            "location" : {
+               "lat" : 35.7518326,
+               "lng" : 104.2861116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7951629,
+                  "lng" : 108.7123359
+               },
+               "southwest" : {
+                  "lat" : 32.5941101,
+                  "lng" : 92.3391463
+               }
+            }
+         },
+         "place_id" : "ChIJ5bRHsW5cTDYR2b_TuLO4yq8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

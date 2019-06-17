@@ -1,0 +1,254 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "P3Q9+34 Lesnoy Gorodok, Zabaykalsky Krai, Russia",
+      "global_code" : "9P3MP3Q9+34"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "P-258",
+               "short_name" : "P-258",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lesnoy Gorodok",
+               "short_name" : "Lesnoy Gorodok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chitinskiy Rayon",
+               "short_name" : "Chitinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "672524",
+               "short_name" : "672524",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "P-258, Lesnoy Gorodok, Zabaykalsky Krai, Russia, 672524",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7381149,
+                  "lng" : 113.06808
+               },
+               "southwest" : {
+                  "lat" : 51.7363308,
+                  "lng" : 113.0679207
+               }
+            },
+            "location" : {
+               "lat" : 51.73722069999999,
+               "lng" : 113.0679559
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.73857183029151,
+                  "lng" : 113.0693493302915
+               },
+               "southwest" : {
+                  "lat" : 51.73587386970851,
+                  "lng" : 113.0666513697085
+               }
+            }
+         },
+         "place_id" : "ChIJe_oajt2GyV0R4pTyi_ecGiE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "672524",
+               "short_name" : "672524",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zabaykalsky Krai, Russia, 672524",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.776324,
+                  "lng" : 113.3397219
+               },
+               "southwest" : {
+                  "lat" : 51.6500509,
+                  "lng" : 113.0143211
+               }
+            },
+            "location" : {
+               "lat" : 51.6996578,
+               "lng" : 113.1768205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.776324,
+                  "lng" : 113.3397219
+               },
+               "southwest" : {
+                  "lat" : 51.6500509,
+                  "lng" : 113.0143211
+               }
+            }
+         },
+         "place_id" : "ChIJQcSq5rCByV0ROocdTchenIk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chitinskiy Rayon",
+               "short_name" : "Chitinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chitinskiy Rayon, Zabaykalsky Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0575911,
+                  "lng" : 114.647549
+               },
+               "southwest" : {
+                  "lat" : 50.96088109999999,
+                  "lng" : 112.2145882
+               }
+            },
+            "location" : {
+               "lat" : 51.92012399999999,
+               "lng" : 113.6539241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0575911,
+                  "lng" : 114.647549
+               },
+               "southwest" : {
+                  "lat" : 50.96088109999999,
+                  "lng" : 112.2145882
+               }
+            }
+         },
+         "place_id" : "ChIJo1m_b_I0yl0RNjC68WQuIpY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zabaykalsky Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.435147,
+                  "lng" : 122.1303228
+               },
+               "southwest" : {
+                  "lat" : 49.1551025,
+                  "lng" : 107.7361419
+               }
+            },
+            "location" : {
+               "lat" : 53.0928771,
+               "lng" : 116.9676561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.435147,
+                  "lng" : 122.1303228
+               },
+               "southwest" : {
+                  "lat" : 49.1551025,
+                  "lng" : 107.7361419
+               }
+            }
+         },
+         "place_id" : "ChIJz2KBC6qxNVwRt7-NcdzSUNE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

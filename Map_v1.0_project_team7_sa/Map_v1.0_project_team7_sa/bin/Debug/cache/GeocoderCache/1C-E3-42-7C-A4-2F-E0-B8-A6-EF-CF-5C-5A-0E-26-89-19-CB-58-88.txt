@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "8MXXJ8R9+9M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arbulag",
+               "short_name" : "Arbulag",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khövsgöl",
+               "short_name" : "Khövsgöl",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.642145,
+                  "lng" : 99.32442159999999
+               },
+               "southwest" : {
+                  "lat" : 49.58600759999999,
+                  "lng" : 99.28559299999999
+               }
+            },
+            "location" : {
+               "lat" : 49.6177108,
+               "lng" : 99.29902060000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.642145,
+                  "lng" : 99.32442159999999
+               },
+               "southwest" : {
+                  "lat" : 49.58600759999999,
+                  "lng" : 99.28559299999999
+               }
+            }
+         },
+         "place_id" : "ChIJV5QeDuOqcl0RSDAWD3uKTMk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arbulag",
+               "short_name" : "Arbulag",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khövsgöl",
+               "short_name" : "Khövsgöl",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arbulag, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3064457,
+                  "lng" : 99.91387789999999
+               },
+               "southwest" : {
+                  "lat" : 49.4790555,
+                  "lng" : 98.81524090000001
+               }
+            },
+            "location" : {
+               "lat" : 49.7919247,
+               "lng" : 99.5206427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3064457,
+                  "lng" : 99.91387789999999
+               },
+               "southwest" : {
+                  "lat" : 49.4790555,
+                  "lng" : 98.81524090000001
+               }
+            }
+         },
+         "place_id" : "ChIJBWulW56gEl0RFDioiNozAsk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khövsgöl",
+               "short_name" : "Khövsgöl",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khövsgöl, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1542471,
+                  "lng" : 102.78852
+               },
+               "southwest" : {
+                  "lat" : 48.233659,
+                  "lng" : 96.879998
+               }
+            },
+            "location" : {
+               "lat" : 50.2204484,
+               "lng" : 100.3213768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1542471,
+                  "lng" : 102.78852
+               },
+               "southwest" : {
+                  "lat" : 48.233659,
+                  "lng" : 96.879998
+               }
+            }
+         },
+         "place_id" : "ChIJV2L0_h-bCl0RXpd0E8tXm_0",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
