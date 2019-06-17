@@ -49,8 +49,9 @@
             // splitter1
             // 
             this.splitter1.Location = new System.Drawing.Point(0, 0);
+            this.splitter1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.splitter1.Name = "splitter1";
-            this.splitter1.Size = new System.Drawing.Size(633, 873);
+            this.splitter1.Size = new System.Drawing.Size(475, 709);
             this.splitter1.TabIndex = 0;
             this.splitter1.TabStop = false;
             // 
@@ -66,6 +67,7 @@
             this.map.HelperLineOption = GMap.NET.WindowsForms.HelperLineOptions.DontShow;
             this.map.LevelsKeepInMemmory = 5;
             this.map.Location = new System.Drawing.Point(0, 0);
+            this.map.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.map.MarkersEnabled = true;
             this.map.MaxZoom = 2;
             this.map.MinZoom = 2;
@@ -79,7 +81,7 @@
             this.map.ScaleMode = GMap.NET.WindowsForms.ScaleModes.Integer;
             this.map.SelectedAreaFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(65)))), ((int)(((byte)(105)))), ((int)(((byte)(225)))));
             this.map.ShowTileGridLines = false;
-            this.map.Size = new System.Drawing.Size(663, 873);
+            this.map.Size = new System.Drawing.Size(1044, 709);
             this.map.TabIndex = 1;
             this.map.Zoom = 0D;
             this.map.MouseClick += new System.Windows.Forms.MouseEventHandler(this.map_MouseClick);
@@ -88,88 +90,114 @@
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(757, 27);
+            this.label1.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(1099, 26);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(58, 17);
+            this.label1.Size = new System.Drawing.Size(71, 22);
             this.label1.TabIndex = 2;
             this.label1.Text = "Широта";
             // 
             // txtLat
             // 
             this.txtLat.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtLat.Location = new System.Drawing.Point(715, 61);
+            this.txtLat.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtLat.Location = new System.Drawing.Point(1083, 50);
+            this.txtLat.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtLat.Name = "txtLat";
-            this.txtLat.Size = new System.Drawing.Size(139, 22);
+            this.txtLat.Size = new System.Drawing.Size(105, 26);
             this.txtLat.TabIndex = 3;
             // 
             // txtLong
             // 
             this.txtLong.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtLong.Location = new System.Drawing.Point(715, 135);
+            this.txtLong.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtLong.Location = new System.Drawing.Point(1083, 110);
+            this.txtLong.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtLong.Name = "txtLong";
-            this.txtLong.Size = new System.Drawing.Size(139, 22);
+            this.txtLong.Size = new System.Drawing.Size(105, 26);
             this.txtLong.TabIndex = 5;
             // 
             // label2
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(757, 100);
+            this.label2.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(1099, 86);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(62, 17);
+            this.label2.Size = new System.Drawing.Size(75, 22);
             this.label2.TabIndex = 4;
             this.label2.Text = "Довгота";
             // 
             // btnLoadIntoMap
             // 
             this.btnLoadIntoMap.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnLoadIntoMap.Location = new System.Drawing.Point(703, 191);
+            this.btnLoadIntoMap.BackColor = System.Drawing.SystemColors.Desktop;
+            this.btnLoadIntoMap.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLoadIntoMap.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnLoadIntoMap.Location = new System.Drawing.Point(1052, 140);
+            this.btnLoadIntoMap.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnLoadIntoMap.Name = "btnLoadIntoMap";
-            this.btnLoadIntoMap.Size = new System.Drawing.Size(179, 27);
+            this.btnLoadIntoMap.Size = new System.Drawing.Size(170, 59);
             this.btnLoadIntoMap.TabIndex = 12;
             this.btnLoadIntoMap.Text = "Нанести на карту";
-            this.btnLoadIntoMap.UseVisualStyleBackColor = true;
+            this.btnLoadIntoMap.UseVisualStyleBackColor = false;
             this.btnLoadIntoMap.Click += new System.EventHandler(this.btnLoadIntoMap_Click);
             // 
             // btnAddPoint
             // 
             this.btnAddPoint.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnAddPoint.Location = new System.Drawing.Point(692, 238);
+            this.btnAddPoint.BackColor = System.Drawing.SystemColors.Desktop;
+            this.btnAddPoint.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAddPoint.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnAddPoint.Location = new System.Drawing.Point(1052, 203);
+            this.btnAddPoint.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnAddPoint.Name = "btnAddPoint";
-            this.btnAddPoint.Size = new System.Drawing.Size(197, 32);
+            this.btnAddPoint.Size = new System.Drawing.Size(170, 59);
             this.btnAddPoint.TabIndex = 13;
             this.btnAddPoint.Text = "Зберегти точку";
-            this.btnAddPoint.UseVisualStyleBackColor = true;
+            this.btnAddPoint.UseVisualStyleBackColor = false;
             this.btnAddPoint.Click += new System.EventHandler(this.btnAddPoint_Click);
             // 
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(692, 293);
+            this.button1.BackColor = System.Drawing.SystemColors.Desktop;
+            this.button1.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button1.Location = new System.Drawing.Point(1052, 266);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(203, 34);
+            this.button1.Size = new System.Drawing.Size(170, 59);
             this.button1.TabIndex = 14;
             this.button1.Text = "Побудувати маршрут";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.btnGetRoute_Click);
             // 
             // btnClearList
             // 
             this.btnClearList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnClearList.Location = new System.Drawing.Point(703, 401);
+            this.btnClearList.BackColor = System.Drawing.SystemColors.Desktop;
+            this.btnClearList.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClearList.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnClearList.Location = new System.Drawing.Point(1052, 329);
+            this.btnClearList.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnClearList.Name = "btnClearList";
-            this.btnClearList.Size = new System.Drawing.Size(179, 27);
+            this.btnClearList.Size = new System.Drawing.Size(170, 58);
             this.btnClearList.TabIndex = 15;
             this.btnClearList.Text = "Очистити список точок";
-            this.btnClearList.UseVisualStyleBackColor = true;
+            this.btnClearList.UseVisualStyleBackColor = false;
             this.btnClearList.Click += new System.EventHandler(this.btnClearList_Click);
             // 
             // label3
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label3.Location = new System.Drawing.Point(669, 489);
+            this.label3.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(1057, 491);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(220, 19);
+            this.label3.Size = new System.Drawing.Size(165, 49);
             this.label3.TabIndex = 0;
             this.label3.Text = "Довжина маршруту:";
             // 
@@ -177,41 +205,52 @@
             // 
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(836, 519);
+            this.label4.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(1183, 566);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(0, 17);
+            this.label4.Size = new System.Drawing.Size(0, 22);
             this.label4.TabIndex = 16;
             // 
             // button5
             // 
             this.button5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button5.Location = new System.Drawing.Point(669, 568);
+            this.button5.BackColor = System.Drawing.SystemColors.Desktop;
+            this.button5.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button5.Location = new System.Drawing.Point(1052, 655);
+            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(237, 222);
+            this.button5.Size = new System.Drawing.Size(170, 43);
             this.button5.TabIndex = 17;
             this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
+            this.button5.UseVisualStyleBackColor = false;
             // 
             // label5
             // 
             this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(669, 519);
+            this.label5.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(1058, 566);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(60, 17);
+            this.label5.Size = new System.Drawing.Size(73, 22);
             this.label5.TabIndex = 18;
             this.label5.Text = "Адреса:";
-            //this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // btnRemove
             // 
             this.btnRemove.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnRemove.Location = new System.Drawing.Point(718, 347);
+            this.btnRemove.BackColor = System.Drawing.SystemColors.Desktop;
+            this.btnRemove.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRemove.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnRemove.Location = new System.Drawing.Point(1052, 391);
+            this.btnRemove.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnRemove.Name = "btnRemove";
-            this.btnRemove.Size = new System.Drawing.Size(144, 38);
+            this.btnRemove.Size = new System.Drawing.Size(170, 58);
             this.btnRemove.TabIndex = 19;
             this.btnRemove.Text = "Очистити карту";
-            this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.UseVisualStyleBackColor = false;
             this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
             // 
             // openFileDialog1
@@ -220,9 +259,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(914, 873);
+            this.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.ClientSize = new System.Drawing.Size(1233, 709);
             this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button5);
@@ -238,6 +278,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.map);
             this.Controls.Add(this.splitter1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
