@@ -1,0 +1,190 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "M65G+HM Yegorovka, Novosibirsk Oblast, Russia",
+      "global_code" : "9M76M65G+HM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "633354",
+               "short_name" : "633354",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novosibirsk Oblast, Russia, 633354",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.681073,
+                  "lng" : 84.34136989999999
+               },
+               "southwest" : {
+                  "lat" : 55.42427,
+                  "lng" : 84.123327
+               }
+            },
+            "location" : {
+               "lat" : 55.5567717,
+               "lng" : 84.2559457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.681073,
+                  "lng" : 84.34136989999999
+               },
+               "southwest" : {
+                  "lat" : 55.42427,
+                  "lng" : 84.123327
+               }
+            }
+         },
+         "place_id" : "ChIJD47c9N66IEMRG7PGqL3FC9U",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolotninsky District",
+               "short_name" : "Bolotninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolotninsky District, Novosibirsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.055961,
+                  "lng" : 84.776332
+               },
+               "southwest" : {
+                  "lat" : 55.395664,
+                  "lng" : 83.60678209999999
+               }
+            },
+            "location" : {
+               "lat" : 55.6668501,
+               "lng" : 84.1934543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.055961,
+                  "lng" : 84.776332
+               },
+               "southwest" : {
+                  "lat" : 55.395664,
+                  "lng" : 83.60678209999999
+               }
+            }
+         },
+         "place_id" : "ChIJo0fA7ZvHIEMR3dtf2m-VQMQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novosibirsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            },
+            "location" : {
+               "lat" : 55.4467133,
+               "lng" : 80.1043923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            }
+         },
+         "place_id" : "ChIJc_dpU4GNHUMRPFMGiXZtmN8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

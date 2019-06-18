@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJx2BVA2DcAl0RlhW80ltvXlI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJx2BVA2DcAl0RlhW80ltvXlI",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 54.375208,
+               "lng" : 101.4220968
+            },
+            "southwest" : {
+               "lat" : 54.37257409999999,
+               "lng" : 101.4134369
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 633
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 27
+               },
+               "end_address" : "P-255, Yelanskiy, Irkutskaya oblast', Russia",
+               "end_location" : {
+                  "lat" : 54.37257409999999,
+                  "lng" : 101.4220968
+               },
+               "start_address" : "P-255, Yelanskiy, Irkutskaya oblast', Russia",
+               "start_location" : {
+                  "lat" : 54.375208,
+                  "lng" : 101.4134369
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 633
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 54.37257409999999,
+                        "lng" : 101.4220968
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eа/д Байкал\u003c/b\u003e/\u003cb\u003eР-255\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ad{jI_i~iRbBgI?AH[DY@AvFsXNw@ZyAtB{J"
+                     },
+                     "start_location" : {
+                        "lat" : 54.375208,
+                        "lng" : 101.4134369
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ad{jI_i~iRnOcu@"
+         },
+         "summary" : "а/д Байкал/Р-255",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,254 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "99QF+6V Khiva, Uzbekistan",
+      "global_code" : "8JH299QF+6V"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xiva",
+               "short_name" : "Xiva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xiva tumani",
+               "short_name" : "Xiva tumani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Xorazm Viloyati",
+               "short_name" : "Xorazm Viloyati",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Xiva, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3884698,
+                  "lng" : 60.37476299999999
+               },
+               "southwest" : {
+                  "lat" : 41.3878587,
+                  "lng" : 60.37475159999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3881643,
+               "lng" : 60.3747573
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3895132302915,
+                  "lng" : 60.37610628029149
+               },
+               "southwest" : {
+                  "lat" : 41.3868152697085,
+                  "lng" : 60.37340831970848
+               }
+            }
+         },
+         "place_id" : "ChIJZTyb22ek30ERMAPOEpYRby4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khiva",
+               "short_name" : "Khiva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khiva District",
+               "short_name" : "Khiva District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Xorazm Region",
+               "short_name" : "Xorazm Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khiva, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4177694,
+                  "lng" : 60.4087542
+               },
+               "southwest" : {
+                  "lat" : 41.3605237,
+                  "lng" : 60.2912522
+               }
+            },
+            "location" : {
+               "lat" : 41.3895075,
+               "lng" : 60.3414529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4177694,
+                  "lng" : 60.4087542
+               },
+               "southwest" : {
+                  "lat" : 41.3605237,
+                  "lng" : 60.2912522
+               }
+            }
+         },
+         "place_id" : "ChIJ-Yzk_xOk30ERzcBten_0dc0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khiva District",
+               "short_name" : "Khiva District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Xorazm Region",
+               "short_name" : "Xorazm Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khiva District, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5116624,
+                  "lng" : 60.6417846
+               },
+               "southwest" : {
+                  "lat" : 41.2566459,
+                  "lng" : 60.1535796
+               }
+            },
+            "location" : {
+               "lat" : 41.4064707,
+               "lng" : 60.36847470000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5116624,
+                  "lng" : 60.6417846
+               },
+               "southwest" : {
+                  "lat" : 41.2566459,
+                  "lng" : 60.1535796
+               }
+            }
+         },
+         "place_id" : "ChIJyeefAYek30ERCrYRYmyTpiU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xorazm Region",
+               "short_name" : "Xorazm Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xorazm Region, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.004252,
+                  "lng" : 62.35982399999999
+               },
+               "southwest" : {
+                  "lat" : 40.564991,
+                  "lng" : 60.060196
+               }
+            },
+            "location" : {
+               "lat" : 41.3565336,
+               "lng" : 60.8566686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.004252,
+                  "lng" : 62.35982399999999
+               },
+               "southwest" : {
+                  "lat" : 40.564991,
+                  "lng" : 60.060196
+               }
+            }
+         },
+         "place_id" : "ChIJ77qJf7883kERfnOigsRLhw4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.590075,
+                  "lng" : 73.148946
+               },
+               "southwest" : {
+                  "lat" : 37.1722571,
+                  "lng" : 55.9982179
+               }
+            },
+            "location" : {
+               "lat" : 41.377491,
+               "lng" : 64.585262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.590075,
+                  "lng" : 73.148946
+               },
+               "southwest" : {
+                  "lat" : 37.1722571,
+                  "lng" : 55.9982179
+               }
+            }
+         },
+         "place_id" : "ChIJsXbWpSCLrjgRIB6Efq1tCso",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

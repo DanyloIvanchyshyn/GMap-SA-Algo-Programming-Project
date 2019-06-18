@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9MH7GX77+RV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "628651",
+               "short_name" : "628651",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nizhnevartovsky District",
+               "short_name" : "Nizhnevartovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khanty-Mansi Autonomous Okrug",
+               "short_name" : "ХМАО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khanty-Mansi Autonomous Okrug, Russia, 628651",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.998768,
+                  "lng" : 85.9766731
+               },
+               "southwest" : {
+                  "lat" : 60.51633999999999,
+                  "lng" : 81.11650399999999
+               }
+            },
+            "location" : {
+               "lat" : 61.5539435,
+               "lng" : 83.66741209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.998768,
+                  "lng" : 85.9766731
+               },
+               "southwest" : {
+                  "lat" : 60.51633999999999,
+                  "lng" : 81.11650399999999
+               }
+            }
+         },
+         "place_id" : "ChIJC7_Nd94iR0MRXxoG4zoGkxE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turukhansky District",
+               "short_name" : "Turukhansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turukhansky District, Krasnoyarsk Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 68.406863,
+                  "lng" : 92.24439079999999
+               },
+               "southwest" : {
+                  "lat" : 60.74013309999999,
+                  "lng" : 81.7486251
+               }
+            },
+            "location" : {
+               "lat" : 64.88721009999999,
+               "lng" : 87.3342129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 68.406863,
+                  "lng" : 92.24439079999999
+               },
+               "southwest" : {
+                  "lat" : 60.74013309999999,
+                  "lng" : 81.7486251
+               }
+            }
+         },
+         "place_id" : "ChIJ5fyZArruUUMRl1FAtrGoHj0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krasnoyarsk Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.2663089,
+                  "lng" : 113.9209951
+               },
+               "southwest" : {
+                  "lat" : 51.7734569,
+                  "lng" : 76.1117519
+               }
+            },
+            "location" : {
+               "lat" : 64.24797579999999,
+               "lng" : 95.11041759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 81.2663089,
+                  "lng" : 113.9209951
+               },
+               "southwest" : {
+                  "lat" : 51.7734569,
+                  "lng" : 76.1117519
+               }
+            }
+         },
+         "place_id" : "ChIJHyMdKZGKqFwRLuE1LERdadI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

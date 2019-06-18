@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFSAnW56xskMRvK74FMQSkp0",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFSAnW56xskMRvK74FMQSkp0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 53.9602958,
+               "lng" : 70.3036355
+            },
+            "southwest" : {
+               "lat" : 53.95833289999999,
+               "lng" : 70.3036189
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 218
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 13
+               },
+               "end_address" : "R-243, 150000, Kazakhstan",
+               "end_location" : {
+                  "lat" : 53.95833289999999,
+                  "lng" : 70.3036189
+               },
+               "start_address" : "R-243, 150000, Kazakhstan",
+               "start_location" : {
+                  "lat" : 53.9602958,
+                  "lng" : 70.3036355
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 53.95833289999999,
+                        "lng" : 70.3036189
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR-243\u003c/b\u003e toward \u003cb\u003eUlitsa Kuybysheva\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{bjhIwdblLhKB"
+                     },
+                     "start_location" : {
+                        "lat" : 53.9602958,
+                        "lng" : 70.3036355
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{bjhIwdblLhKB"
+         },
+         "summary" : "R-243",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

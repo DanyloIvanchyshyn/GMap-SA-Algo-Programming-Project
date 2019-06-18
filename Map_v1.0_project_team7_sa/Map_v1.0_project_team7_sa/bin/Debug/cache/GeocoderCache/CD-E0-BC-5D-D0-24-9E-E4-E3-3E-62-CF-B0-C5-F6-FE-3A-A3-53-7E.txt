@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "8MXGH297+VM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nogoonnuur",
+               "short_name" : "Nogoonnuur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayan-Ölgii",
+               "short_name" : "Bayan-Ölgii",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5788731,
+                  "lng" : 90.03265859999999
+               },
+               "southwest" : {
+                  "lat" : 49.5531687,
+                  "lng" : 89.9607754
+               }
+            },
+            "location" : {
+               "lat" : 49.5646442,
+               "lng" : 89.99985909999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5788731,
+                  "lng" : 90.03265859999999
+               },
+               "southwest" : {
+                  "lat" : 49.5531687,
+                  "lng" : 89.9607754
+               }
+            }
+         },
+         "place_id" : "ChIJ_7mLMMUytUIRdqE7-fRsMFw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nogoonnuur",
+               "short_name" : "Nogoonnuur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayan-Ölgii",
+               "short_name" : "Bayan-Ölgii",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nogoonnuur, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0118208,
+                  "lng" : 90.7910155
+               },
+               "southwest" : {
+                  "lat" : 49.0347169,
+                  "lng" : 89.37120430000002
+               }
+            },
+            "location" : {
+               "lat" : 49.6094788,
+               "lng" : 90.08777429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0118208,
+                  "lng" : 90.7910155
+               },
+               "southwest" : {
+                  "lat" : 49.0347169,
+                  "lng" : 89.37120430000002
+               }
+            }
+         },
+         "place_id" : "ChIJgWd4vOsfS10RXEPSb5RL9QU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayan-Ölgii",
+               "short_name" : "Bayan-Ölgii",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayan-Ölgii, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.009587,
+                  "lng" : 91.9268699
+               },
+               "southwest" : {
+                  "lat" : 46.544199,
+                  "lng" : 87.74966409999999
+               }
+            },
+            "location" : {
+               "lat" : 48.3983254,
+               "lng" : 89.66259149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.009587,
+                  "lng" : 91.9268699
+               },
+               "southwest" : {
+                  "lat" : 46.544199,
+                  "lng" : 87.74966409999999
+               }
+            }
+         },
+         "place_id" : "ChIJaYLpx4K0tEIRY-z5F0wI08o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

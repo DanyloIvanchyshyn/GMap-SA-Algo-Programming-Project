@@ -1,0 +1,109 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLzIvkF-k30ERLJBy5-t7lqg",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJebhlOF6k30ERCNvtVhjhlcg",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.392786,
+               "lng" : 60.38216939999999
+            },
+            "southwest" : {
+               "lat" : 41.3917546,
+               "lng" : 60.3801368
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 256
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 32
+               },
+               "end_address" : "Unnamed Road, Xiva, Uzbekistan",
+               "end_location" : {
+                  "lat" : 41.39210600000001,
+                  "lng" : 60.3801368
+               },
+               "start_address" : "Unnamed Road, Xiva, Uzbekistan",
+               "start_location" : {
+                  "lat" : 41.392786,
+                  "lng" : 60.38216939999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.3917546,
+                        "lng" : 60.3816747
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}os{FqkpoJ\\NLDfBn@z@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.392786,
+                        "lng" : 60.38216939999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 41.39210600000001,
+                        "lng" : 60.3801368
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mis{FmhpoJA@y@|FKp@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.3917546,
+                        "lng" : 60.3816747
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}os{FqkpoJnEbBgApH"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

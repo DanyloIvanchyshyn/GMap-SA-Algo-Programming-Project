@@ -1,0 +1,303 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "VP8G+C2 Zhengluxiang, Jingtai, Baiyin, Gansu, China",
+      "global_code" : "8P85VP8G+C2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201 Sheng Dao",
+               "short_name" : "201 Sheng Dao",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jingtai Xian",
+               "short_name" : "Jingtai Xian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Baiyin Shi",
+               "short_name" : "Baiyin Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gansu Sheng",
+               "short_name" : "Gansu Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "730405",
+               "short_name" : "730405",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "201 Sheng Dao, Jingtai Xian, Baiyin Shi, Gansu Sheng, China, 730405",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.8663611,
+                  "lng" : 103.730598
+               },
+               "southwest" : {
+                  "lat" : 36.85551,
+                  "lng" : 103.6951571
+               }
+            },
+            "location" : {
+               "lat" : 36.8613986,
+               "lng" : 103.7132004
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.8663611,
+                  "lng" : 103.730598
+               },
+               "southwest" : {
+                  "lat" : 36.85551,
+                  "lng" : 103.6951571
+               }
+            }
+         },
+         "place_id" : "ChIJsbHe5-lnRTYR3nb97039K5I",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "730405",
+               "short_name" : "730405",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China, 730405",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.018225,
+                  "lng" : 103.8216262
+               },
+               "southwest" : {
+                  "lat" : 36.8276705,
+                  "lng" : 103.6362716
+               }
+            },
+            "location" : {
+               "lat" : 36.8978431,
+               "lng" : 103.6959174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.018225,
+                  "lng" : 103.8216262
+               },
+               "southwest" : {
+                  "lat" : 36.8276705,
+                  "lng" : 103.6362716
+               }
+            }
+         },
+         "place_id" : "ChIJy1IaHkVmRTYRNNsVvX8045E",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jingtai",
+               "short_name" : "Jingtai",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Baiyin",
+               "short_name" : "Baiyin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jingtai, Baiyin, Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.6331732,
+                  "lng" : 104.7181465
+               },
+               "southwest" : {
+                  "lat" : 36.724246,
+                  "lng" : 103.5474552
+               }
+            },
+            "location" : {
+               "lat" : 37.18380399999999,
+               "lng" : 104.063091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6331732,
+                  "lng" : 104.7181465
+               },
+               "southwest" : {
+                  "lat" : 36.724246,
+                  "lng" : 103.5474552
+               }
+            }
+         },
+         "place_id" : "ChIJ0alarX-nRTYR_E22pn4rD1s",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baiyin",
+               "short_name" : "Baiyin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baiyin, Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.6331732,
+                  "lng" : 105.5206326
+               },
+               "southwest" : {
+                  "lat" : 35.41665520000001,
+                  "lng" : 103.5474552
+               }
+            },
+            "location" : {
+               "lat" : 36.545015,
+               "lng" : 104.138586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6331732,
+                  "lng" : 105.5206326
+               },
+               "southwest" : {
+                  "lat" : 35.41665520000001,
+                  "lng" : 103.5474552
+               }
+            }
+         },
+         "place_id" : "ChIJRZcl1eDORDYR9M8ebIrJ__4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7951629,
+                  "lng" : 108.7123359
+               },
+               "southwest" : {
+                  "lat" : 32.5941101,
+                  "lng" : 92.3391463
+               }
+            },
+            "location" : {
+               "lat" : 35.7518326,
+               "lng" : 104.2861116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7951629,
+                  "lng" : 108.7123359
+               },
+               "southwest" : {
+                  "lat" : 32.5941101,
+                  "lng" : 92.3391463
+               }
+            }
+         },
+         "place_id" : "ChIJ5bRHsW5cTDYR2b_TuLO4yq8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5609739,
+                  "lng" : 134.7754563
+               },
+               "southwest" : {
+                  "lat" : 17.9996,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

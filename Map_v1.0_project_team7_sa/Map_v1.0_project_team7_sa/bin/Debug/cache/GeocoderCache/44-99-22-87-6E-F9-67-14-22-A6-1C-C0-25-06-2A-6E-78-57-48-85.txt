@@ -1,0 +1,136 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "PR67+3Q Bargaz, Iran",
+      "global_code" : "8H6WPR67+3Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "95",
+               "short_name" : "95",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "95, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7666758,
+                  "lng" : 58.84702170000001
+               },
+               "southwest" : {
+                  "lat" : 34.698754,
+                  "lng" : 58.80904409999999
+               }
+            },
+            "location" : {
+               "lat" : 34.7335507,
+               "lng" : 58.8258395
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7666758,
+                  "lng" : 58.84702170000001
+               },
+               "southwest" : {
+                  "lat" : 34.698754,
+                  "lng" : 58.80904409999999
+               }
+            }
+         },
+         "place_id" : "ChIJYXIiJ81AEj8RrprQYe8ARRI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Razavi Khorasan Province",
+               "short_name" : "Razavi Khorasan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Razavi Khorasan Province, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.795559,
+                  "lng" : 61.282579
+               },
+               "southwest" : {
+                  "lat" : 33.4001927,
+                  "lng" : 56.4763309
+               }
+            },
+            "location" : {
+               "lat" : 35.1020253,
+               "lng" : 59.1041758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.795559,
+                  "lng" : 61.282579
+               },
+               "southwest" : {
+                  "lat" : 33.4001927,
+                  "lng" : 56.4763309
+               }
+            }
+         },
+         "place_id" : "ChIJzVQLpM7REj8RYGbOyN7A13Q",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            },
+            "location" : {
+               "lat" : 32.427908,
+               "lng" : 53.688046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.782056,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 24.8066999,
+                  "lng" : 44.0326949
+               }
+            }
+         },
+         "place_id" : "ChIJ8R1rwS7s9z4RzvpRntOVsEA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

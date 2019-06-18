@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJlTeCMWik30ERpGM4YPTo3TA",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJI4LjEGik30ERrm7yXxHSttg",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.38828789999999,
+               "lng" : 60.3726301
+            },
+            "southwest" : {
+               "lat" : 41.38742680000001,
+               "lng" : 60.3719672
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.1 km",
+                  "value" : 111
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 28
+               },
+               "end_address" : "Unnamed Road, Xiva, Uzbekistan",
+               "end_location" : {
+                  "lat" : 41.38828789999999,
+                  "lng" : 60.3726301
+               },
+               "start_address" : "Unnamed Road, Xiva, Uzbekistan",
+               "start_location" : {
+                  "lat" : 41.38742680000001,
+                  "lng" : 60.3719672
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.38828789999999,
+                        "lng" : 60.3726301
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mnr{FyknoJoA}@]U{@m@AA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.38742680000001,
+                        "lng" : 60.3719672
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mnr{FyknoJkDcC"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,254 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "7P56+M7 Gagarka, Russia",
+      "global_code" : "9M277P56+M7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R373",
+               "short_name" : "R373",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ust'-Koksinskiy Rayon",
+               "short_name" : "Ust'-Koksinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Altay Republits",
+               "short_name" : "Altay Republits",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "649475",
+               "short_name" : "649475",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R373, Altay Republits, Russia, 649475",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.25929439999999,
+                  "lng" : 85.718414
+               },
+               "southwest" : {
+                  "lat" : 50.25773350000001,
+                  "lng" : 85.71003069999999
+               }
+            },
+            "location" : {
+               "lat" : 50.258514,
+               "lng" : 85.7142224
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2598629302915,
+                  "lng" : 85.718414
+               },
+               "southwest" : {
+                  "lat" : 50.2571649697085,
+                  "lng" : 85.71003069999999
+               }
+            }
+         },
+         "place_id" : "ChIJPZv5-pFHx0IRrHIMrSUguqc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "649475",
+               "short_name" : "649475",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ust'-Koksinskiy Rayon",
+               "short_name" : "Ust'-Koksinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Altai Republic",
+               "short_name" : "Altai Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altai Republic, Russia, 649475",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2767201,
+                  "lng" : 85.799767
+               },
+               "southwest" : {
+                  "lat" : 49.950487,
+                  "lng" : 85.6011049
+               }
+            },
+            "location" : {
+               "lat" : 50.1236286,
+               "lng" : 85.6792372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2767201,
+                  "lng" : 85.799767
+               },
+               "southwest" : {
+                  "lat" : 49.950487,
+                  "lng" : 85.6011049
+               }
+            }
+         },
+         "place_id" : "ChIJOZeu5_lPx0IRd4kdzx0_gug",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ust'-Koksinskiy Rayon",
+               "short_name" : "Ust'-Koksinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Altai Republic",
+               "short_name" : "Altai Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ust'-Koksinskiy Rayon, Altai Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.71022379999999,
+                  "lng" : 86.7227419
+               },
+               "southwest" : {
+                  "lat" : 49.466113,
+                  "lng" : 84.46714999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.1068285,
+               "lng" : 85.703115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.71022379999999,
+                  "lng" : 86.7227419
+               },
+               "southwest" : {
+                  "lat" : 49.466113,
+                  "lng" : 84.46714999999999
+               }
+            }
+         },
+         "place_id" : "ChIJTWJ01xFSx0IRjUvQyfRK_6k",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altai Republic",
+               "short_name" : "Altai Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altai Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.65951889999999,
+                  "lng" : 89.8695321
+               },
+               "southwest" : {
+                  "lat" : 49.071318,
+                  "lng" : 83.92307500000001
+               }
+            },
+            "location" : {
+               "lat" : 50.6181924,
+               "lng" : 86.2199308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.65951889999999,
+                  "lng" : 89.8695321
+               },
+               "southwest" : {
+                  "lat" : 49.071318,
+                  "lng" : 83.92307500000001
+               }
+            }
+         },
+         "place_id" : "ChIJWelnppUmxkIRUJRFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

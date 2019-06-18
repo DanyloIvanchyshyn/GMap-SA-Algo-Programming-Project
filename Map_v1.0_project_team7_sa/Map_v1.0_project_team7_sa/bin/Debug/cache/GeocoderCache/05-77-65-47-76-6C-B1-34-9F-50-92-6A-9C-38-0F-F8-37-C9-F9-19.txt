@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9MH7GX87+3R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "628651",
+               "short_name" : "628651",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nizhnevartovsky District",
+               "short_name" : "Nizhnevartovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khanty-Mansi Autonomous Okrug",
+               "short_name" : "ХМАО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khanty-Mansi Autonomous Okrug, Russia, 628651",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.998768,
+                  "lng" : 85.9766731
+               },
+               "southwest" : {
+                  "lat" : 60.51633999999999,
+                  "lng" : 81.11650399999999
+               }
+            },
+            "location" : {
+               "lat" : 61.5539435,
+               "lng" : 83.66741209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.998768,
+                  "lng" : 85.9766731
+               },
+               "southwest" : {
+                  "lat" : 60.51633999999999,
+                  "lng" : 81.11650399999999
+               }
+            }
+         },
+         "place_id" : "ChIJC7_Nd94iR0MRXxoG4zoGkxE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nizhnevartovsky District",
+               "short_name" : "Nizhnevartovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khanty-Mansi Autonomous Okrug",
+               "short_name" : "ХМАО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nizhnevartovsky District, Khanty-Mansi Autonomous Okrug, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.15207889999999,
+                  "lng" : 85.973356
+               },
+               "southwest" : {
+                  "lat" : 59.630622,
+                  "lng" : 74.47795409999999
+               }
+            },
+            "location" : {
+               "lat" : 61.6742679,
+               "lng" : 79.1745978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.15207889999999,
+                  "lng" : 85.973356
+               },
+               "southwest" : {
+                  "lat" : 59.630622,
+                  "lng" : 74.47795409999999
+               }
+            }
+         },
+         "place_id" : "ChIJN0QJbGCWakMR-r_Hzh2xFTw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khanty-Mansi Autonomous Okrug",
+               "short_name" : "ХМАО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khanty-Mansi Autonomous Okrug, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.71070100000001,
+                  "lng" : 85.973356
+               },
+               "southwest" : {
+                  "lat" : 58.5764188,
+                  "lng" : 59.1974789
+               }
+            },
+            "location" : {
+               "lat" : 62.2287062,
+               "lng" : 70.64100569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.71070100000001,
+                  "lng" : 85.973356
+               },
+               "southwest" : {
+                  "lat" : 58.5764188,
+                  "lng" : 59.1974789
+               }
+            }
+         },
+         "place_id" : "ChIJH39VhUk4cUMRja3IWYUvaQM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

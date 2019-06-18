@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJw6IqwWNkYzYRl2zu37H-ch0",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkaVHfGFkYzYRXxGlinqm3hI",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 34.2962248,
+               "lng" : 109.0490606
+            },
+            "southwest" : {
+               "lat" : 34.2943723,
+               "lng" : 109.0490564
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 206
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 11
+               },
+               "end_address" : "Guanting Motorway Interchange, Guanting Motorway Interchange, Baqiao Qu, Xian Shi, Shaanxi Sheng, China, 710000",
+               "end_location" : {
+                  "lat" : 34.2943723,
+                  "lng" : 109.0490564
+               },
+               "start_address" : "China, Shaanxi, Xi'an, Baqiao, 东三环路",
+               "start_location" : {
+                  "lat" : 34.2962248,
+                  "lng" : 109.0490606
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 206
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 34.2943723,
+                        "lng" : 109.0490564
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e东三环\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "knipEssqxSpJ?"
+                     },
+                     "start_location" : {
+                        "lat" : 34.2962248,
+                        "lng" : 109.0490606
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "knipEssqxSpJ?"
+         },
+         "summary" : "东三环",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

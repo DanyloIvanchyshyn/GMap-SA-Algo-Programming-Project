@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJYXIiJ81AEj8RrprQYe8ARRI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJYXIiJ81AEj8RrprQYe8ARRI",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 34.7666758,
+               "lng" : 58.84702170000001
+            },
+            "southwest" : {
+               "lat" : 34.4200557,
+               "lng" : 58.6754358
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "85.6 km",
+                  "value" : 85563
+               },
+               "duration" : {
+                  "text" : "55 mins",
+                  "value" : 3280
+               },
+               "end_address" : "95, Iran",
+               "end_location" : {
+                  "lat" : 34.7264413,
+                  "lng" : 58.82221449999999
+               },
+               "start_address" : "95, Iran",
+               "start_location" : {
+                  "lat" : 34.7283479,
+                  "lng" : 58.8231308
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "4.8 km",
+                        "value" : 4793
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 164
+                     },
+                     "end_location" : {
+                        "lat" : 34.7666758,
+                        "lng" : 58.84702170000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eRoute 95\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e{}rEq{_fJOGyBu@mFuBoD_BaIiDqCsAuEaCuI{EoBaAsBiA_CsAcDoBgGiDyE{CgH_EwF_D{JwFaJgFiKoGsJmFiKeGkJqFaLkGwOaJoHqE{HkEmD_ByEiBsEkBw@Y]KUE"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7283479,
+                        "lng" : 58.8231308
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "42.9 km",
+                        "value" : 42883
+                     },
+                     "duration" : {
+                        "text" : "27 mins",
+                        "value" : 1596
+                     },
+                     "end_location" : {
+                        "lat" : 34.4200992,
+                        "lng" : 58.6755532
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eRoute 95\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the park (on the right in 21.0&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "wjesE{pdfJbFxCzJxFr[|QxHnE|MzHvKlGpJtFXNnI|EfLvG~J|FtAz@|JzFvL`HpL~G`Aj@|L`HjMxGnHhDzDjBbMjFnNnFtDtAlHnChNbF~MbF|@\\fHlChJhDjKxDnNhFnAb@bIvClNhFlMxEt@V`KvDjMzE|M|FhAf@xOrHdLdGtF~CvC`BtJfG\\RpMxIlEbD`GdE|FtE`BnAxDbDzCjCdA~@tBpBZXxGjGbGvFzLhL|JlJdE|DlD`DpDjDzJjJfJvI`@^xDpDlMvLlLxKl@l@lMxL~IhJ|GrHnDzDxKxMrJfMbAxAdIdLnNxTxBvDzEnIbIzNtIfO~DdHtDhGxKbPjH~JfArAhFtGxFtG`JxJ`F`F`A`AdHtGhHjGtIbHvCxBfDfCnBpA`EnCfG|DdIzEfDjBvEfCdLtFzHlDvIjDxEdBtDvA~DpApFfBpHdChEvALDbIhCxGtBfIpCnJ|C`HzBnAb@fGpBvH`CbInCfLrDVJrIpClKhDrNxElBn@pH~BnHbC`RfGzNzEpH`CtSzGrIpCzNvE~JnCzBj@xFxAZFxEfAtAZdCh@@?~Dv@rCj@zKjBfEn@nCb@xIfAdMrApJt@`BLrGf@lJf@bPh@jFLzEJ|L^rLZdITnCH|K\\dLV~JZ~@BfHPrN^fM^nDHdGP|BH|HTfJT|K\\rHXX@|H`@dKl@bIb@fKl@~CP`Mt@dQbAfFXvFXpDXhCT|Ej@rFbApH`BbAXhCt@lJlD|JzEhGtDfCjBdFhElCtBdGpEvK~I~BjBpGfFb@\\~CbC~B~AfC|A|EjC|DjBzDdBtDpArC~@hAZPDdAXrEhArDt@lDj@bD`@hFf@pCP~ETbBFlI\\`Lf@pI\\jFT|BLnJ^~I^xJ`@hEPzDPvMj@B?dNl@dFRl@BxGXbJ`@pL^`JLr@@dHFlG?zIG`@?|DE|N@fD?`II"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7666758,
+                        "lng" : 58.84702170000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "26 m",
+                        "value" : 26
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 34.4201027,
+                        "lng" : 58.6758154
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eRoute 95\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "staqEeaceJFU?IGS?A"
+                     },
+                     "start_location" : {
+                        "lat" : 34.4200992,
+                        "lng" : 58.6755532
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37.9 km",
+                        "value" : 37861
+                     },
+                     "duration" : {
+                        "text" : "25 mins",
+                        "value" : 1476
+                     },
+                     "end_location" : {
+                        "lat" : 34.7264413,
+                        "lng" : 58.82221449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRoute 95\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by پلیس راه گناباد (on the right)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "staqE{bceJwIB}JHuRRiHAc@?qEAeJSmJO_N_@sGWyESoOw@eH]eG[ePw@aFWcKi@iR_AoMw@oEWcXgBwRiAsEm@eF}@mKeC{HkCe@OiHaDeEiCuCmBsDmCqB_BwFiEuIwG{@o@MKuN}KeNsKyH{FqD}BqDaBsDeB_FaBkFkA{G{@gG]eGg@KA}I_@_Mu@}RkAkGc@uRcAgF[}TmAwLk@{Na@}Pk@aRg@kTc@yOm@wUYuRm@eMOkFMkKYaNS{J_@oCKkNi@wMaAiKiAyAQuKwAiNoBsMwBcFeAg@_@g@Ok@?q@@wFsAsKsCgOuEuJ_D}OkFcA[{N{E_QuFyMmEyL{DmPuF_MuDgOcFyPqFgNiEoSaH_PgFmNwEoNsE}P{F_OuE}LuEWKqHyCeG}C_H}D{E{CqE_DuIuG}EsE{EsE{GqHaD}D{BuCaKoKwHaH}DmD_GoE_FwCiAw@iGeEyK}J}F_HoGeJoFeJyEeIwEgIyKeR{HgNwJaPiDeFiHoK}FuH_HeJ_HiIkH}IwB{ByCaDoGuGiHeHyNaN{j@ki@kJeJyHiHuMcMuEkEeI_Iu@q@sK{JcYoUsKeI}FyDgGcEgBcAea@aUkPwHmKwEcE{AsDuAsDyAsFcBgEsAmEaBcE{AmBy@kBw@g@UmDyAwDwAyD_BsHsCeFgByJuDgJmD}GcCyFyB{FwBsI}CkIyCsHqCyGiCGC"
+                     },
+                     "start_location" : {
+                        "lat" : 34.4201027,
+                        "lng" : 58.6758154
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "e{}rEq{_fJiC}@mFuBoD_BaIiDqCsAkP}IcFkCcHcEgGiDyE{C_P_J}U_NiKoGsJmFuVwNaLkGwOaJoHqE{HkEmD_ByEiBkGeCs@Qlx@`e@`g@nYvVtNtMxHhh@hZ|L`HjMxGjNtGbMjFnNnFbNdFnh@rRth@pRth@rRlYrKfPdHxOrHdLdGlK`GrKzGpMxIlEbD`GdE|FtEzGrF`FjEpCjCvi@zg@rJ~IlPvOp_@`^zMfMlMxL~IhJlMnNxKxMrJfMhK~NnNxTxBvD~OjYtOlXtDhGxKbPjH~JfArAhFtGxFtG`JxJ`F`FfJvIhHjGtIbH~H`GpH`FfG|DdIzE~JrFdLtFzHlDpPpGtDvA~DpAbPlFtX|IvTnHpJ~C~PrFjVbIlf@`Pph@zPvw@jWzNvE~JnCtJdCpMtC`Ev@nPvCvIrAxIfAdMrArMbArGf@lJf@nWv@xSj@fh@xAdLV~JZfJTpj@zA`e@rAlIZbUnAjUpA`RfAlX|AhLr@fJ`ArFbApH`BlEnAlJlD|JzEhGtDfCjBdFhElCtBdGpEvK~IpKrIbE`DfG|D|EjC|DjBzDdBtDpA|EzAvA^rEhArDt@lDj@bD`@hFf@pCPbI\\lh@xBfe@nBtz@nDbJ`@pL^tKNdHFlG?|JG|DE|N@fD?`IIFU?IGUwIB}JHuRRiHAuFAsUc@_N_@sGWiVkAsh@iCm^iB_ToAcXgBwRiAsEm@eF}@mKeC{HkCoIqD{IwFsDmCqB_BmQaNiA{@{]qXyH{FqD}BeJgE_FaBkFkA{G{@gG]qGi@}I_@_Mu@}RkAkGc@}Y_B}TmAwLk@{Na@}Pk@aRg@kTc@yOm@wUYuRm@eMOwRg@aNS{J_@{Ru@wMaAiKiAoNiBiNoBsMwBcFeAg@_@g@Ok@?q@@wFsAsKsCgOuEs[kK_QwFy_@cMyL{DmPuF_MuDgOcFa`@{LoSaH_PgF}]kL}P{F_OuEuMaFqHyCeG}C_H}D{E{CqE_DuIuGyLgL{GqHaD}D{BuCaKoKuNoM_GoE_FwCsI}FyK}J}F_HoGeJoFeJqLmSyKeR{HgNwJaPiDeFiHoK}FuH_HeJ_HiIkH}IwB{BiLwLiHeHyNaNgv@qt@oWmV{OkOiMmLcYoUsKeIeO}Jmd@eWkPwHmKwEwJqDsDyAsFcBgEsAmEaBqHuCsCmAmDyAwDwAyD_BsHsCeFgByJuDeSqHuNqF_TwHuQ_H"
+         },
+         "summary" : "Route 95",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

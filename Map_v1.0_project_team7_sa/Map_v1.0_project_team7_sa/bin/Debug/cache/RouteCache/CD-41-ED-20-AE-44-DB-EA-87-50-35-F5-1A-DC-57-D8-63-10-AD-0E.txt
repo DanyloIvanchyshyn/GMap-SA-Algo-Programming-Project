@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn9XzWCIuvTgRYlTOVM58Gog",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn9XzWCIuvTgRYlTOVM58Gog",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.1603621,
+               "lng" : 72.88914319999999
+            },
+            "southwest" : {
+               "lat" : 41.1569028,
+               "lng" : 72.8872473
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 416
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 27
+               },
+               "end_address" : "R-191, Kyrgyzstan",
+               "end_location" : {
+                  "lat" : 41.1569028,
+                  "lng" : 72.8872473
+               },
+               "start_address" : "R-191, Kyrgyzstan",
+               "start_location" : {
+                  "lat" : 41.1603621,
+                  "lng" : 72.88914319999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 416
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 41.1569028,
+                        "lng" : 72.8872473
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR-191\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gcfzFcd{{LJDdChAxAp@fMvF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.1603621,
+                        "lng" : 72.88914319999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gcfzFcd{{LrTxJ"
+         },
+         "summary" : "R-191",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

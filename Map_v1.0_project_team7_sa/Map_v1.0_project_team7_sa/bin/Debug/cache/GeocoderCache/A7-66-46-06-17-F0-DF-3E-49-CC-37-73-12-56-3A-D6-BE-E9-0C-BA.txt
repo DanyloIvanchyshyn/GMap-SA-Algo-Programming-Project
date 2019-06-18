@@ -1,0 +1,254 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "9C9P+F9 Kuytun, Irkutsk Oblast, Russia",
+      "global_code" : "9P639C9P+F9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "P-255",
+               "short_name" : "P-255",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yelanskiy",
+               "short_name" : "Yelanskiy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuytunsky District",
+               "short_name" : "Kuytunsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irkutskaya oblast'",
+               "short_name" : "Irkutskaya oblast'",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "P-255, Yelanskiy, Irkutskaya oblast', Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3868026,
+                  "lng" : 101.439203
+               },
+               "southwest" : {
+                  "lat" : 54.3674279,
+                  "lng" : 101.379883
+               }
+            },
+            "location" : {
+               "lat" : 54.3765878,
+               "lng" : 101.4089258
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3868026,
+                  "lng" : 101.439203
+               },
+               "southwest" : {
+                  "lat" : 54.3674279,
+                  "lng" : 101.379883
+               }
+            }
+         },
+         "place_id" : "ChIJx2BVA2DcAl0RlhW80ltvXlI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "665301",
+               "short_name" : "665301",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kuytunsky District",
+               "short_name" : "Kuytunsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irkutsk Oblast",
+               "short_name" : "Irkutsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irkutsk Oblast, Russia, 665301",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.38726699999999,
+                  "lng" : 101.5845731
+               },
+               "southwest" : {
+                  "lat" : 54.225813,
+                  "lng" : 101.4238901
+               }
+            },
+            "location" : {
+               "lat" : 54.292669,
+               "lng" : 101.4853158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.38726699999999,
+                  "lng" : 101.5845731
+               },
+               "southwest" : {
+                  "lat" : 54.225813,
+                  "lng" : 101.4238901
+               }
+            }
+         },
+         "place_id" : "ChIJR5Y8O7_gAl0R0KIcj0Wezec",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuytunsky District",
+               "short_name" : "Kuytunsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irkutsk Oblast",
+               "short_name" : "Irkutsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuytunsky District, Irkutsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.2001481,
+                  "lng" : 102.5926201
+               },
+               "southwest" : {
+                  "lat" : 53.7214469,
+                  "lng" : 100.5930759
+               }
+            },
+            "location" : {
+               "lat" : 54.7282752,
+               "lng" : 101.9165724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2001481,
+                  "lng" : 102.5926201
+               },
+               "southwest" : {
+                  "lat" : 53.7214469,
+                  "lng" : 100.5930759
+               }
+            }
+         },
+         "place_id" : "ChIJx_WicKXpAl0RuuX1PsJOAEE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irkutsk Oblast",
+               "short_name" : "Irkutsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irkutsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.31695599999999,
+                  "lng" : 119.1306879
+               },
+               "southwest" : {
+                  "lat" : 51.1373171,
+                  "lng" : 95.65773999999999
+               }
+            },
+            "location" : {
+               "lat" : 56.13214199999999,
+               "lng" : 103.948625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.31695599999999,
+                  "lng" : 119.1306879
+               },
+               "southwest" : {
+                  "lat" : 51.1373171,
+                  "lng" : 95.65773999999999
+               }
+            }
+         },
+         "place_id" : "ChIJn7wx-uZ5WFwRcJZFUq_GAwE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

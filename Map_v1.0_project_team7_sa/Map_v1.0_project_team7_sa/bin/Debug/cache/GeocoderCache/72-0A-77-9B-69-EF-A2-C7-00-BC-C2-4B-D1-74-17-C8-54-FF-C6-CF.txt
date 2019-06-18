@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "5GG2+4G Dresvyanka, Novosibirsk Oblast, Russia",
+      "global_code" : "9M665GG2+4G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "633593",
+               "short_name" : "633593",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Maslyaninsky District",
+               "short_name" : "Maslyaninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novosibirsk Oblast, Russia, 633593",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2832379,
+                  "lng" : 84.584299
+               },
+               "southwest" : {
+                  "lat" : 54.140249,
+                  "lng" : 84.4210839
+               }
+            },
+            "location" : {
+               "lat" : 54.2101766,
+               "lng" : 84.4938849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2832379,
+                  "lng" : 84.584299
+               },
+               "southwest" : {
+                  "lat" : 54.140249,
+                  "lng" : 84.4210839
+               }
+            }
+         },
+         "place_id" : "ChIJzWMGa9K73kIRG_W72AeBZ8M",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maslyaninsky District",
+               "short_name" : "Maslyaninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maslyaninsky District, Novosibirsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.751576,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 54.078888,
+                  "lng" : 83.7584279
+               }
+            },
+            "location" : {
+               "lat" : 54.3925961,
+               "lng" : 84.4134121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.751576,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 54.078888,
+                  "lng" : 83.7584279
+               }
+            }
+         },
+         "place_id" : "ChIJQVkEtl3E3kIRQSR6c-Yu8k4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novosibirsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            },
+            "location" : {
+               "lat" : 55.4467133,
+               "lng" : 80.1043923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            }
+         },
+         "place_id" : "ChIJc_dpU4GNHUMRPFMGiXZtmN8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

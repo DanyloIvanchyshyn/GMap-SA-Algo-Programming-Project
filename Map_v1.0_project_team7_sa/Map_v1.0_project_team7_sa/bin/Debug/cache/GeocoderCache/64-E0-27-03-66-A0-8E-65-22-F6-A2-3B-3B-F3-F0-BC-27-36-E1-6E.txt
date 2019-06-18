@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "3QM9+X2 Yaruu, Mongolia",
+      "global_code" : "8MWR3QM9+X2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yaruu",
+               "short_name" : "Yaruu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zavkhan",
+               "short_name" : "Zavkhan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1031039,
+                  "lng" : 96.84528709999999
+               },
+               "southwest" : {
+                  "lat" : 48.0464148,
+                  "lng" : 96.7597675
+               }
+            },
+            "location" : {
+               "lat" : 48.0653945,
+               "lng" : 96.78812739999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1031039,
+                  "lng" : 96.84528709999999
+               },
+               "southwest" : {
+                  "lat" : 48.0464148,
+                  "lng" : 96.7597675
+               }
+            }
+         },
+         "place_id" : "ChIJFfThGSU9aV0RFN1S6sLDWi8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yaruu",
+               "short_name" : "Yaruu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zavkhan",
+               "short_name" : "Zavkhan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yaruu, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5702466,
+                  "lng" : 97.1932983
+               },
+               "southwest" : {
+                  "lat" : 47.658913,
+                  "lng" : 95.2439117
+               }
+            },
+            "location" : {
+               "lat" : 48.1231559,
+               "lng" : 96.7135921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5702466,
+                  "lng" : 97.1932983
+               },
+               "southwest" : {
+                  "lat" : 47.658913,
+                  "lng" : 95.2439117
+               }
+            }
+         },
+         "place_id" : "ChIJu5Zh7xJVQl0RtAp2gT8uQbI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zavkhan",
+               "short_name" : "Zavkhan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zavkhan, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.041237,
+                  "lng" : 99.21858709999999
+               },
+               "southwest" : {
+                  "lat" : 46.583037,
+                  "lng" : 93.17390499999999
+               }
+            },
+            "location" : {
+               "lat" : 48.2388147,
+               "lng" : 96.07030189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.041237,
+                  "lng" : 99.21858709999999
+               },
+               "southwest" : {
+                  "lat" : 46.583037,
+                  "lng" : 93.17390499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-VlQh11GQF0R7i5N_XZzqWU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

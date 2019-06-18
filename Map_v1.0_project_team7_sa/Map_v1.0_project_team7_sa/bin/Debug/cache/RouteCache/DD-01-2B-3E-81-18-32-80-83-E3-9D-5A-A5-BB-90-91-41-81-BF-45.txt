@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiahkz2KxskMR1knvEO7R8v8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiahkz2KxskMR1knvEO7R8v8",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 53.9553389,
+               "lng" : 70.29982339999999
+            },
+            "southwest" : {
+               "lat" : 53.9536096,
+               "lng" : 70.29696919999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 268
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 27
+               },
+               "end_address" : "Ulitsa Kuybysheva, Yasnaya Polyana 150000, Kazakhstan",
+               "end_location" : {
+                  "lat" : 53.9536096,
+                  "lng" : 70.29696919999999
+               },
+               "start_address" : "Ulitsa Kuybysheva, Yasnaya Polyana 150000, Kazakhstan",
+               "start_location" : {
+                  "lat" : 53.9553389,
+                  "lng" : 70.29982339999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 268
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 53.9536096,
+                        "lng" : 70.29696919999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eUlitsa Kuybysheva\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{cihI{lalLxIxP"
+                     },
+                     "start_location" : {
+                        "lat" : 53.9553389,
+                        "lng" : 70.29982339999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{cihI{lalLxIxP"
+         },
+         "summary" : "Ulitsa Kuybysheva",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

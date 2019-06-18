@@ -1,0 +1,194 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "8MWR2W46+HF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aldarkhaan",
+               "short_name" : "Aldarkhaan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zavkhan",
+               "short_name" : "Zavkhan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0111461,
+                  "lng" : 96.9998038
+               },
+               "southwest" : {
+                  "lat" : 47.9693529,
+                  "lng" : 96.9035447
+               }
+            },
+            "location" : {
+               "lat" : 48.0005053,
+               "lng" : 96.96165619999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0111461,
+                  "lng" : 96.9998038
+               },
+               "southwest" : {
+                  "lat" : 47.9693529,
+                  "lng" : 96.9035447
+               }
+            }
+         },
+         "place_id" : "ChIJnyifbWUlaV0RNBzFcz6CWng",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldarkhaan",
+               "short_name" : "Aldarkhaan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zavkhan",
+               "short_name" : "Zavkhan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aldarkhaan, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0615609,
+                  "lng" : 97.73437509999999
+               },
+               "southwest" : {
+                  "lat" : 47.2829556,
+                  "lng" : 95.3112031
+               }
+            },
+            "location" : {
+               "lat" : 47.7981996,
+               "lng" : 96.8274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0615609,
+                  "lng" : 97.73437509999999
+               },
+               "southwest" : {
+                  "lat" : 47.2829556,
+                  "lng" : 95.3112031
+               }
+            }
+         },
+         "place_id" : "ChIJ5RmC9L6XQl0RTpRzpFYYfLA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zavkhan",
+               "short_name" : "Zavkhan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zavkhan, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.041237,
+                  "lng" : 99.21858709999999
+               },
+               "southwest" : {
+                  "lat" : 46.583037,
+                  "lng" : 93.17390499999999
+               }
+            },
+            "location" : {
+               "lat" : 48.2388147,
+               "lng" : 96.07030189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.041237,
+                  "lng" : 99.21858709999999
+               },
+               "southwest" : {
+                  "lat" : 46.583037,
+                  "lng" : 93.17390499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-VlQh11GQF0R7i5N_XZzqWU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

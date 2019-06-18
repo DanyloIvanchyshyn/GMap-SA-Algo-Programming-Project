@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFfThGSU9aV0RFN1S6sLDWi8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFfThGSU9aV0RFN1S6sLDWi8",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 48.0735592,
+               "lng" : 96.80533530000001
+            },
+            "southwest" : {
+               "lat" : 48.0568026,
+               "lng" : 96.7752385
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 km",
+                  "value" : 2954
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 177
+               },
+               "end_address" : "Unnamed Road, Mongolia",
+               "end_location" : {
+                  "lat" : 48.0735592,
+                  "lng" : 96.7752385
+               },
+               "start_address" : "Unnamed Road, Mongolia",
+               "start_location" : {
+                  "lat" : 48.0568026,
+                  "lng" : 96.80533530000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "3.0 km",
+                        "value" : 2954
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 177
+                     },
+                     "end_location" : {
+                        "lat" : 48.0735592,
+                        "lng" : 96.7752385
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_bidHkhzmQABQvAYfAeBhEe@|@c@x@mClDiA~@[d@A@_@`A_@fBY`Am@hAa@r@Uz@AFa@dBu@`CaAjCA@{@|BoAvCaAtCSx@Or@O~AUlBWdBg@hBsA`Ce@j@aAjAm@t@SXOd@Mp@Ib@]dBk@`B[d@[Z[f@Yp@Sd@IJWZQTYv@sB|Ea@~@cApCs@bBU\\k@v@oA~BeB`Dg@~@cAbBm@dAUb@aArBoAxBCDc@z@SX[`@[b@Sj@w@nBABy@~AKP{@tAs@zAo@|Am@fAq@n@w@x@iAlA_AjA{@lA"
+                     },
+                     "start_location" : {
+                        "lat" : 48.0568026,
+                        "lng" : 96.80533530000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_bidHkhzmQSzAYfAeBhEiAvBmClDiA~@]f@_@`A_@fBY`Am@hAa@r@Uz@c@lBu@`CaAjC}@~BoAvCaAtCc@lBe@lEWdBg@hBsA`Ce@j@oB`CSXOd@WtA]dBk@`Bw@`A[f@Yp@]p@i@p@mCtGeBpEs@bBU\\k@v@oA~BmC`FqBhDwAvCsA~Bw@tAw@dAkAzC{@bBgAfBcBxDm@fAq@n@aCfC{BxC"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

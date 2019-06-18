@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJieYUmNUhSF0RKmdd0fMcp3c",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJieYUmNUhSF0RKmdd0fMcp3c",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.9577915,
+               "lng" : 92.6055193
+            },
+            "southwest" : {
+               "lat" : 49.9565491,
+               "lng" : 92.59856739999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 520
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 23
+               },
+               "end_address" : "Unnamed Road, Mongolia",
+               "end_location" : {
+                  "lat" : 49.9565491,
+                  "lng" : 92.59856739999999
+               },
+               "start_address" : "Unnamed Road, Mongolia",
+               "start_location" : {
+                  "lat" : 49.9577915,
+                  "lng" : 92.6055193
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 520
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 49.9565491,
+                        "lng" : 92.59856739999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ek|oHo_ftP?d@?`E`AzKvAfJnAhILv@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.9577915,
+                        "lng" : 92.6055193
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ek|oHo_ftP?fF`AzKvAfJ|A`K"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

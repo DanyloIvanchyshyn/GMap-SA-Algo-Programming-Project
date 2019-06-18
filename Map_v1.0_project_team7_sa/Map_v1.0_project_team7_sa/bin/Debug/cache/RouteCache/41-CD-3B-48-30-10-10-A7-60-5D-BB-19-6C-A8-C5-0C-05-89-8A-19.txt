@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJUVX8j2BkYzYR_EsvkWmp-TI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ77rtKVhkYzYRt4novtsbbrk",
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 34.2897365,
+               "lng" : 109.0490107
+            },
+            "southwest" : {
+               "lat" : 34.2788898,
+               "lng" : 109.0477667
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1212
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 62
+               },
+               "end_address" : "China, Shaanxi, Xi'an, Baqiao, 梁家街",
+               "end_location" : {
+                  "lat" : 34.2788898,
+                  "lng" : 109.0477667
+               },
+               "start_address" : "Dong San Huan, Baqiao Qu, Xian Shi, Shaanxi Sheng, China, 710000",
+               "start_location" : {
+                  "lat" : 34.2897365,
+                  "lng" : 109.0490107
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1212
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 34.2788898,
+                        "lng" : 109.0477667
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e东三环\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{ehpEisqxSd@?nJPjBJpDR~BHvCRtCRrD\\~F\\hEXxK|@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.2897365,
+                        "lng" : 109.0490107
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{ehpEisqxStKP|G^vG\\hIp@hMv@xK|@"
+         },
+         "summary" : "东三环",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

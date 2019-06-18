@@ -1,0 +1,190 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "9V75+59 Mogoyn Bayshing, Mongolia",
+      "global_code" : "8MRQ9V75+59"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Togrug-Altai Road",
+               "short_name" : "Togrug-Altai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Govi-Altai",
+               "short_name" : "Govi-Altai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Togrug-Altai Rd, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3635479,
+                  "lng" : 95.90425689999999
+               },
+               "southwest" : {
+                  "lat" : 46.3611231,
+                  "lng" : 95.85014459999999
+               }
+            },
+            "location" : {
+               "lat" : 46.3613025,
+               "lng" : 95.87707949999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3636844802915,
+                  "lng" : 95.90425689999999
+               },
+               "southwest" : {
+                  "lat" : 46.3609865197085,
+                  "lng" : 95.85014459999999
+               }
+            }
+         },
+         "place_id" : "ChIJqWaCT6EiZ10RqGxiTXI9NN0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yesunbulag",
+               "short_name" : "Yesunbulag",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Govi-Altai",
+               "short_name" : "Govi-Altai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yesunbulag, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4489758,
+                  "lng" : 96.91521229999999
+               },
+               "southwest" : {
+                  "lat" : 45.9210129,
+                  "lng" : 95.6231116
+               }
+            },
+            "location" : {
+               "lat" : 46.2310069,
+               "lng" : 96.23653259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4489758,
+                  "lng" : 96.91521229999999
+               },
+               "southwest" : {
+                  "lat" : 45.9210129,
+                  "lng" : 95.6231116
+               }
+            }
+         },
+         "place_id" : "ChIJVagp0vkeZ10Ru-lMxWNhc7w",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Govi-Altai",
+               "short_name" : "Govi-Altai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Govi-Altai, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7823939,
+                  "lng" : 98.466612
+               },
+               "southwest" : {
+                  "lat" : 42.70520399999999,
+                  "lng" : 93.063152
+               }
+            },
+            "location" : {
+               "lat" : 45.4511227,
+               "lng" : 95.8505766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7823939,
+                  "lng" : 98.466612
+               },
+               "southwest" : {
+                  "lat" : 42.70520399999999,
+                  "lng" : 93.063152
+               }
+            }
+         },
+         "place_id" : "ChIJgUY8R1LoZl0RmY_4phiJjsY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            },
+            "location" : {
+               "lat" : 46.862496,
+               "lng" : 103.846656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.148355,
+                  "lng" : 119.9315098
+               },
+               "southwest" : {
+                  "lat" : 41.581833,
+                  "lng" : 87.7344789
+               }
+            }
+         },
+         "place_id" : "ChIJS22qaQYFJzYRluDmNzkh3eA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

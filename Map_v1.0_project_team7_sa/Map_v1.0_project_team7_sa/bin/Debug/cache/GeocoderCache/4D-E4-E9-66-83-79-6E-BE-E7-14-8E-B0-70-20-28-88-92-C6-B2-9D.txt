@@ -1,0 +1,189 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "9M56RQHC+C3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "659125",
+               "short_name" : "659125",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Altai Krai",
+               "short_name" : "Altai Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altai Krai, Russia, 659125",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.86545100000001,
+                  "lng" : 84.849074
+               },
+               "southwest" : {
+                  "lat" : 53.696428,
+                  "lng" : 84.63286309999999
+               }
+            },
+            "location" : {
+               "lat" : 53.7735519,
+               "lng" : 84.7360262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.86545100000001,
+                  "lng" : 84.849074
+               },
+               "southwest" : {
+                  "lat" : 53.696428,
+                  "lng" : 84.63286309999999
+               }
+            }
+         },
+         "place_id" : "ChIJv-2GjkMP3EIRspjVFjq3C8A",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zarinskiy Rayon",
+               "short_name" : "Zarinskiy Rayon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Altai Krai",
+               "short_name" : "Altai Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zarinskiy Rayon, Altai Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2259891,
+                  "lng" : 86.33158299999999
+               },
+               "southwest" : {
+                  "lat" : 53.4733199,
+                  "lng" : 84.2028919
+               }
+            },
+            "location" : {
+               "lat" : 53.90140599999999,
+               "lng" : 85.187963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2259891,
+                  "lng" : 86.33158299999999
+               },
+               "southwest" : {
+                  "lat" : 53.4733199,
+                  "lng" : 84.2028919
+               }
+            }
+         },
+         "place_id" : "ChIJBWAcfLvn20IRJo-xbM5WOCg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altai Krai",
+               "short_name" : "Altai Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altai Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.45086,
+                  "lng" : 87.16908889999999
+               },
+               "southwest" : {
+                  "lat" : 50.6395136,
+                  "lng" : 77.8891551
+               }
+            },
+            "location" : {
+               "lat" : 51.7936298,
+               "lng" : 82.6758596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.45086,
+                  "lng" : 87.16908889999999
+               },
+               "southwest" : {
+                  "lat" : 50.6395136,
+                  "lng" : 77.8891551
+               }
+            }
+         },
+         "place_id" : "ChIJ_0EiPofU50IR1TtsjXACf-4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,195 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "8RQ4+8C Khazratsho, Uzbekistan",
+      "global_code" : "8JHH8RQ4+8C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R-120",
+               "short_name" : "R-120",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chartak District",
+               "short_name" : "Chartak District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Namangan Region",
+               "short_name" : "Namangan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R-120, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.34341269999999,
+                  "lng" : 71.8191798
+               },
+               "southwest" : {
+                  "lat" : 41.3368166,
+                  "lng" : 71.8023001
+               }
+            },
+            "location" : {
+               "lat" : 41.3398844,
+               "lng" : 71.8108944
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.34341269999999,
+                  "lng" : 71.8191798
+               },
+               "southwest" : {
+                  "lat" : 41.3368166,
+                  "lng" : 71.8023001
+               }
+            }
+         },
+         "place_id" : "ChIJZVHdtp6jpDgRHuFCy4Sdsc0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chartak District",
+               "short_name" : "Chartak District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Namangan Region",
+               "short_name" : "Namangan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chartak District, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4482594,
+                  "lng" : 71.92405699999999
+               },
+               "southwest" : {
+                  "lat" : 41.0327512,
+                  "lng" : 71.6983223
+               }
+            },
+            "location" : {
+               "lat" : 41.1927359,
+               "lng" : 71.8334145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4482594,
+                  "lng" : 71.92405699999999
+               },
+               "southwest" : {
+                  "lat" : 41.0327512,
+                  "lng" : 71.6983223
+               }
+            }
+         },
+         "place_id" : "ChIJZ6FV83ivpDgRST_39IUYcZ8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namangan Region",
+               "short_name" : "Namangan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Namangan Region, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.554649,
+                  "lng" : 72.182816
+               },
+               "southwest" : {
+                  "lat" : 40.6463321,
+                  "lng" : 70.34220809999999
+               }
+            },
+            "location" : {
+               "lat" : 41.0510037,
+               "lng" : 71.097317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.554649,
+                  "lng" : 72.182816
+               },
+               "southwest" : {
+                  "lat" : 40.6463321,
+                  "lng" : 70.34220809999999
+               }
+            }
+         },
+         "place_id" : "ChIJMUK15QjHpDgRRN_isGvNcU4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.590075,
+                  "lng" : 73.148946
+               },
+               "southwest" : {
+                  "lat" : 37.1722571,
+                  "lng" : 55.9982179
+               }
+            },
+            "location" : {
+               "lat" : 41.377491,
+               "lng" : 64.585262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.590075,
+                  "lng" : 73.148946
+               },
+               "southwest" : {
+                  "lat" : 37.1722571,
+                  "lng" : 55.9982179
+               }
+            }
+         },
+         "place_id" : "ChIJsXbWpSCLrjgRIB6Efq1tCso",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFfThGSU9aV0RFN1S6sLDWi8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnyifbWUlaV0RNBzFcz6CWng",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 48.0642641,
+               "lng" : 96.9111283
+            },
+            "southwest" : {
+               "lat" : 48.00639409999999,
+               "lng" : 96.78988989999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "12.2 km",
+                  "value" : 12226
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 734
+               },
+               "end_address" : "Unnamed Road, Mongolia",
+               "end_location" : {
+                  "lat" : 48.00639409999999,
+                  "lng" : 96.9111283
+               },
+               "start_address" : "Unnamed Road, Mongolia",
+               "start_location" : {
+                  "lat" : 48.0642641,
+                  "lng" : 96.78988989999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "12.2 km",
+                        "value" : 12226
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 734
+                     },
+                     "end_location" : {
+                        "lat" : 48.00639409999999,
+                        "lng" : 96.9111283
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "spjdHygwmQDM\\eBHc@Lq@Ne@RYl@u@`AkAd@k@rAaCf@iBVeBTmBN_BNs@Ry@`AuCnAwCz@}B@A`AkCt@aC`@eB@GT{@`@s@l@iAXaA^gB^aA@AZe@hA_AlCmDb@y@d@}@dBiEXgAPwAZwA\\mARm@f@}AhAsDJWzCkJ`CcHPg@d@yApA{DbC}Gl@kBVs@bBeF|@kC\\sAx@aEf@oCh@qC~AcIfAeFHc@vAuHTqALw@ZaBbAgFz@oGHe@f@iEbB_LXiBd@_DjA}KB[HeARkCPwBVyHJ_F?SZkIJ}DVeHHqDDyB@_ACu@@eACq@C_ACcADy@LmAB]HyA?yDCgF?AC{KCiIAgF?o@?kCM{D@wBP}AHWTq@`AsCb@mBXeCNaCJqARuBNoCLeF\\mG^kHHuALmCHu@@{@LkALs@Fg@?g@AsCOoMAkFLuC\\oBJ_@ZsA\\{@|@qAbA}A@A|@cAt@m@@AlAq@TOt@UtAUpBSbCW`BW~@g@JKXYVa@\\s@b@gAj@q@x@u@~As@`@QdCeAlCcAbAc@NQFUBO?]@SHYRUv@]lBu@tB}@nCqAj@[LKj@g@XYVS\\Yp@]R[j@a@bBu@rB_AbFiBrFmBlCy@~@e@hAk@dCgBpB_B|CoBrA_ATM^Uf@QbB]xEaAtE_A|@Uv@S`@MxBo@jC_AxAk@pAe@jBm@hAg@dAc@t@i@xAeAzAqAVUtBsBdBgB`AiAr@_ABEJSd@y@h@iAp@mA|@cCHa@Ps@ReAN}@NoBJ_ABu@BwBHcARcAViAZiAl@uAR_@h@eAt@iBT}@Lo@De@Fo@Ji@`@cBFOJU|@eAr@{@X[r@s@v@sAr@yALWVk@Lm@b@wCd@}CTiAPa@ZWd@Yr@g@vAsAjCyCv@eA^{@b@yA@GLm@"
+                     },
+                     "start_location" : {
+                        "lat" : 48.0642641,
+                        "lng" : 96.78988989999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "spjdHygwmQz@iENe@RYnBaCd@k@rAaCf@iBVeBd@mEb@mB`AuCnAwC|@_C`AkCt@aCb@mBT{@`@s@l@iAXaA^gB^aA\\g@hA_AlCmDhAwBdBiEXgAPwAZwAp@{BpBqGfDcKrCkIvBuGpDiKzByG|@kC\\sA`BqIhCuMpAiGlBgKh@yCbAgFz@oGp@oF|BiOd@_DjA}KLaBd@cGb@yOZ_Jb@cNNkHAuB@eACq@GcCRgCLwBCaLC}KEmVM{D@wBP}AHWvAeEb@mBXeCZsERuBNoCLeF\\mGh@aKLmCHu@@{@LkAT{AA{DOoMAkFLuC\\oBf@sB\\{@|@qAdA_B|@cAt@m@nAs@TOt@UfEi@bCW`BWjAs@XYVa@`A{Bj@q@x@u@`CeArGiCbAc@NQJe@@q@HYRUdDsAdGoCx@g@dAaAt@m@p@]R[j@a@bBu@rB_AbFiBrFmBlCy@hCqAdCgBpB_BpFoDt@c@f@QbB]nLaCtBi@zC}@dFkB|DsAnCkAnCoBrBgBzE{EtBiCNYnAcCp@mA|@cCZuAb@cCZoDFmDHcARcAr@sC`AuBh@eAt@iBb@mBLuAl@mCRe@pBaClAoAv@sAr@yAd@cAp@eEz@gFPa@ZWxAaAvAsAjCyCv@eA^{@d@aBLm@"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

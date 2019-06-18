@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPZv5-pFHx0IRrHIMrSUguqc",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPZv5-pFHx0IRrHIMrSUguqc",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.2584978,
+               "lng" : 85.7168636
+            },
+            "southwest" : {
+               "lat" : 50.2580222,
+               "lng" : 85.7143098
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 189
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 10
+               },
+               "end_address" : "R373, Altay Republits, Russia, 649475",
+               "end_location" : {
+                  "lat" : 50.2580222,
+                  "lng" : 85.7168636
+               },
+               "start_address" : "R373, Altay Republits, Russia, 649475",
+               "start_location" : {
+                  "lat" : 50.2584978,
+                  "lng" : 85.7143098
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 50.2580222,
+                        "lng" : 85.7168636
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eР373\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sbwqHmadjO~A}N"
+                     },
+                     "start_location" : {
+                        "lat" : 50.2584978,
+                        "lng" : 85.7143098
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sbwqHmadjO~A}N"
+         },
+         "summary" : "Р373",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,249 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "7X2V+5W Charbak, Kyrgyzstan",
+      "global_code" : "8JHJ7X2V+5W"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R-191",
+               "short_name" : "R-191",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bazar Korgon",
+               "short_name" : "Bazar Korgon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jalal-Abad Region",
+               "short_name" : "Jalal-Abad Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R-191, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.252506,
+                  "lng" : 72.99909
+               },
+               "southwest" : {
+                  "lat" : 41.2234742,
+                  "lng" : 72.94693599999999
+               }
+            },
+            "location" : {
+               "lat" : 41.2403592,
+               "lng" : 72.9708244
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.252506,
+                  "lng" : 72.99909
+               },
+               "southwest" : {
+                  "lat" : 41.2234742,
+                  "lng" : 72.94693599999999
+               }
+            }
+         },
+         "place_id" : "ChIJQ_51XHMzvTgRwGtl1Rmpfe8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charbak",
+               "short_name" : "Charbak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bazar Korgon",
+               "short_name" : "Bazar Korgon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jalal-Abad Region",
+               "short_name" : "Jalal-Abad Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charbak, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2781935,
+                  "lng" : 73.0141069
+               },
+               "southwest" : {
+                  "lat" : 41.248967,
+                  "lng" : 72.99239159999999
+               }
+            },
+            "location" : {
+               "lat" : 41.252913,
+               "lng" : 73.0080576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2781935,
+                  "lng" : 73.0141069
+               },
+               "southwest" : {
+                  "lat" : 41.248967,
+                  "lng" : 72.99239159999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9bIFPJg0vTgRGaLInBS0u_M",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bazar Korgon",
+               "short_name" : "Bazar Korgon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jalal-Abad Region",
+               "short_name" : "Jalal-Abad Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bazar Korgon, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4972655,
+                  "lng" : 73.1977844
+               },
+               "southwest" : {
+                  "lat" : 40.8569285,
+                  "lng" : 72.56040569999999
+               }
+            },
+            "location" : {
+               "lat" : 41.1993968,
+               "lng" : 72.99329689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4972655,
+                  "lng" : 73.1977844
+               },
+               "southwest" : {
+                  "lat" : 40.8569285,
+                  "lng" : 72.56040569999999
+               }
+            }
+         },
+         "place_id" : "ChIJM4XoS-W1ojgRc_jgKud39cc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalal-Abad Region",
+               "short_name" : "Jalal-Abad Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jalal-Abad Region, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.156296,
+                  "lng" : 74.91057930000001
+               },
+               "southwest" : {
+                  "lat" : 40.256115,
+                  "lng" : 70.1807214
+               }
+            },
+            "location" : {
+               "lat" : 41.106808,
+               "lng" : 72.8988069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.156296,
+                  "lng" : 74.91057930000001
+               },
+               "southwest" : {
+                  "lat" : 40.256115,
+                  "lng" : 70.1807214
+               }
+            }
+         },
+         "place_id" : "ChIJZ_Y3HKc3ozgRGVCldXSjb00",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2653569,
+                  "lng" : 80.2281514
+               },
+               "southwest" : {
+                  "lat" : 39.180254,
+                  "lng" : 69.250998
+               }
+            },
+            "location" : {
+               "lat" : 41.20438,
+               "lng" : 74.766098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2653569,
+                  "lng" : 80.2281514
+               },
+               "southwest" : {
+                  "lat" : 39.180254,
+                  "lng" : 69.250998
+               }
+            }
+         },
+         "place_id" : "ChIJ8yfp_B04lzgRM8SITrdYECg",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,259 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "6X6W+39 Nostanovochnaya Platforma Otgonka, Novosibirsk Oblast, Russia",
+      "global_code" : "9M756X6W+39"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nostanovochnaya Platforma Otgonka",
+               "short_name" : "Nostanovochnaya Platforma Otgonka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toguchinsky District",
+               "short_name" : "Toguchinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirskaya oblast'",
+               "short_name" : "Novosibirskaya oblast'",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "633448",
+               "short_name" : "633448",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Nostanovochnaya Platforma Otgonka, Novosibirskaya oblast', Russia, 633448",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.212566,
+                  "lng" : 83.9857564
+               },
+               "southwest" : {
+                  "lat" : 55.21170919999999,
+                  "lng" : 83.9832696
+               }
+            },
+            "location" : {
+               "lat" : 55.2120172,
+               "lng" : 83.9845103
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.21348658029149,
+                  "lng" : 83.9858619802915
+               },
+               "southwest" : {
+                  "lat" : 55.21078861970849,
+                  "lng" : 83.9831640197085
+               }
+            }
+         },
+         "place_id" : "ChIJQxwT4TJk30IReEr4v9oB60s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "633448",
+               "short_name" : "633448",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Toguchinsky District",
+               "short_name" : "Toguchinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novosibirsk Oblast, Russia, 633448",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.22901410000001,
+                  "lng" : 84.1712699
+               },
+               "southwest" : {
+                  "lat" : 55.079348,
+                  "lng" : 83.9200269
+               }
+            },
+            "location" : {
+               "lat" : 55.149942,
+               "lng" : 84.1058432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.22901410000001,
+                  "lng" : 84.1712699
+               },
+               "southwest" : {
+                  "lat" : 55.079348,
+                  "lng" : 83.9200269
+               }
+            }
+         },
+         "place_id" : "ChIJ-QvrIJZo30IREZwQ6UHesp8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toguchinsky District",
+               "short_name" : "Toguchinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toguchinsky District, Novosibirsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4999389,
+                  "lng" : 85.0785501
+               },
+               "southwest" : {
+                  "lat" : 54.537855,
+                  "lng" : 83.393731
+               }
+            },
+            "location" : {
+               "lat" : 55.091218,
+               "lng" : 84.26643639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4999389,
+                  "lng" : 85.0785501
+               },
+               "southwest" : {
+                  "lat" : 54.537855,
+                  "lng" : 83.393731
+               }
+            }
+         },
+         "place_id" : "ChIJSykoL5JA30IRwGGHdnZnNx4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novosibirsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            },
+            "location" : {
+               "lat" : 55.4467133,
+               "lng" : 80.1043923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            }
+         },
+         "place_id" : "ChIJc_dpU4GNHUMRPFMGiXZtmN8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

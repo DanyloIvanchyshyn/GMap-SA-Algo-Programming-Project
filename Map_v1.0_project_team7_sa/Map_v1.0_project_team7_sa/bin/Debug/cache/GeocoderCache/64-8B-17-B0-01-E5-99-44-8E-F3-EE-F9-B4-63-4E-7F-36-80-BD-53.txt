@@ -1,0 +1,313 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "X842+CC Yasnaya Polyana, Kazakhstan",
+      "global_code" : "9J5GX842+CC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ulitsa Kuybysheva",
+               "short_name" : "Ulitsa Kuybysheva",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yasnaya Polyana",
+               "short_name" : "Yasnaya Polyana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taiynsha District",
+               "short_name" : "Taiynsha District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Kazakhstan Province",
+               "short_name" : "North Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "150000",
+               "short_name" : "150000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ulitsa Kuybysheva, Yasnaya Polyana 150000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9576695,
+                  "lng" : 70.3036147
+               },
+               "southwest" : {
+                  "lat" : 53.948608,
+                  "lng" : 70.2867349
+               }
+            },
+            "location" : {
+               "lat" : 53.95278649999999,
+               "lng" : 70.2956107
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9576695,
+                  "lng" : 70.3036147
+               },
+               "southwest" : {
+                  "lat" : 53.948608,
+                  "lng" : 70.2867349
+               }
+            }
+         },
+         "place_id" : "ChIJiahkz2KxskMR1knvEO7R8v8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yasnaya Polyana",
+               "short_name" : "Yasnaya Polyana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taiynsha District",
+               "short_name" : "Taiynsha District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Kazakhstan Province",
+               "short_name" : "North Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "150000",
+               "short_name" : "150000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yasnaya Polyana 150000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.96259999999999,
+                  "lng" : 70.30314469999999
+               },
+               "southwest" : {
+                  "lat" : 53.9362836,
+                  "lng" : 70.25233279999999
+               }
+            },
+            "location" : {
+               "lat" : 53.9507404,
+               "lng" : 70.2756462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.96259999999999,
+                  "lng" : 70.30314469999999
+               },
+               "southwest" : {
+                  "lat" : 53.9362836,
+                  "lng" : 70.25233279999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ7fYmV-xskMRSMby1gZTtDE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taiynsha District",
+               "short_name" : "Taiynsha District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Kazakhstan Province",
+               "short_name" : "North Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taiynsha District, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3629579,
+                  "lng" : 71.15020749999999
+               },
+               "southwest" : {
+                  "lat" : 53.2849215,
+                  "lng" : 68.68806839999999
+               }
+            },
+            "location" : {
+               "lat" : 53.7243505,
+               "lng" : 70.55619879999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3629579,
+                  "lng" : 71.15020749999999
+               },
+               "southwest" : {
+                  "lat" : 53.2849215,
+                  "lng" : 68.68806839999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4ePdq2bNskMRAcj6ZNZQ2tg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150000",
+               "short_name" : "150000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "North Kazakhstan Province",
+               "short_name" : "North Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "150000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.436805,
+                  "lng" : 73.9530944
+               },
+               "southwest" : {
+                  "lat" : 52.1991903,
+                  "lng" : 65.9742737
+               }
+            },
+            "location" : {
+               "lat" : 54.1622066,
+               "lng" : 69.9387071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.436805,
+                  "lng" : 73.9530944
+               },
+               "southwest" : {
+                  "lat" : 52.1991903,
+                  "lng" : 65.9742737
+               }
+            }
+         },
+         "place_id" : "ChIJjfR72pd4VEIRg8fftnmcqkk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Kazakhstan Province",
+               "short_name" : "North Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Kazakhstan Province, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.431812,
+                  "lng" : 73.96027599999999
+               },
+               "southwest" : {
+                  "lat" : 52.1932081,
+                  "lng" : 65.9671369
+               }
+            },
+            "location" : {
+               "lat" : 54.1622066,
+               "lng" : 69.9387071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.431812,
+                  "lng" : 73.96027599999999
+               },
+               "southwest" : {
+                  "lat" : 52.1932081,
+                  "lng" : 65.9671369
+               }
+            }
+         },
+         "place_id" : "ChIJm7LVRW-Xs0MR9ROu0UE-HpY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            },
+            "location" : {
+               "lat" : 48.019573,
+               "lng" : 66.92368399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4419839,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 40.5685841,
+                  "lng" : 46.493672
+               }
+            }
+         },
+         "place_id" : "ChIJR6n87AcQqTgRGw6z5C-Ee18",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
